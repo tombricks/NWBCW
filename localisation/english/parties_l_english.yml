@@ -37,4 +37,8 @@
  SUBIDEOLOGY_Mao_Zedong_Thought_ADJ: "Mao Zedong Thought"
  SUBIDEOLOGY_Socialism: "Socialism"
  SUBIDEOLOGY_Socialism_ADJ: "Socialist"
+ SUBIDEOLOGY_Marxism: "Marxism"
+ SUBIDEOLOGY_Marxism_ADJ: "Marxist"
+ SUBIDEOLOGY_Leninism: "Leninism"
+ SUBIDEOLOGY_Leninism_ADJ: "Leninist"
  # Script-SubideologyLoc

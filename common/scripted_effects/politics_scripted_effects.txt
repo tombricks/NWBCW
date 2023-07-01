@@ -8,5 +8,7 @@ Remove_Subideology = {
 	if = { limit = { has_country_leader_with_trait = SUBIDEOLOGY_Marxism_Leninism } remove_country_leader_trait = SUBIDEOLOGY_Marxism_Leninism }
 	if = { limit = { has_country_leader_with_trait = SUBIDEOLOGY_Mao_Zedong_Thought } remove_country_leader_trait = SUBIDEOLOGY_Mao_Zedong_Thought }
 	if = { limit = { has_country_leader_with_trait = SUBIDEOLOGY_Socialism } remove_country_leader_trait = SUBIDEOLOGY_Socialism }
+	if = { limit = { has_country_leader_with_trait = SUBIDEOLOGY_Marxism } remove_country_leader_trait = SUBIDEOLOGY_Marxism }
+	if = { limit = { has_country_leader_with_trait = SUBIDEOLOGY_Leninism } remove_country_leader_trait = SUBIDEOLOGY_Leninism }
 	# Script-Remove_Subideology
 }

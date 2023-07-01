@@ -1,5 +1,6 @@
 subideologies = [
-    [ "Socialism", "Socialism", "Socialist" ]
+    [ "Marxism", "Marxism", "Marxist" ],
+    [ "Leninism", "Leninism", "Leninist" ]
 ]
 
 # Scripted Loc
