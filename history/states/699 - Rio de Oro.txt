@@ -1,0 +1,16 @@
+state = {
+	id = 699
+	name = "STATE_699" # Rio de Oro
+	manpower = 1
+	state_category = wasteland
+	
+	history = {
+		owner = ZZZ
+	}
+	
+	provinces = {
+		4920 5012 7979 8038 8111 10875
+	}
+	
+	local_supplies = 10
+}

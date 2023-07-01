@@ -1,0 +1,16 @@
+state = {
+	id = 311
+	name = "STATE_311" # British Honduras
+	manpower = 1
+	state_category = wasteland
+	
+	history = {
+		owner = ZZZ
+	}
+	
+	provinces = {
+		2077
+	}
+	
+	local_supplies = 10
+}

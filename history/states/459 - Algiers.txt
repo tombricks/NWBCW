@@ -1,0 +1,16 @@
+state = {
+	id = 459
+	name = "STATE_459" # Algiers
+	manpower = 1
+	state_category = wasteland
+	
+	history = {
+		owner = ZZZ
+	}
+	
+	provinces = {
+		1013 1145 4116 4131 4146 7132 9964 11923 11939 12760
+	}
+	
+	local_supplies = 10
+}

@@ -1,0 +1,16 @@
+state = {
+	id = 778
+	name = "STATE_778" # Upper Volta
+	manpower = 1
+	state_category = wasteland
+	
+	history = {
+		owner = ZZZ
+	}
+	
+	provinces = {
+		2001 7950 7983 8071 10836 12851
+	}
+	
+	local_supplies = 10
+}

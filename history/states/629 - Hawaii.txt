@@ -1,0 +1,16 @@
+state = {
+	id = 629
+	name = "STATE_629" # Hawaii
+	manpower = 1
+	state_category = wasteland
+	
+	history = {
+		owner = ZZZ
+	}
+	
+	provinces = {
+		4180 7112 7195 10048 12021
+	}
+	
+	local_supplies = 10
+}

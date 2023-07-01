@@ -1,0 +1,23 @@
+capital = 608
+
+set_cosmetic_tag = CHI_PRC
+
+recruit_character = CHI_Deng_Liqun
+
+set_popularities = {
+	Pro_China = 100
+}
+set_politics = {
+	ruling_party = Pro_China
+	last_election = "1980.1.1"
+	election_frequency = 60
+	elections_allowed = no
+}
+
+create_faction = CHI_Bloc
+add_to_faction = CHI
+
+CHI_Deng_Liqun = {
+	set_variable = { Portrait_Code = 0 }
+	set_variable = { Portrait_Max = 0 }
+}

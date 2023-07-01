@@ -1,0 +1,16 @@
+state = {
+	id = 764
+	name = "STATE_764" # West Banat
+	manpower = 1
+	state_category = wasteland
+	
+	history = {
+		owner = ZZZ
+	}
+	
+	provinces = {
+		614 3614 6643 11787
+	}
+	
+	local_supplies = 10
+}

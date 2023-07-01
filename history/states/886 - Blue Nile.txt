@@ -1,0 +1,16 @@
+state = {
+	id = 886
+	name = "STATE_886" # Blue Nile
+	manpower = 1
+	state_category = wasteland
+	
+	history = {
+		owner = ZZZ
+	}
+	
+	provinces = {
+		1914 4918 10743 10784 12862 12887
+	}
+	
+	local_supplies = 10
+}

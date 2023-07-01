@@ -1,0 +1,16 @@
+state = {
+	id = 540
+	name = "STATE_540" # Luanda
+	manpower = 1
+	state_category = wasteland
+	
+	history = {
+		owner = ZZZ
+	}
+	
+	provinces = {
+		5158 7548 8219 8248 12981
+	}
+	
+	local_supplies = 10
+}

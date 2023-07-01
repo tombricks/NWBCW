@@ -1,0 +1,16 @@
+state = {
+	id = 505
+	name = "STATE_505" # Goiás
+	manpower = 1
+	state_category = wasteland
+	
+	history = {
+		owner = ZZZ
+	}
+	
+	provinces = {
+		2168 5115 5148 5151 5208 8140 12959 12987
+	}
+	
+	local_supplies = 10
+}

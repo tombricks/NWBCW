@@ -1,0 +1,16 @@
+state = {
+	id = 274
+	name = "STATE_274" # Ghana
+	manpower = 1
+	state_category = wasteland
+	
+	history = {
+		owner = ZZZ
+	}
+	
+	provinces = {
+		8039 8096 10862 12742 12785 12787 13136
+	}
+	
+	local_supplies = 10
+}

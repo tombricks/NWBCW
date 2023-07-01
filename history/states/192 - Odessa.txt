@@ -1,0 +1,16 @@
+state = {
+	id = 192
+	name = "STATE_192" # Odessa
+	manpower = 1
+	state_category = wasteland
+	
+	history = {
+		owner = ZZZ
+	}
+	
+	provinces = {
+		3575 3738 9698 9714 11670 11703
+	}
+	
+	local_supplies = 10
+}

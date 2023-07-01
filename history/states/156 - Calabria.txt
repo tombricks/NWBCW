@@ -1,0 +1,16 @@
+state = {
+	id = 156
+	name = "STATE_156" # Calabria
+	manpower = 1
+	state_category = wasteland
+	
+	history = {
+		owner = ZZZ
+	}
+	
+	provinces = {
+		3901 9990 10027 12066 12098
+	}
+	
+	local_supplies = 10
+}

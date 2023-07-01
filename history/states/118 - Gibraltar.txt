@@ -1,0 +1,16 @@
+state = {
+	id = 118
+	name = "STATE_118" # Gibraltar
+	manpower = 1
+	state_category = wasteland
+	
+	history = {
+		owner = ZZZ
+	}
+	
+	provinces = {
+		4135
+	}
+	
+	local_supplies = 10
+}

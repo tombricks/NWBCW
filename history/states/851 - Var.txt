@@ -1,0 +1,16 @@
+state = {
+	id = 851
+	name = "STATE_851" # Var
+	manpower = 1
+	state_category = wasteland
+	
+	history = {
+		owner = ZZZ
+	}
+	
+	provinces = {
+		911 956 3928 3961
+	}
+	
+	local_supplies = 10
+}

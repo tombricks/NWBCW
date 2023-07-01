@@ -1,0 +1,16 @@
+state = {
+	id = 797
+	name = "STATE_797" # Istanbul
+	manpower = 1
+	state_category = wasteland
+	
+	history = {
+		owner = ZZZ
+	}
+	
+	provinces = {
+		9833 11829
+	}
+	
+	local_supplies = 10
+}

@@ -1,0 +1,16 @@
+state = {
+	id = 877
+	name = "STATE_877" # Verkhoyansk
+	manpower = 1
+	state_category = wasteland
+	
+	history = {
+		owner = ZZZ
+	}
+	
+	provinces = {
+		1745 2877 4878 6211 12549 12634
+	}
+	
+	local_supplies = 10
+}

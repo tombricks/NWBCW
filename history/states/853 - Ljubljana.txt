@@ -1,0 +1,16 @@
+state = {
+	id = 853
+	name = "STATE_853" # Ljubljana
+	manpower = 1
+	state_category = wasteland
+	
+	history = {
+		owner = ZZZ
+	}
+	
+	provinces = {
+		6650 9627
+	}
+	
+	local_supplies = 10
+}

@@ -1,0 +1,3 @@
+ZZZ	= "countries/Eastern_European.txt"
+SOV = "countries/Eastern_European.txt"
+CHI = "countries/Asian.txt"

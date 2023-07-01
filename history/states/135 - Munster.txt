@@ -1,0 +1,16 @@
+state = {
+	id = 135
+	name = "STATE_135" # Munster
+	manpower = 1
+	state_category = wasteland
+	
+	history = {
+		owner = ZZZ
+	}
+	
+	provinces = {
+		6289 6313 6405 7394 9284 9310 9405 11237 11267 11334
+	}
+	
+	local_supplies = 10
+}

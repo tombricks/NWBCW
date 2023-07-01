@@ -1,0 +1,16 @@
+state = {
+	id = 296
+	name = "STATE_296" # Portuguese Guinea
+	manpower = 1
+	state_category = wasteland
+	
+	history = {
+		owner = ZZZ
+	}
+	
+	provinces = {
+		12747 12891
+	}
+	
+	local_supplies = 10
+}

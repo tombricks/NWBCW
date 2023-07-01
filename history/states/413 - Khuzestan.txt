@@ -1,0 +1,16 @@
+state = {
+	id = 413
+	name = "STATE_413" # Khuzestan
+	manpower = 1
+	state_category = wasteland
+	
+	history = {
+		owner = ZZZ
+	}
+	
+	provinces = {
+		1922 5005 5089 7953
+	}
+	
+	local_supplies = 10
+}

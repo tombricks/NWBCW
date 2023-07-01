@@ -1,0 +1,16 @@
+state = {
+	id = 754
+	name = "STATE_754" # Golog
+	manpower = 1
+	state_category = wasteland
+	
+	history = {
+		owner = ZZZ
+	}
+	
+	provinces = {
+		1882 4536 4888 7270 10490 10817 11448 12732 12815
+	}
+	
+	local_supplies = 10
+}

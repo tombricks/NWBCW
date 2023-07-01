@@ -1,0 +1,16 @@
+state = {
+	id = 628
+	name = "STATE_628" # Cebu
+	manpower = 1
+	state_category = wasteland
+	
+	history = {
+		owner = ZZZ
+	}
+	
+	provinces = {
+		1261 1368 7385 7423 10186 10302 12112 12118 12153
+	}
+	
+	local_supplies = 10
+}

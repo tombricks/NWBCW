@@ -1,0 +1,16 @@
+state = {
+	id = 846
+	name = "STATE_846" # Ticino
+	manpower = 1
+	state_category = wasteland
+	
+	history = {
+		owner = ZZZ
+	}
+	
+	provinces = {
+		9600 3641
+	}
+	
+	local_supplies = 10
+}

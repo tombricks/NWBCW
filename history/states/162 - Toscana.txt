@@ -1,0 +1,16 @@
+state = {
+	id = 162
+	name = "STATE_162" # Toscana
+	manpower = 1
+	state_category = wasteland
+	
+	history = {
+		owner = ZZZ
+	}
+	
+	provinces = {
+		910 1616 3885 6875 6946 6973 9750 9879 9907 11833 11889
+	}
+	
+	local_supplies = 10
+}

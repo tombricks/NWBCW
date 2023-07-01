@@ -1,0 +1,16 @@
+state = {
+	id = 263
+	name = "STATE_263" # Novgorod
+	manpower = 1
+	state_category = wasteland
+	
+	history = {
+		owner = ZZZ
+	}
+	
+	provinces = {
+		8 71 110 117 320 3089 6086 6154 6225 9212 9234 11072 11109 11191
+	}
+	
+	local_supplies = 10
+}

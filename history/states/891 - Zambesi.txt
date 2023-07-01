@@ -1,0 +1,16 @@
+state = {
+	id = 891
+	name = "STATE_891" # Zambesi
+	manpower = 1
+	state_category = wasteland
+	
+	history = {
+		owner = ZZZ
+	}
+	
+	provinces = {
+		1552 2126 4735 8054
+	}
+	
+	local_supplies = 10
+}

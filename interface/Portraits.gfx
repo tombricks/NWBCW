@@ -1,0 +1,10 @@
+spriteTypes = {
+    spriteType = {
+        name = "GFX_Portrait_SOV_Andrei_Gromyko_0"
+        texturefile = "gfx/leaders/SOV_Andrei_Gromyko.dds"
+    }
+    spriteType = {
+        name = "GFX_Portrait_CHI_Deng_Liqun_0"
+        texturefile = "gfx/leaders/CHI_Deng_Liqun.dds"
+    }
+}

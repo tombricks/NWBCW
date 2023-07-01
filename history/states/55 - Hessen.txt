@@ -1,0 +1,16 @@
+state = {
+	id = 55
+	name = "STATE_55" # Hessen
+	manpower = 1
+	state_category = wasteland
+	
+	history = {
+		owner = ZZZ
+	}
+	
+	provinces = {
+		564 589 3397 3524 3574 6444 6488 6549 9486 9524 9547 11445 11533 11560
+	}
+	
+	local_supplies = 10
+}

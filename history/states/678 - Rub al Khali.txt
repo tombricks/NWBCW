@@ -1,0 +1,16 @@
+state = {
+	id = 678
+	name = "STATE_678" # Rub al Khali
+	manpower = 1
+	state_category = wasteland
+	
+	history = {
+		owner = ZZZ
+	}
+	
+	provinces = {
+		4932 5081 8118 12740
+	}
+	
+	local_supplies = 10
+}

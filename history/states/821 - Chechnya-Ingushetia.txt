@@ -1,0 +1,16 @@
+state = {
+	id = 821
+	name = "STATE_821" # Chechnya-Ingushetia
+	manpower = 1
+	state_category = wasteland
+	
+	history = {
+		owner = ZZZ
+	}
+	
+	provinces = {
+		666 670 1455 3667 3672 6689
+	}
+	
+	local_supplies = 10
+}

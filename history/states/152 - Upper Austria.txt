@@ -1,0 +1,16 @@
+state = {
+	id = 152
+	name = "STATE_152" # Upper Austria
+	manpower = 1
+	state_category = wasteland
+	
+	history = {
+		owner = ZZZ
+	}
+	
+	provinces = {
+		688 732 3673 3674 3684 3703 6552 6687 6691 6708 6723 9650 9665 11651 11612
+	}
+	
+	local_supplies = 10
+}

@@ -1,0 +1,16 @@
+state = {
+	id = 883
+	name = "STATE_883" # Kassala
+	manpower = 1
+	state_category = wasteland
+	
+	history = {
+		owner = ZZZ
+	}
+	
+	provinces = {
+		1977 2003 2088 10902 12725
+	}
+	
+	local_supplies = 10
+}

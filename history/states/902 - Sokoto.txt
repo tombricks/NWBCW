@@ -1,0 +1,16 @@
+state = {
+	id = 902
+	name = "STATE_902" # Sokoto
+	manpower = 1
+	state_category = wasteland
+	
+	history = {
+		owner = ZZZ
+	}
+	
+	provinces = {
+		1891 1932 1969 2025 4938 4972 8021
+	}
+	
+	local_supplies = 10
+}

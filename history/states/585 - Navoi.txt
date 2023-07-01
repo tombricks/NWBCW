@@ -1,0 +1,16 @@
+state = {
+	id = 585
+	name = "STATE_585" # Navoi
+	manpower = 1
+	state_category = wasteland
+	
+	history = {
+		owner = ZZZ
+	}
+	
+	provinces = {
+		1532 1554 4499 7501 7507 10420
+	}
+	
+	local_supplies = 10
+}

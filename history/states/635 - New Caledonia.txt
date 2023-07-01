@@ -1,0 +1,16 @@
+state = {
+	id = 635
+	name = "STATE_635" # New Caledonia
+	manpower = 1
+	state_category = wasteland
+	
+	history = {
+		owner = ZZZ
+	}
+	
+	provinces = {
+		1237 1263 4231 4247 4268 7264 10160 12120 12132
+	}
+	
+	local_supplies = 10
+}

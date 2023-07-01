@@ -1,0 +1,16 @@
+state = {
+	id = 537
+	name = "STATE_537" # South Sakhalin
+	manpower = 1
+	state_category = wasteland
+	
+	history = {
+		owner = ZZZ
+	}
+	
+	provinces = {
+		1322 1820 12446
+	}
+	
+	local_supplies = 10
+}

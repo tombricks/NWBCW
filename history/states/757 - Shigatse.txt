@@ -1,0 +1,16 @@
+state = {
+	id = 757
+	name = "STATE_757" # Shigatse
+	manpower = 1
+	state_category = wasteland
+	
+	history = {
+		owner = ZZZ
+	}
+	
+	provinces = {
+		1991 2014 2098 4900 5033 8121 12807
+	}
+	
+	local_supplies = 10
+}

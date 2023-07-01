@@ -1,0 +1,16 @@
+state = {
+	id = 313
+	name = "STATE_313" # Guatemala
+	manpower = 1
+	state_category = wasteland
+	
+	history = {
+		owner = ZZZ
+	}
+	
+	provinces = {
+		4991 10842 10886 13085
+	}
+	
+	local_supplies = 10
+}

@@ -1,0 +1,16 @@
+state = {
+	id = 799
+	name = "STATE_799" # Hatay
+	manpower = 1
+	state_category = wasteland
+	
+	history = {
+		owner = ZZZ
+	}
+	
+	provinces = {
+		12029
+	}
+	
+	local_supplies = 10
+}

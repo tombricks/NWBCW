@@ -1,0 +1,16 @@
+state = {
+	id = 645
+	name = "STATE_645" # Iwo Jima
+	manpower = 1
+	state_category = wasteland
+	
+	history = {
+		owner = ZZZ
+	}
+	
+	provinces = {
+		13025
+	}
+	
+	local_supplies = 10
+}

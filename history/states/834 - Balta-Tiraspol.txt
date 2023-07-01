@@ -1,0 +1,16 @@
+state = {
+	id = 834
+	name = "STATE_834" # Balta-Tiraspol
+	manpower = 1
+	state_category = wasteland
+	
+	history = {
+		owner = ZZZ
+	}
+	
+	provinces = {
+		741 754 3757 9576
+	}
+	
+	local_supplies = 10
+}

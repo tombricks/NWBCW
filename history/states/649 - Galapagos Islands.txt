@@ -1,0 +1,16 @@
+state = {
+	id = 649
+	name = "STATE_649" # Galapagos Islands
+	manpower = 1
+	state_category = wasteland
+	
+	history = {
+		owner = ZZZ
+	}
+	
+	provinces = {
+		5023
+	}
+	
+	local_supplies = 10
+}

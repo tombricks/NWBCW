@@ -1,0 +1,16 @@
+state = {
+	id = 62
+	name = "STATE_62" # Vorpommern
+	manpower = 1
+	state_category = wasteland
+	
+	history = {
+		owner = ZZZ
+	}
+	
+	provinces = {
+		349 3207 3258 3312 3340 9388
+	}
+	
+	local_supplies = 10
+}

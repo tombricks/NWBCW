@@ -1,0 +1,16 @@
+state = {
+	id = 532
+	name = "STATE_532" # Tokai
+	manpower = 1
+	state_category = wasteland
+	
+	history = {
+		owner = ZZZ
+	}
+	
+	provinces = {
+		4069 4172 7087 7157 7187 10100 10125 12072 12097
+	}
+	
+	local_supplies = 10
+}

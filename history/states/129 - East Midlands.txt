@@ -1,0 +1,16 @@
+state = {
+	id = 129
+	name = "STATE_129" # East Midlands
+	manpower = 1
+	state_category = wasteland
+	
+	history = {
+		owner = ZZZ
+	}
+	
+	provinces = {
+		364 3353 6237 9250 9268 9322 11279
+	}
+	
+	local_supplies = 10
+}

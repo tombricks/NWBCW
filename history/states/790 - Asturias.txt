@@ -1,0 +1,16 @@
+state = {
+	id = 790
+	name = "STATE_790" # Asturias
+	manpower = 1
+	state_category = wasteland
+	
+	history = {
+		owner = ZZZ
+	}
+	
+	provinces = {
+		738 3729 3744 6749 9703 9719 11688 11707 13218
+	}
+	
+	local_supplies = 10
+}

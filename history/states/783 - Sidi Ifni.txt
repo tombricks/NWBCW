@@ -1,0 +1,16 @@
+state = {
+	id = 783
+	name = "STATE_783" # Sidi Ifni
+	manpower = 1
+	state_category = wasteland
+	
+	history = {
+		owner = ZZZ
+	}
+	
+	provinces = {
+		12857
+	}
+	
+	local_supplies = 10
+}

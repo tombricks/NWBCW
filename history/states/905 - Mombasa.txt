@@ -1,0 +1,16 @@
+state = {
+	id = 905
+	name = "STATE_905" # Mombasa
+	manpower = 1
+	state_category = wasteland
+	
+	history = {
+		owner = ZZZ
+	}
+	
+	provinces = {
+		5196 5210 6020
+	}
+	
+	local_supplies = 10
+}

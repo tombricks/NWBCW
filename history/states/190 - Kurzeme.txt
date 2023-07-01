@@ -1,0 +1,16 @@
+state = {
+	id = 190
+	name = "STATE_190" # Kurzeme
+	manpower = 1
+	state_category = wasteland
+	
+	history = {
+		owner = ZZZ
+	}
+	
+	provinces = {
+		3194 3296 3319 6322 9262 11246
+	}
+	
+	local_supplies = 10
+}

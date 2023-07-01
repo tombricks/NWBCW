@@ -1,0 +1,16 @@
+state = {
+	id = 809
+	name = "STATE_809" # Zemgale
+	manpower = 1
+	state_category = wasteland
+	
+	history = {
+		owner = ZZZ
+	}
+	
+	provinces = {
+		265 3255 3525 6222 6342 11358
+	}
+	
+	local_supplies = 10
+}

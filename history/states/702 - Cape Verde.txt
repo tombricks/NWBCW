@@ -1,0 +1,16 @@
+state = {
+	id = 702
+	name = "STATE_702" # Cape Verde
+	manpower = 1
+	state_category = wasteland
+	
+	history = {
+		owner = ZZZ
+	}
+	
+	provinces = {
+		13014
+	}
+	
+	local_supplies = 10
+}

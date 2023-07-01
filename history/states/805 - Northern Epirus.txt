@@ -1,0 +1,16 @@
+state = {
+	id = 805
+	name = "STATE_805" # Northern Epirus
+	manpower = 1
+	state_category = wasteland
+	
+	history = {
+		owner = ZZZ
+	}
+	
+	provinces = {
+		914 13234 13235
+	}
+	
+	local_supplies = 10
+}

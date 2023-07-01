@@ -1,0 +1,16 @@
+state = {
+	id = 820
+	name = "STATE_820" # Khövsgöl
+	manpower = 1
+	state_category = wasteland
+	
+	history = {
+		owner = ZZZ
+	}
+	
+	provinces = {
+		1689 1791 1834 4882 7676 7717 12579 12649
+	}
+	
+	local_supplies = 10
+}

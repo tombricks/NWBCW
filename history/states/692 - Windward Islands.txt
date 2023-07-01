@@ -1,0 +1,16 @@
+state = {
+	id = 692
+	name = "STATE_692" # Windward Islands
+	manpower = 1
+	state_category = wasteland
+	
+	history = {
+		owner = ZZZ
+	}
+	
+	provinces = {
+		379 11106 11350 13009
+	}
+	
+	local_supplies = 10
+}

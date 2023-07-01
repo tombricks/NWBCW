@@ -1,0 +1,16 @@
+state = {
+	id = 894
+	name = "STATE_894" # Kunene
+	manpower = 1
+	state_category = wasteland
+	
+	history = {
+		owner = ZZZ
+	}
+	
+	provinces = {
+		10957 10978 12921
+	}
+	
+	local_supplies = 10
+}

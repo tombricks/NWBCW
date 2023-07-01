@@ -1,0 +1,16 @@
+state = {
+	id = 679
+	name = "STATE_679" # Madinah
+	manpower = 1
+	state_category = wasteland
+	
+	history = {
+		owner = ZZZ
+	}
+	
+	provinces = {
+		2033 4981 5099 7934 10748 10835 12758
+	}
+	
+	local_supplies = 10
+}

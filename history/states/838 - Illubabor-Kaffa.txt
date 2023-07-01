@@ -1,0 +1,16 @@
+state = {
+	id = 838
+	name = "STATE_838" # Illubabor-Kaffa
+	manpower = 1
+	state_category = wasteland
+	
+	history = {
+		owner = ZZZ
+	}
+	
+	provinces = {
+		7912 13244 13245
+	}
+	
+	local_supplies = 10
+}

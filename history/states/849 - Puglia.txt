@@ -1,0 +1,16 @@
+state = {
+	id = 849
+	name = "STATE_849" # Puglia
+	manpower = 1
+	state_category = wasteland
+	
+	history = {
+		owner = ZZZ
+	}
+	
+	provinces = {
+		6939 6980 6979 9784 11837 11998
+	}
+	
+	local_supplies = 10
+}

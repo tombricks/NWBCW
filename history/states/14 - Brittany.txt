@@ -1,0 +1,16 @@
+state = {
+	id = 14
+	name = "STATE_14" # Brittany
+	manpower = 1
+	state_category = wasteland
+	
+	history = {
+		owner = ZZZ
+	}
+	
+	provinces = {
+		542 3552 3758 6536 6548 6572 9495 9510 9525 11508
+	}
+	
+	local_supplies = 10
+}

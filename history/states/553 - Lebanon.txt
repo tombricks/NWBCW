@@ -1,0 +1,16 @@
+state = {
+	id = 553
+	name = "STATE_553" # Lebanon
+	manpower = 1
+	state_category = wasteland
+	
+	history = {
+		owner = ZZZ
+	}
+	
+	provinces = {
+		792 1108 11919
+	}
+	
+	local_supplies = 10
+}

@@ -1,0 +1,16 @@
+state = {
+	id = 126
+	name = "STATE_126" # Greater London Area
+	manpower = 1
+	state_category = wasteland
+	
+	history = {
+		owner = ZZZ
+	}
+	
+	provinces = {
+		6103 9239 11333 11374
+	}
+	
+	local_supplies = 10
+}

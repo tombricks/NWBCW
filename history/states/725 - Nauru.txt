@@ -1,0 +1,16 @@
+state = {
+	id = 725
+	name = "STATE_725" # Nauru
+	manpower = 1
+	state_category = wasteland
+	
+	history = {
+		owner = ZZZ
+	}
+	
+	provinces = {
+		13038
+	}
+	
+	local_supplies = 10
+}

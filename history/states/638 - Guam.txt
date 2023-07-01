@@ -1,0 +1,16 @@
+state = {
+	id = 638
+	name = "STATE_638" # Guam
+	manpower = 1
+	state_category = wasteland
+	
+	history = {
+		owner = ZZZ
+	}
+	
+	provinces = {
+		12140
+	}
+	
+	local_supplies = 10
+}

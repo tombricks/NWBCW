@@ -1,0 +1,16 @@
+state = {
+	id = 186
+	name = "STATE_186" # Peloponnese
+	manpower = 1
+	state_category = wasteland
+	
+	history = {
+		owner = ZZZ
+	}
+	
+	provinces = {
+		1173 4078 4178 4193 7096 7211 11965
+	}
+	
+	local_supplies = 10
+}

@@ -1,0 +1,16 @@
+state = {
+	id = 812
+	name = "STATE_812" # Harju
+	manpower = 1
+	state_category = wasteland
+	
+	history = {
+		owner = ZZZ
+	}
+	
+	provinces = {
+		496 567 3152 11426
+	}
+	
+	local_supplies = 10
+}

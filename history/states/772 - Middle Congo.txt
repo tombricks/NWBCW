@@ -1,0 +1,16 @@
+state = {
+	id = 772
+	name = "STATE_772" # Middle Congo
+	manpower = 1
+	state_category = wasteland
+	
+	history = {
+		owner = ZZZ
+	}
+	
+	provinces = {
+		2192 3109 6008 8193 12975
+	}
+	
+	local_supplies = 10
+}

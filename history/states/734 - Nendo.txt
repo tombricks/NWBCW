@@ -1,0 +1,16 @@
+state = {
+	id = 734
+	name = "STATE_734" # Nendo
+	manpower = 1
+	state_category = wasteland
+	
+	history = {
+		owner = ZZZ
+	}
+	
+	provinces = {
+		7390
+	}
+	
+	local_supplies = 10
+}

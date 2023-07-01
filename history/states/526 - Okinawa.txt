@@ -1,0 +1,16 @@
+state = {
+	id = 526
+	name = "STATE_526" # Okinawa
+	manpower = 1
+	state_category = wasteland
+	
+	history = {
+		owner = ZZZ
+	}
+	
+	provinces = {
+		1123 7115 10124 11932
+	}
+	
+	local_supplies = 10
+}

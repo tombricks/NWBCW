@@ -1,0 +1,16 @@
+state = {
+	id = 701
+	name = "STATE_701" # Gambia
+	manpower = 1
+	state_category = wasteland
+	
+	history = {
+		owner = ZZZ
+	}
+	
+	provinces = {
+		4989 13213
+	}
+	
+	local_supplies = 10
+}

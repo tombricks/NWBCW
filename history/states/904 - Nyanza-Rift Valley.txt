@@ -1,0 +1,16 @@
+state = {
+	id = 904
+	name = "STATE_904" # Nyanza-Rift Valley
+	manpower = 1
+	state_category = wasteland
+	
+	history = {
+		owner = ZZZ
+	}
+	
+	provinces = {
+		5160 10860 11145
+	}
+	
+	local_supplies = 10
+}

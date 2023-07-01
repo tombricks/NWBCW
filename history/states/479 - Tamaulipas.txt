@@ -1,0 +1,16 @@
+state = {
+	id = 479
+	name = "STATE_479" # Tamaulipas
+	manpower = 1
+	state_category = wasteland
+	
+	history = {
+		owner = ZZZ
+	}
+	
+	provinces = {
+		1952 2083 4956 5015 5021 12721 13088
+	}
+	
+	local_supplies = 10
+}

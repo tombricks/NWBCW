@@ -1,0 +1,16 @@
+state = {
+	id = 19
+	name = "STATE_19" # Aquitaine
+	manpower = 1
+	state_category = wasteland
+	
+	history = {
+		owner = ZZZ
+	}
+	
+	provinces = {
+		6621 6762 6777 9737 11565
+	}
+	
+	local_supplies = 10
+}

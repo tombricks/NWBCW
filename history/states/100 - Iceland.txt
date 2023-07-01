@@ -1,0 +1,16 @@
+state = {
+	id = 100
+	name = "STATE_100" # Iceland
+	manpower = 1
+	state_category = wasteland
+	
+	history = {
+		owner = ZZZ
+	}
+	
+	provinces = {
+		4861 12674 12689
+	}
+	
+	local_supplies = 10
+}

@@ -1,0 +1,16 @@
+state = {
+	id = 639
+	name = "STATE_639" # Gilbert Islands
+	manpower = 1
+	state_category = wasteland
+	
+	history = {
+		owner = ZZZ
+	}
+	
+	provinces = {
+		4387 7393 13020 13021 13022
+	}
+	
+	local_supplies = 10
+}

@@ -1,0 +1,15 @@
+Has_Title = {
+	OR = {
+		has_country_leader_with_trait = TITLE_General_Secretary
+		has_country_leader_with_trait = TITLE_First_Secretary
+		# Script-Has_Title
+	}
+}
+
+Has_Subideology = {
+	OR = {
+		has_country_leader_with_trait = SUBIDEOLOGY_Marxism_Leninism
+		has_country_leader_with_trait = SUBIDEOLOGY_Mao_Zedong_Thought
+		# Script-Has_Subideology
+	}
+}

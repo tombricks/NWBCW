@@ -1,0 +1,16 @@
+state = {
+	id = 299
+	name = "STATE_299" # Falkland Islands
+	manpower = 1
+	state_category = wasteland
+	
+	history = {
+		owner = ZZZ
+	}
+	
+	provinces = {
+		12960
+	}
+	
+	local_supplies = 10
+}

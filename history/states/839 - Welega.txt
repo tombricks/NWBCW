@@ -1,0 +1,16 @@
+state = {
+	id = 839
+	name = "STATE_839" # Welega
+	manpower = 1
+	state_category = wasteland
+	
+	history = {
+		owner = ZZZ
+	}
+	
+	provinces = {
+		2009 12856 13243
+	}
+	
+	local_supplies = 10
+}

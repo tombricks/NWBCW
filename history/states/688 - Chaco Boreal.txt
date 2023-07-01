@@ -1,0 +1,16 @@
+state = {
+	id = 688
+	name = "STATE_688" # Chaco Boreal
+	manpower = 1
+	state_category = wasteland
+	
+	history = {
+		owner = ZZZ
+	}
+	
+	provinces = {
+		2195 2209 5165 8203 10973
+	}
+	
+	local_supplies = 10
+}

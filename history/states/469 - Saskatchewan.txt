@@ -1,0 +1,16 @@
+state = {
+	id = 469
+	name = "STATE_469" # Saskatchewan
+	manpower = 1
+	state_category = wasteland
+	
+	history = {
+		owner = ZZZ
+	}
+	
+	provinces = {
+		736 1788 3481 3498 3769 4739 9669 10552 10611 10656 11440 12593 12603 12663
+	}
+	
+	local_supplies = 10
+}

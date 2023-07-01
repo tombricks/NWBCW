@@ -1,0 +1,16 @@
+state = {
+	id = 743
+	name = "STATE_743" # Qingdao
+	manpower = 1
+	state_category = wasteland
+	
+	history = {
+		owner = ZZZ
+	}
+	
+	provinces = {
+		10000
+	}
+	
+	local_supplies = 10
+}

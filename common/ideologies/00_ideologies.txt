@@ -1,0 +1,137 @@
+ideologies = {
+	Pro_Soviet = {
+
+		types = { Pro_Soviet_type = {} }
+
+		dynamic_faction_names = { "FACTION_NAME_COMMUNIST_1" "FACTION_NAME_COMMUNIST_2" "FACTION_NAME_COMMUNIST_3" "FACTION_NAME_COMMUNIST_4" "FACTION_NAME_COMMUNIST_5" }
+
+		color = { 201 0 0 }
+
+		war_impact_on_world_tension = 0.25
+		faction_impact_on_world_tension = 0.25
+		ai_communist = yes
+		ai_ideology_wanted_units_factor = 1
+		can_collaborate = no
+
+		rules = {
+			can_create_collaboration_government = no
+			can_declare_war_on_same_ideology = yes
+			can_force_government = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+			can_lower_tension = no
+			can_only_justify_war_on_threat_country = no
+			can_guarantee_other_ideologies = yes
+		}
+		modifiers = { }
+		faction_modifiers = { }
+	}
+	Pro_China = {
+
+		types = { Pro_China_type = {} }
+
+		dynamic_faction_names = { "FACTION_NAME_COMMUNIST_1" "FACTION_NAME_COMMUNIST_2" "FACTION_NAME_COMMUNIST_3" "FACTION_NAME_COMMUNIST_4" "FACTION_NAME_COMMUNIST_5" }
+
+		color = { 193 74 0 }
+
+		war_impact_on_world_tension = 0.25
+		faction_impact_on_world_tension = 0.25
+		ai_communist = yes
+		ai_ideology_wanted_units_factor = 1
+		can_collaborate = no
+
+		rules = {
+			can_create_collaboration_government = no
+			can_declare_war_on_same_ideology = yes
+			can_force_government = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+			can_lower_tension = no
+			can_only_justify_war_on_threat_country = no
+			can_guarantee_other_ideologies = yes
+		}
+		modifiers = { }
+		faction_modifiers = { }
+	}
+	Non_Aligned = {
+
+		types = { Non_Aligned_type = {} }
+
+		dynamic_faction_names = { "FACTION_NAME_COMMUNIST_1" "FACTION_NAME_COMMUNIST_2" "FACTION_NAME_COMMUNIST_3" "FACTION_NAME_COMMUNIST_4" "FACTION_NAME_COMMUNIST_5" }
+
+		color = { 237 73 98 }
+
+		war_impact_on_world_tension = 0.25
+		faction_impact_on_world_tension = 0.25
+		ai_communist = yes
+		ai_ideology_wanted_units_factor = 1
+		can_collaborate = no
+
+		rules = {
+			can_create_collaboration_government = no
+			can_declare_war_on_same_ideology = yes
+			can_force_government = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+			can_lower_tension = no
+			can_only_justify_war_on_threat_country = no
+			can_guarantee_other_ideologies = yes
+		}
+		modifiers = { }
+		faction_modifiers = { }
+	}
+	Pro_Albania = {
+
+		types = { Pro_Albania_type = {} }
+
+		dynamic_faction_names = { "FACTION_NAME_COMMUNIST_1" "FACTION_NAME_COMMUNIST_2" "FACTION_NAME_COMMUNIST_3" "FACTION_NAME_COMMUNIST_4" "FACTION_NAME_COMMUNIST_5" }
+
+		color = { 104 32 27 }
+
+		war_impact_on_world_tension = 0.25
+		faction_impact_on_world_tension = 0.25
+		ai_communist = yes
+		ai_ideology_wanted_units_factor = 1
+		can_collaborate = no
+
+		rules = {
+			can_create_collaboration_government = no
+			can_declare_war_on_same_ideology = yes
+			can_force_government = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+			can_lower_tension = no
+			can_only_justify_war_on_threat_country = no
+			can_guarantee_other_ideologies = yes
+		}
+		modifiers = { }
+		faction_modifiers = { }
+	}
+	Anti_Socialist = {
+
+		types = { Anti_Socialist_type = {} }
+
+		dynamic_faction_names = { "FACTION_NAME_COMMUNIST_1" "FACTION_NAME_COMMUNIST_2" "FACTION_NAME_COMMUNIST_3" "FACTION_NAME_COMMUNIST_4" "FACTION_NAME_COMMUNIST_5" }
+
+		color = { 58 79 114 }
+
+		war_impact_on_world_tension = 0.25
+		faction_impact_on_world_tension = 0.25
+		ai_communist = yes
+		ai_ideology_wanted_units_factor = 1
+		can_collaborate = no
+
+		rules = {
+			can_create_collaboration_government = no
+			can_declare_war_on_same_ideology = yes
+			can_force_government = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+			can_lower_tension = no
+			can_only_justify_war_on_threat_country = no
+			can_guarantee_other_ideologies = yes
+		}
+		modifiers = { }
+		faction_modifiers = { }
+	}
+}

@@ -1,0 +1,16 @@
+state = {
+	id = 660
+	name = "STATE_660" # Equatorial Africa
+	manpower = 1
+	state_category = wasteland
+	
+	history = {
+		owner = ZZZ
+	}
+	
+	provinces = {
+		1974 3165 5084 8078 11108 12719 12830 11012
+	}
+	
+	local_supplies = 10
+}

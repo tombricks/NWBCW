@@ -1,0 +1,16 @@
+state = {
+	id = 318
+	name = "STATE_318" # Haiti
+	manpower = 1
+	state_category = wasteland
+	
+	history = {
+		owner = ZZZ
+	}
+	
+	provinces = {
+		1594 1635 4641
+	}
+	
+	local_supplies = 10
+}

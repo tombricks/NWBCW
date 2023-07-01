@@ -1,0 +1,16 @@
+state = {
+	id = 80
+	name = "STATE_80" # Bucovina
+	manpower = 1
+	state_category = wasteland
+	
+	history = {
+		owner = ZZZ
+	}
+	
+	provinces = {
+		577 9548
+	}
+	
+	local_supplies = 10
+}

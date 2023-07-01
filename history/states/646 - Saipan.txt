@@ -1,0 +1,16 @@
+state = {
+	id = 646
+	name = "STATE_646" # Saipan
+	manpower = 1
+	state_category = wasteland
+	
+	history = {
+		owner = ZZZ
+	}
+	
+	provinces = {
+		3995 13023 13024
+	}
+	
+	local_supplies = 10
+}

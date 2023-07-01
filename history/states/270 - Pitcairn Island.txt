@@ -1,0 +1,16 @@
+state = {
+	id = 270
+	name = "STATE_270" # Pitcairn Island
+	manpower = 1
+	state_category = wasteland
+	
+	history = {
+		owner = ZZZ
+	}
+	
+	provinces = {
+		1280
+	}
+	
+	local_supplies = 10
+}

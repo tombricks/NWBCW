@@ -1,0 +1,16 @@
+state = {
+	id = 850
+	name = "STATE_850" # Trentino
+	manpower = 1
+	state_category = wasteland
+	
+	history = {
+		owner = ZZZ
+	}
+	
+	provinces = {
+		6631 9598
+	}
+	
+	local_supplies = 10
+}

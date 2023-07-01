@@ -1,0 +1,16 @@
+state = {
+	id = 803
+	name = "STATE_803" # Southern Serbia
+	manpower = 1
+	state_category = wasteland
+	
+	history = {
+		owner = ZZZ
+	}
+	
+	provinces = {
+		11832 11857 11868
+	}
+	
+	local_supplies = 10
+}

@@ -1,0 +1,16 @@
+state = {
+	id = 191
+	name = "STATE_191" # Tartu
+	manpower = 1
+	state_category = wasteland
+	
+	history = {
+		owner = ZZZ
+	}
+	
+	provinces = {
+		592 6178 6408 9221 9485
+	}
+	
+	local_supplies = 10
+}

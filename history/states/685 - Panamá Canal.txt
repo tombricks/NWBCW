@@ -1,0 +1,16 @@
+state = {
+	id = 685
+	name = "STATE_685" # Panamá Canal
+	manpower = 1
+	state_category = wasteland
+	
+	history = {
+		owner = ZZZ
+	}
+	
+	provinces = {
+		7617
+	}
+	
+	local_supplies = 10
+}

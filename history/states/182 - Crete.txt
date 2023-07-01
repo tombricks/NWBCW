@@ -1,0 +1,16 @@
+state = {
+	id = 182
+	name = "STATE_182" # Crete
+	manpower = 1
+	state_category = wasteland
+	
+	history = {
+		owner = ZZZ
+	}
+	
+	provinces = {
+		1164 4170 9940 12058
+	}
+	
+	local_supplies = 10
+}

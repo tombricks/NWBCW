@@ -1,0 +1,39 @@
+spriteTypes = {	
+	spriteType = {
+		name = "GFX_party_cpsu"
+		texturefile = "gfx/texticons/parties/cpsu.dds"
+		legacy_lazy_load = no
+	}
+	
+	spriteType = {
+		name = "GFX_party_arab_socialist_union"
+		texturefile = "gfx/texticons/parties/arab_socialist_union.dds"
+		legacy_lazy_load = no
+	}
+
+	spriteType = {
+		name = "GFX_decision_header_FRA_Jacobin"
+		texturefile = "gfx/texticons/decision_headers/decision_header_FRA_Jacobin.dds"
+		legacy_lazy_load = no
+	}
+	spriteType = {
+		name = "GFX_decision_header_RUS_International_Communist_League_category"
+		texturefile = "gfx/texticons/decision_headers/decision_header_RUS_International_Communist_League_category.dds"
+		legacy_lazy_load = no
+	}
+	spriteType = {
+		name = "GFX_decision_header_Political_Decisions"
+		texturefile = "gfx/texticons/decision_headers/decision_header_Political_Decisions.dds"
+		legacy_lazy_load = no
+	}
+	spriteType = {
+		name = "GFX_decision_header_debug_decisions"
+		texturefile = "gfx/texticons/decision_headers/decision_header_debug_decisions.dds"
+		legacy_lazy_load = no
+	}
+	spriteType = {
+		name = "GFX_skull_emoji"
+		texturefile = "gfx/texticons/skull_emoji.dds"
+		legacy_lazy_load = no
+	}
+}

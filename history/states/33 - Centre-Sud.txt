@@ -1,0 +1,16 @@
+state = {
+	id = 33
+	name = "STATE_33" # Centre-Sud
+	manpower = 1
+	state_category = wasteland
+	
+	history = {
+		owner = ZZZ
+	}
+	
+	provinces = {
+		651 669 3621 3626 3655 6648 6651 9629 11869
+	}
+	
+	local_supplies = 10
+}

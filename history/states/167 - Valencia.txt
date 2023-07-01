@@ -1,0 +1,16 @@
+state = {
+	id = 167
+	name = "STATE_167" # Valencia
+	manpower = 1
+	state_category = wasteland
+	
+	history = {
+		owner = ZZZ
+	}
+	
+	provinces = {
+		962 3799 3873 4098 6817 6856 6906 6959 9889 9896
+	}
+	
+	local_supplies = 10
+}

@@ -1,0 +1,16 @@
+state = {
+	id = 676
+	name = "STATE_676" # Mosul
+	manpower = 1
+	state_category = wasteland
+	
+	history = {
+		owner = ZZZ
+	}
+	
+	provinces = {
+		1600 1938 3916 5014 6826 8123 10106 10793 10804 10811 12372
+	}
+	
+	local_supplies = 10
+}

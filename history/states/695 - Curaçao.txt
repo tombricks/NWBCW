@@ -1,0 +1,16 @@
+state = {
+	id = 695
+	name = "STATE_695" # Curaçao
+	manpower = 1
+	state_category = wasteland
+	
+	history = {
+		owner = ZZZ
+	}
+	
+	provinces = {
+		153
+	}
+	
+	local_supplies = 10
+}

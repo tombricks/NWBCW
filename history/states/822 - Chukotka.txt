@@ -1,0 +1,16 @@
+state = {
+	id = 822
+	name = "STATE_822" # Chukotka
+	manpower = 1
+	state_category = wasteland
+	
+	history = {
+		owner = ZZZ
+	}
+	
+	provinces = {
+		4744 5264 13062 13063
+	}
+	
+	local_supplies = 10
+}

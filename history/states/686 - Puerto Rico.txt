@@ -1,0 +1,16 @@
+state = {
+	id = 686
+	name = "STATE_686" # Puerto Rico
+	manpower = 1
+	state_category = wasteland
+	
+	history = {
+		owner = ZZZ
+	}
+	
+	provinces = {
+		1440 4155
+	}
+	
+	local_supplies = 10
+}

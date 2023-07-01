@@ -1,0 +1,21 @@
+capital = 219
+
+recruit_character = SOV_Andrei_Gromyko
+
+set_popularities = {
+	Pro_Soviet = 100
+}
+set_politics = {
+	ruling_party = Pro_Soviet
+	last_election = "1980.1.1"
+	election_frequency = 60
+	elections_allowed = no
+}
+
+create_faction = SOV_Bloc
+add_to_faction = SOV
+
+SOV_Andrei_Gromyko = {
+	set_variable = { Portrait_Code = 0 }
+	set_variable = { Portrait_Max = 0 }
+}

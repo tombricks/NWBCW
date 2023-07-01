@@ -1,0 +1,16 @@
+state = {
+	id = 8
+	name = "STATE_8" # Luxemburg
+	manpower = 1
+	state_category = wasteland
+	
+	history = {
+		owner = ZZZ
+	}
+	
+	provinces = {
+		6583
+	}
+	
+	local_supplies = 10
+}

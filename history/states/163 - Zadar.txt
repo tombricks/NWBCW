@@ -1,0 +1,16 @@
+state = {
+	id = 163
+	name = "STATE_163" # Zadar
+	manpower = 1
+	state_category = wasteland
+	
+	history = {
+		owner = ZZZ
+	}
+	
+	provinces = {
+		3943
+	}
+	
+	local_supplies = 10
+}

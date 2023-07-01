@@ -1,0 +1,16 @@
+state = {
+	id = 788
+	name = "STATE_788" # Salamanca
+	manpower = 1
+	state_category = wasteland
+	
+	history = {
+		owner = ZZZ
+	}
+	
+	provinces = {
+		794 874 3874 6867 9770 13221
+	}
+	
+	local_supplies = 10
+}

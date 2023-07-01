@@ -1,0 +1,16 @@
+state = {
+	id = 605
+	name = "STATE_605" # Sichuan
+	manpower = 1
+	state_category = wasteland
+	
+	history = {
+		owner = ZZZ
+	}
+	
+	provinces = {
+		1367 1395 1893 2030 2091 4925 5048 6999 7240 7256 8026 10132 10144 11865 12274 12705 12767
+	}
+	
+	local_supplies = 10
+}

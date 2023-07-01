@@ -1,0 +1,16 @@
+state = {
+	id = 779
+	name = "STATE_779" # Ivory Coast
+	manpower = 1
+	state_category = wasteland
+	
+	history = {
+		owner = ZZZ
+	}
+	
+	provinces = {
+		5013 5070 8065 8122 10762 10803
+	}
+	
+	local_supplies = 10
+}

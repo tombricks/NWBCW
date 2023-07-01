@@ -1,0 +1,16 @@
+state = {
+	id = 58
+	name = "STATE_58" # Schleswig-Holstein
+	manpower = 1
+	state_category = wasteland
+	
+	history = {
+		owner = ZZZ
+	}
+	
+	provinces = {
+		317 3231 3368 6257 6389 9320 9347 11331 11366
+	}
+	
+	local_supplies = 10
+}

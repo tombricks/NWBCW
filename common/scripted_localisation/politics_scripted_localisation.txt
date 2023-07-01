@@ -1,0 +1,21 @@
+defined_text ={
+	name = GetSubideology
+	text = { trigger = { has_country_leader_with_trait = SUBIDEOLOGY_Marxism_Leninism } localization_key = SUBIDEOLOGY_Marxism_Leninism }
+	text = { trigger = { has_country_leader_with_trait = SUBIDEOLOGY_Mao_Zedong_Thought } localization_key = SUBIDEOLOGY_Mao_Zedong_Thought }
+	# Script-GetSubideologyN
+	text = { localization_key = SUBIDEOLOGY_Socialism }
+}
+defined_text ={
+	name = GetSubideologyAdj
+	text = { trigger = { has_country_leader_with_trait = SUBIDEOLOGY_Marxism_Leninism } localization_key = SUBIDEOLOGY_Marxism_Leninism_ADJ }
+	text = { trigger = { has_country_leader_with_trait = SUBIDEOLOGY_Mao_Zedong_Thought } localization_key = SUBIDEOLOGY_Mao_Zedong_Thought_ADJ }
+	# Script-GetSubideologyAdj
+	text = { localization_key = SUBIDEOLOGY_Socialism_ADJ }
+}
+defined_text ={
+	name = GetSubideologyIcon
+	text = { trigger = { has_country_leader_with_trait = SUBIDEOLOGY_Marxism_Leninism } localization_key = GFX_SUBIDEOLOGY_Marxism_Leninism }
+	text = { trigger = { has_country_leader_with_trait = SUBIDEOLOGY_Mao_Zedong_Thought } localization_key = GFX_SUBIDEOLOGY_Mao_Zedong_Thought }
+	# Script-GetSubideologyIcon
+	text = { localization_key = GFX_SUBIDEOLOGY_Socialism }
+}

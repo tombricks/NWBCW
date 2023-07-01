@@ -1,0 +1,16 @@
+state = {
+	id = 207
+	name = "STATE_207" # Vitebsk
+	manpower = 1
+	state_category = wasteland
+	
+	history = {
+		owner = ZZZ
+	}
+	
+	provinces = {
+		323 3219 3331 6220 6249 6326 6371 9241 9323 11220 11241
+	}
+	
+	local_supplies = 10
+}

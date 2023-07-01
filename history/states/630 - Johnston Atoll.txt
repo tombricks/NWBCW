@@ -1,0 +1,16 @@
+state = {
+	id = 630
+	name = "STATE_630" # Johnston Atoll
+	manpower = 1
+	state_category = wasteland
+	
+	history = {
+		owner = ZZZ
+	}
+	
+	provinces = {
+		13051
+	}
+	
+	local_supplies = 10
+}

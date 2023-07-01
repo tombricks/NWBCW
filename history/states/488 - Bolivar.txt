@@ -1,0 +1,16 @@
+state = {
+	id = 488
+	name = "STATE_488" # Bolivar
+	manpower = 1
+	state_category = wasteland
+	
+	history = {
+		owner = ZZZ
+	}
+	
+	provinces = {
+		1981 5317 7915 8050 10736 10849 10879
+	}
+	
+	local_supplies = 10
+}

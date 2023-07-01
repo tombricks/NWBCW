@@ -1,0 +1,16 @@
+state = {
+	id = 763
+	name = "STATE_763" # Königsberg
+	manpower = 1
+	state_category = wasteland
+	
+	history = {
+		owner = ZZZ
+	}
+	
+	provinces = {
+		281 348 395 3384 6332 11265
+	}
+	
+	local_supplies = 10
+}

@@ -1,0 +1,16 @@
+state = {
+	id = 668
+	name = "STATE_668" # The Moluccas
+	manpower = 1
+	state_category = wasteland
+	
+	history = {
+		owner = ZZZ
+	}
+	
+	provinces = {
+		1351 1419 1437 1574 7369 7413 7557 10141 10342 10409
+	}
+	
+	local_supplies = 10
+}

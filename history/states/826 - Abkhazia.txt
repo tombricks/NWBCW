@@ -1,0 +1,16 @@
+state = {
+	id = 826
+	name = "STATE_826" # Abkhazia
+	manpower = 1
+	state_category = wasteland
+	
+	history = {
+		owner = ZZZ
+	}
+	
+	provinces = {
+		672 11599 11617 11647
+	}
+	
+	local_supplies = 10
+}

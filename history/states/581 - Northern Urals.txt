@@ -1,0 +1,16 @@
+state = {
+	id = 581
+	name = "STATE_581" # Northern Urals
+	manpower = 1
+	state_category = wasteland
+	
+	history = {
+		owner = ZZZ
+	}
+	
+	provinces = {
+		10551 10677 11098 12393 12502
+	}
+	
+	local_supplies = 10
+}

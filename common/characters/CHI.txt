@@ -1,0 +1,15 @@
+characters = {
+	CHI_Deng_Liqun = {
+		name = CHI_Deng_Liqun
+		portraits = {
+			civilian = {
+				large = "GFX_Portrait_CHI_Deng_Liqun_0"
+			}
+		}
+		country_leader = {
+			ideology = Pro_China_type
+			traits = { TITLE_General_Secretary SUBIDEOLOGY_Marxism_Leninism }
+			expire = "2020.1.1"
+		}
+	}
+}

@@ -1,0 +1,16 @@
+state = {
+	id = 558
+	name = "STATE_558" # Lagos
+	manpower = 1
+	state_category = wasteland
+	
+	history = {
+		owner = ZZZ
+	}
+	
+	provinces = {
+		2050 4952 12731 12817 12900
+	}
+	
+	local_supplies = 10
+}

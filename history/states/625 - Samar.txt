@@ -1,0 +1,16 @@
+state = {
+	id = 625
+	name = "STATE_625" # Samar
+	manpower = 1
+	state_category = wasteland
+	
+	history = {
+		owner = ZZZ
+	}
+	
+	provinces = {
+		1224 1311 1340 4269 4373
+	}
+	
+	local_supplies = 10
+}

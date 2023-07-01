@@ -1,0 +1,16 @@
+state = {
+	id = 308
+	name = "STATE_308" # Leeward Islands
+	manpower = 1
+	state_category = wasteland
+	
+	history = {
+		owner = ZZZ
+	}
+	
+	provinces = {
+		4450 7123
+	}
+	
+	local_supplies = 10
+}

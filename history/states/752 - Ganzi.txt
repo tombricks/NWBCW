@@ -1,0 +1,16 @@
+state = {
+	id = 752
+	name = "STATE_752" # Ganzi
+	manpower = 1
+	state_category = wasteland
+	
+	history = {
+		owner = ZZZ
+	}
+	
+	provinces = {
+		1918 7988 8104 12724 12837 4999
+	}
+	
+	local_supplies = 10
+}

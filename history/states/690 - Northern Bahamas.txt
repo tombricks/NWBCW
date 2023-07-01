@@ -1,0 +1,16 @@
+state = {
+	id = 690
+	name = "STATE_690" # Northern Bahamas
+	manpower = 1
+	state_category = wasteland
+	
+	history = {
+		owner = ZZZ
+	}
+	
+	provinces = {
+		4647 7245 10254
+	}
+	
+	local_supplies = 10
+}

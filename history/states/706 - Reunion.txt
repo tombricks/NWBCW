@@ -1,0 +1,16 @@
+state = {
+	id = 706
+	name = "STATE_706" # Reunion
+	manpower = 1
+	state_category = wasteland
+	
+	history = {
+		owner = ZZZ
+	}
+	
+	provinces = {
+		13017
+	}
+	
+	local_supplies = 10
+}

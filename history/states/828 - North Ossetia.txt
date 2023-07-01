@@ -1,0 +1,16 @@
+state = {
+	id = 828
+	name = "STATE_828" # North Ossetia
+	manpower = 1
+	state_category = wasteland
+	
+	history = {
+		owner = ZZZ
+	}
+	
+	provinces = {
+		9628 9647 11609
+	}
+	
+	local_supplies = 10
+}

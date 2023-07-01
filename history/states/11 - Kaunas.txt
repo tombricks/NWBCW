@@ -1,0 +1,16 @@
+state = {
+	id = 11
+	name = "STATE_11" # Kaunas
+	manpower = 1
+	state_category = wasteland
+	
+	history = {
+		owner = ZZZ
+	}
+	
+	provinces = {
+		327 6296 6360 9357 9404
+	}
+	
+	local_supplies = 10
+}

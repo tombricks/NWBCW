@@ -1,0 +1,16 @@
+state = {
+	id = 269
+	name = "STATE_269" # British Somaliland
+	manpower = 1
+	state_category = wasteland
+	
+	history = {
+		owner = ZZZ
+	}
+	
+	provinces = {
+		1905 5068 8094 10777 10833 10921 12759 12814
+	}
+	
+	local_supplies = 10
+}

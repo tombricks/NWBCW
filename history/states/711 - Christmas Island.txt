@@ -1,0 +1,16 @@
+state = {
+	id = 711
+	name = "STATE_711" # Christmas Island
+	manpower = 1
+	state_category = wasteland
+	
+	history = {
+		owner = ZZZ
+	}
+	
+	provinces = {
+		13005
+	}
+	
+	local_supplies = 10
+}

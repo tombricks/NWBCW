@@ -1,0 +1,16 @@
+state = {
+	id = 858
+	name = "STATE_858" # Najiran
+	manpower = 1
+	state_category = wasteland
+	
+	history = {
+		owner = ZZZ
+	}
+	
+	provinces = {
+		5006 8030 10870 12768
+	}
+	
+	local_supplies = 10
+}

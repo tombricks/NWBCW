@@ -1,0 +1,16 @@
+state = {
+	id = 504
+	name = "STATE_504" # Iguaçú
+	manpower = 1
+	state_category = wasteland
+	
+	history = {
+		owner = ZZZ
+	}
+	
+	provinces = {
+		2111 2181 5200 8189 8224 10959 12951
+	}
+	
+	local_supplies = 10
+}

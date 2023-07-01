@@ -1,0 +1,16 @@
+state = {
+	id = 56
+	name = "STATE_56" # Weser-Ems
+	manpower = 1
+	state_category = wasteland
+	
+	history = {
+		owner = ZZZ
+	}
+	
+	provinces = {
+		241 247 309 336 3234 9281 11233 11264 11360 11388
+	}
+	
+	local_supplies = 10
+}

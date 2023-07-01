@@ -1,0 +1,16 @@
+state = {
+	id = 74
+	name = "STATE_74" # Eastern Sudetenland
+	manpower = 1
+	state_category = wasteland
+	
+	history = {
+		owner = ZZZ
+	}
+	
+	provinces = {
+		421 3414 3583 6485
+	}
+	
+	local_supplies = 10
+}

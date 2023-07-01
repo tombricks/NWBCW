@@ -1,0 +1,16 @@
+state = {
+	id = 471
+	name = "STATE_471" # Upper British Columbia
+	manpower = 1
+	state_category = wasteland
+	
+	history = {
+		owner = ZZZ
+	}
+	
+	provinces = {
+		917 1411 1799 1872 4678 5403 10548 12508 12571
+	}
+	
+	local_supplies = 10
+}

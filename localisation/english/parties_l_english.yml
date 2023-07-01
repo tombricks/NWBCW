@@ -1,0 +1,38 @@
+﻿l_english:
+ Pro_Soviet: "Pro-Soviet"
+ Pro_Soviet_noun: "Pro-Soviet"
+ Pro_Soviet_desc: "Pro-Soviet Regime"
+ Pro_Soviet_type: "Pro-Soviet"
+ Pro_Soviet_type_desc: "Pro-Soviet"
+
+ Pro_China: "Pro-China"
+ Pro_China_noun: "Pro-China"
+ Pro_China_desc: "Pro-China Regime"
+ Pro_China_type: "Pro-China"
+ Pro_China_type_desc: "Pro-China"
+
+ Pro_Albania: "Pro-Albania"
+ Pro_Albania_noun: "Pro-Albania"
+ Pro_Albania_desc: "Pro-Albania Regime"
+ Pro_Albania_type: "Pro-Albania"
+ Pro_Albania_type_desc: "Pro-Albania"
+
+ Non_Aligned: "Non-Aligned"
+ Non_Aligned_noun: "Non-Aligned"
+ Non_Aligned_desc: "Non-Aligned Regime"
+ Non_Aligned_type: "Non-Aligned"
+ Non_Aligned_type_desc: "Non-Aligned"
+
+ Anti_Socialist: "Anti-Socialist"
+ Anti_Socialist_noun: "Anti-Socialist"
+ Anti_Socialist_desc: "Anti-Socialist Regime"
+ Anti_Socialist_type: "Anti-Socialist"
+ Anti_Socialist_type_desc: "Anti-Socialist"
+
+ TITLE_General_Secretary: "General Secretary"
+
+ SUBIDEOLOGY_Marxism_Leninism: "Marxism-Leninism"
+ SUBIDEOLOGY_Marxism_Leninism_ADJ: "Marxist-Leninist"
+ SUBIDEOLOGY_Mao_Zedong_Thought: "Mao Zedong Thought"
+ SUBIDEOLOGY_Mao_Zedong_Thought_ADJ: "Mao Zedong Thought"
+ # Script-SubideologyLoc

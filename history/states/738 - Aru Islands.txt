@@ -1,0 +1,16 @@
+state = {
+	id = 738
+	name = "STATE_738" # Aru Islands
+	manpower = 1
+	state_category = wasteland
+	
+	history = {
+		owner = ZZZ
+	}
+	
+	provinces = {
+		4579
+	}
+	
+	local_supplies = 10
+}

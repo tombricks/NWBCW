@@ -1,0 +1,16 @@
+state = {
+	id = 324
+	name = "STATE_324" # Bhutan
+	manpower = 1
+	state_category = wasteland
+	
+	history = {
+		owner = ZZZ
+	}
+	
+	provinces = {
+		8010 12860
+	}
+	
+	local_supplies = 10
+}

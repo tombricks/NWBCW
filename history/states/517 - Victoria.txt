@@ -1,0 +1,16 @@
+state = {
+	id = 517
+	name = "STATE_517" # Victoria
+	manpower = 1
+	state_category = wasteland
+	
+	history = {
+		owner = ZZZ
+	}
+	
+	provinces = {
+		1759 2130 2155 4776 4791 7755 7798 7811 10553 10581 10622 10637 12576 12932
+	}
+	
+	local_supplies = 10
+}

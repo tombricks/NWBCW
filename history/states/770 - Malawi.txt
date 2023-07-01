@@ -1,0 +1,16 @@
+state = {
+	id = 770
+	name = "STATE_770" # Malawi
+	manpower = 1
+	state_category = wasteland
+	
+	history = {
+		owner = ZZZ
+	}
+	
+	provinces = {
+		2255 12908 12986 13209
+	}
+	
+	local_supplies = 10
+}

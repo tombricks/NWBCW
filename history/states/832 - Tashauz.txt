@@ -1,0 +1,16 @@
+state = {
+	id = 832
+	name = "STATE_832" # Tashauz
+	manpower = 1
+	state_category = wasteland
+	
+	history = {
+		owner = ZZZ
+	}
+	
+	provinces = {
+		1493 1649 7618 10485
+	}
+	
+	local_supplies = 10
+}

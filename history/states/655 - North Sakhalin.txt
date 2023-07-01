@@ -1,0 +1,16 @@
+state = {
+	id = 655
+	name = "STATE_655" # North Sakhalin
+	manpower = 1
+	state_category = wasteland
+	
+	history = {
+		owner = ZZZ
+	}
+	
+	provinces = {
+		855 1742 1755
+	}
+	
+	local_supplies = 10
+}

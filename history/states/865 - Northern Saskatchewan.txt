@@ -1,0 +1,16 @@
+state = {
+	id = 865
+	name = "STATE_865" # Northern Saskatchewan
+	manpower = 1
+	state_category = wasteland
+	
+	history = {
+		owner = ZZZ
+	}
+	
+	provinces = {
+		1671 3800 4695 6779 12682 13168 13183 13185 13187
+	}
+	
+	local_supplies = 10
+}

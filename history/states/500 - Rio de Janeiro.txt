@@ -1,0 +1,16 @@
+state = {
+	id = 500
+	name = "STATE_500" # Rio de Janeiro
+	manpower = 1
+	state_category = wasteland
+	
+	history = {
+		owner = ZZZ
+	}
+	
+	provinces = {
+		5172 8190 10980 12996
+	}
+	
+	local_supplies = 10
+}

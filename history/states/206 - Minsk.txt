@@ -1,0 +1,16 @@
+state = {
+	id = 206
+	name = "STATE_206" # Minsk
+	manpower = 1
+	state_category = wasteland
+	
+	history = {
+		owner = ZZZ
+	}
+	
+	provinces = {
+		216 294 342 3267 3378 6292 9289 11216 11322 11370
+	}
+	
+	local_supplies = 10
+}
