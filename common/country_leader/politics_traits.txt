@@ -4,5 +4,6 @@ leader_traits = {
 
 	SUBIDEOLOGY_Marxism_Leninism = {}
 	SUBIDEOLOGY_Mao_Zedong_Thought = {}
+	SUBIDEOLOGY_Socialism = {}
 	# Script-SubideologyTrait
 }

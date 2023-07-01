@@ -1,0 +1,15 @@
+spriteTypes = {	
+	spriteType = {
+		name = "GFX_SUBIDEOLOGY_Marxism_Leninism"
+		texturefile = "gfx/interface/ideologies/SUBIDEOLOGY_Marxism_Leninism.dds"
+	}
+	spriteType = {
+		name = "GFX_SUBIDEOLOGY_Mao_Zedong_Thought"
+		texturefile = "gfx/interface/ideologies/SUBIDEOLOGY_Mao_Zedong_Thought.dds"
+	}
+	spriteType = {
+		name = "GFX_SUBIDEOLOGY_Socialism"
+		texturefile = "gfx/interface/ideologies/SUBIDEOLOGY_Socialism.dds"
+	}
+	# Script-SubideologyGFX
+}

@@ -10,6 +10,7 @@ Has_Subideology = {
 	OR = {
 		has_country_leader_with_trait = SUBIDEOLOGY_Marxism_Leninism
 		has_country_leader_with_trait = SUBIDEOLOGY_Mao_Zedong_Thought
+		has_country_leader_with_trait = SUBIDEOLOGY_Socialism
 		# Script-Has_Subideology
 	}
 }
