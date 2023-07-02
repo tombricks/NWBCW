@@ -2,7 +2,10 @@
  SOV: "Soviet Union"
  SOV_DEF: "the Soviet Union"
  SOV_ADJ: "Soviet"
-
- SOV_Andrei_Gromyko: "Andrei Gromyko"
  
+ SOV_Pro_Soviet_party: "KPSS"
+ SOV_Pro_Soviet_party_long: "Communist Party of the Soviet Union"
+
  SOV_Bloc: "Soviet Bloc"
+
+ SOV_Grigory_Romanov: "Grigory Romanov"

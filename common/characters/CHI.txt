@@ -8,7 +8,7 @@ characters = {
 		}
 		country_leader = {
 			ideology = Pro_China_type
-			traits = { TITLE_General_Secretary SUBIDEOLOGY_Marxism_Leninism }
+			traits = { TITLE_General_Secretary SUBIDEOLOGY_Mao_Zedong_Thought }
 			expire = "2020.1.1"
 		}
 	}

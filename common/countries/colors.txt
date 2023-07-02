@@ -8,8 +8,8 @@ SOV = {
 	color_ui = rgb { 127 39 39 }
 }
 CHI = {
-	color = rgb { 245 12 55 }
-	color_ui = rgb { 245 12 55 }
+	color = rgb { 255 182 0 }
+	color_ui = rgb { 255 182 0 }
 }
 
 D01 = {

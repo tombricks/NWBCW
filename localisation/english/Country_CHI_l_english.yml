@@ -5,6 +5,9 @@
  CHI_PRC: "People's Republic of China"
  CHI_PRC_DEF: "the People's Republic of China"
 
- CHI_Deng_Liqun: "Deng Liqun"
+ CHI_Pro_China_party: "CPC"
+ CHI_Pro_China_party_long: "Communist Party of China"
  
  CHI_Bloc: "Chinese Bloc"
+
+ CHI_Deng_Liqun: "Deng Liqun"

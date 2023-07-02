@@ -30,6 +30,8 @@
  Anti_Socialist_type_desc: "Anti-Socialist"
 
  TITLE_General_Secretary: "General Secretary"
+ TITLE_First_Secretary: "First Secretary"
+ # Script-TitleLoc
 
  SUBIDEOLOGY_Marxism_Leninism: "Marxism-Leninism"
  SUBIDEOLOGY_Marxism_Leninism_ADJ: "Marxist-Leninist"

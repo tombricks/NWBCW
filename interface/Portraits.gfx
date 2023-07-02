@@ -1,7 +1,7 @@
 spriteTypes = {
     spriteType = {
-        name = "GFX_Portrait_SOV_Andrei_Gromyko_0"
-        texturefile = "gfx/leaders/SOV_Andrei_Gromyko.dds"
+        name = "GFX_Portrait_SOV_Grigory_Romanov_0"
+        texturefile = "gfx/leaders/SOV_Grigory_Romanov.dds"
     }
     spriteType = {
         name = "GFX_Portrait_CHI_Deng_Liqun_0"

@@ -28,3 +28,11 @@ defined_text ={
 	# Script-GetSubideologyIcon
 	text = { localization_key = GFX_SUBIDEOLOGY_Socialism }
 }
+
+defined_text ={
+	name = GetTitle
+	text = { trigger = { has_country_leader_with_trait = TITLE_General_Secretary } localization_key = TITLE_General_Secretary }
+	text = { trigger = { has_country_leader_with_trait = TITLE_First_Secretary } localization_key = TITLE_First_Secretary }
+	# Script-GetSubideologyN
+	text = { localization_key = TITLE_Leader }
+}

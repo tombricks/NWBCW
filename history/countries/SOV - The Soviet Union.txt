@@ -1,6 +1,6 @@
 capital = 219
 
-recruit_character = SOV_Andrei_Gromyko
+recruit_character = SOV_Grigory_Romanov
 
 set_popularities = {
 	Pro_Soviet = 100
@@ -15,7 +15,7 @@ set_politics = {
 create_faction = SOV_Bloc
 add_to_faction = SOV
 
-SOV_Andrei_Gromyko = {
+SOV_Grigory_Romanov = {
 	set_variable = { Portrait_Code = 0 }
 	set_variable = { Portrait_Max = 0 }
 }

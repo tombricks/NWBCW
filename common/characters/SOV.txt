@@ -1,14 +1,14 @@
 characters = {
-	SOV_Andrei_Gromyko = {
-		name = SOV_Andrei_Gromyko
+	SOV_Grigory_Romanov = {
+		name = SOV_Grigory_Romanov
 		portraits = {
 			civilian = {
-				large = "GFX_Portrait_SOV_Andrei_Gromyko_0"
+				large = "GFX_Portrait_SOV_Grigory_Romanov_0"
 			}
 		}
 		country_leader = {
 			ideology = Pro_Soviet_type
-			traits = { TITLE_General_Secretary SUBIDEOLOGY_Marxism_Leninism }
+			traits = { TITLE_First_Secretary SUBIDEOLOGY_Marxism_Leninism }
 			expire = "2020.1.1"
 		}
 	}

@@ -1,6 +1,7 @@
 leader_traits = {
 	TITLE_General_Secretary = {}
 	TITLE_First_Secretary = {}
+	# Script-TitleTrait
 
 	SUBIDEOLOGY_Marxism_Leninism = {}
 	SUBIDEOLOGY_Mao_Zedong_Thought = {}
