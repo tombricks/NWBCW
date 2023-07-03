@@ -1,7 +1,7 @@
 import os
-states = [ 329, 568, 576, 516, 878, 575, 567, 566, 564, 575, 565, 876, 574, 562, 877, 644, 822, 637, 562, 563, 561, 560, 657, 409, 408, 655, 537, 555, 763 ]
+states = [ 620, 592, 729  ]
 files = os.listdir('history/states')
-new = "owner = SOV\n\t\tadd_core_of = SOV\n\t\tset_state_flag = country_russia"
+new = "owner = CHI\n\t\tadd_core_of = CHI"
 for filename in files:
     if "txt" in filename:
         fileId = int(filename[0:filename.index(" ")])

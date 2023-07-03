@@ -243,7 +243,7 @@
  STATE_240:0 "Belgorod"
  STATE_241:0 "Gomel"
  STATE_242:0 "Smolensk"
- STATE_243:0 "Roslavl"
+ STATE_243:0 "Afar"
  STATE_244:0 "Volkhov"
  STATE_245:0 "Millerovo"
  STATE_246:0 "Rzhev"
@@ -908,4 +908,3 @@
  STATE_905:0 "Mombasa"
  STATE_906:0 "Socotra"
  STATE_907:0 "Cairo"
- STATE_908:0 "Afar"

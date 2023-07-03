@@ -1,0 +1,8 @@
+leader_traits = {
+	dyn_peoples_republic_of = {}
+	dyn_soviet_socialist_republic = {}
+	dyn_peoples_socialist_republic_of = {}
+	base_CHI = {}
+	base_SOV = {}
+	base_ALB = {}
+}

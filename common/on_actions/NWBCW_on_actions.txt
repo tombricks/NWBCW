@@ -1,0 +1,24 @@
+on_actions = {
+	on_startup = {
+		effect = {
+			every_country = {
+				if = {
+					limit = {
+						NOT = {
+							has_variable = base_cosmetic
+						}
+						NOT = {
+							tag = ZZZ
+						}
+					}
+					meta_effect = {
+						text = {
+							set_variable = { base_cosmetic = token:base_[THING] }
+						}
+						THING = "[THIS.GetTag]"
+					}
+				}
+			}
+		}
+	}
+}

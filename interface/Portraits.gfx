@@ -7,4 +7,8 @@ spriteTypes = {
         name = "GFX_Portrait_CHI_Deng_Liqun_0"
         texturefile = "gfx/leaders/CHI_Deng_Liqun.dds"
     }
+    spriteType = {
+        name = "GFX_Portrait_ALB_Nexhmije_Hoxha_0"
+        texturefile = "gfx/leaders/ALB_Nexhmije_Hoxha.dds"
+    }
 }

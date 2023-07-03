@@ -1,14 +1,75 @@
-Remove_Title = {
-	if = { limit = { has_country_leader_with_trait = TITLE_General_Secretary } remove_country_leader_trait = TITLE_General_Secretary }
-	if = { limit = { has_country_leader_with_trait = TITLE_First_Secretary } remove_country_leader_trait = TITLE_First_Secretary }
-	# Script-Remove_Title
+remove_subideology = {
+	for_each_loop = {
+		array = global.subideology_traits
+		value = v
+		meta_effect = {
+			text = {
+				if = {
+					limit = {
+						has_country_leader_with_trait = [TRAIT]
+					}
+					remove_country_leader_trait = [TRAIT]
+				}
+			}
+			TRAIT = "[?v.GetTokenKey]"
+		}
+	}
 }
-
-Remove_Subideology = {
-	if = { limit = { has_country_leader_with_trait = SUBIDEOLOGY_Marxism_Leninism } remove_country_leader_trait = SUBIDEOLOGY_Marxism_Leninism }
-	if = { limit = { has_country_leader_with_trait = SUBIDEOLOGY_Mao_Zedong_Thought } remove_country_leader_trait = SUBIDEOLOGY_Mao_Zedong_Thought }
-	if = { limit = { has_country_leader_with_trait = SUBIDEOLOGY_Socialism } remove_country_leader_trait = SUBIDEOLOGY_Socialism }
-	if = { limit = { has_country_leader_with_trait = SUBIDEOLOGY_Marxism } remove_country_leader_trait = SUBIDEOLOGY_Marxism }
-	if = { limit = { has_country_leader_with_trait = SUBIDEOLOGY_Leninism } remove_country_leader_trait = SUBIDEOLOGY_Leninism }
-	# Script-Remove_Subideology
+remove_title = {
+	for_each_loop = {
+		array = global.title_traits
+		value = v
+		meta_effect = {
+			text = {
+				if = {
+					limit = {
+						has_country_leader_with_trait = [TRAIT]
+					}
+					remove_country_leader_trait = [TRAIT]
+				}
+			}
+			TRAIT = "[?v.GetTokenKey]"
+		}
+	}
+}
+set_all_long_names = {
+	every_country = {
+		set_long_name_conditional = yes
+	}
+}
+set_long_name_conditional = {
+	if = {
+		limit = {
+			has_global_flag = use_long_names
+		}
+		set_long_name = yes
+	}
+	else = {
+		set_short_name = yes
+	}
+}
+set_long_name = {
+	if = {
+		limit = {
+			has_variable = country_name
+		}
+		meta_effect = {
+			text = {
+				set_cosmetic_tag = [BASE]_[TRAIT]
+			}
+			TRAIT = "[?country_name.GetTokenKey]"
+			BASE = "[?base_cosmetic.GetTokenKey]"
+		}
+	}
+	else = {
+		set_short_name = yes
+	}
+}
+set_short_name = {
+	meta_effect = {
+		text = {
+			set_cosmetic_tag = [BASE]
+		}
+		BASE = "[?base_cosmetic.GetTokenKey]"
+	}
 }

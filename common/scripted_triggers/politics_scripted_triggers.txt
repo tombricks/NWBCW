@@ -1,18 +1,27 @@
-Has_Title = {
-	OR = {
-		has_country_leader_with_trait = TITLE_General_Secretary
-		has_country_leader_with_trait = TITLE_First_Secretary
-		# Script-Has_Title
+has_subideology = {
+	any_of = {
+		array = global.subideology_traits
+		value = v
+		meta_trigger = {
+			text = {
+				has_country_leader_with_trait = [TRAIT]
+			}
+			TRAIT = "[?v.GetTokenKey]"
+			debug = yes
+		}
 	}
 }
 
-Has_Subideology = {
-	OR = {
-		has_country_leader_with_trait = SUBIDEOLOGY_Marxism_Leninism
-		has_country_leader_with_trait = SUBIDEOLOGY_Mao_Zedong_Thought
-		has_country_leader_with_trait = SUBIDEOLOGY_Socialism
-		has_country_leader_with_trait = SUBIDEOLOGY_Marxism
-		has_country_leader_with_trait = SUBIDEOLOGY_Leninism
-		# Script-Has_Subideology
+has_title = {
+	any_of = {
+		array = global.title_traits
+		value = v
+		meta_trigger = {
+			text = {
+				has_country_leader_with_trait = [TRAIT]
+			}
+			TRAIT = "[?v.GetTokenKey]"
+			debug = yes
+		}
 	}
 }

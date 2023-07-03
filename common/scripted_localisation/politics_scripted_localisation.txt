@@ -5,6 +5,7 @@ defined_text ={
 	text = { trigger = { has_country_leader_with_trait = SUBIDEOLOGY_Socialism } localization_key = SUBIDEOLOGY_Socialism }
 	text = { trigger = { has_country_leader_with_trait = SUBIDEOLOGY_Marxism } localization_key = SUBIDEOLOGY_Marxism }
 	text = { trigger = { has_country_leader_with_trait = SUBIDEOLOGY_Leninism } localization_key = SUBIDEOLOGY_Leninism }
+	text = { trigger = { has_country_leader_with_trait = SUBIDEOLOGY_Hoxhaism } localization_key = SUBIDEOLOGY_Hoxhaism }
 	# Script-GetSubideologyN
 	text = { localization_key = SUBIDEOLOGY_Socialism }
 }
@@ -15,8 +16,20 @@ defined_text ={
 	text = { trigger = { has_country_leader_with_trait = SUBIDEOLOGY_Socialism } localization_key = SUBIDEOLOGY_Socialism_ADJ }
 	text = { trigger = { has_country_leader_with_trait = SUBIDEOLOGY_Marxism } localization_key = SUBIDEOLOGY_Marxism_ADJ }
 	text = { trigger = { has_country_leader_with_trait = SUBIDEOLOGY_Leninism } localization_key = SUBIDEOLOGY_Leninism_ADJ }
+	text = { trigger = { has_country_leader_with_trait = SUBIDEOLOGY_Hoxhaism } localization_key = SUBIDEOLOGY_Hoxhaism_ADJ }
 	# Script-GetSubideologyAdj
 	text = { localization_key = SUBIDEOLOGY_Socialism_ADJ }
+}
+defined_text ={
+	name = GetSubideologyDesc
+	text = { trigger = { has_country_leader_with_trait = SUBIDEOLOGY_Marxism_Leninism } localization_key = SUBIDEOLOGY_Marxism_Leninism_desc }
+	text = { trigger = { has_country_leader_with_trait = SUBIDEOLOGY_Mao_Zedong_Thought } localization_key = SUBIDEOLOGY_Mao_Zedong_Thought_desc }
+	text = { trigger = { has_country_leader_with_trait = SUBIDEOLOGY_Socialism } localization_key = SUBIDEOLOGY_Socialism_desc }
+	text = { trigger = { has_country_leader_with_trait = SUBIDEOLOGY_Marxism } localization_key = SUBIDEOLOGY_Marxism_desc }
+	text = { trigger = { has_country_leader_with_trait = SUBIDEOLOGY_Leninism } localization_key = SUBIDEOLOGY_Leninism_desc }
+	text = { trigger = { has_country_leader_with_trait = SUBIDEOLOGY_Hoxhaism } localization_key = SUBIDEOLOGY_Hoxhaism_desc }
+	# Script-GetSubideologyDesc
+	text = { localization_key = SUBIDEOLOGY_Socialism_desc }
 }
 defined_text ={
 	name = GetSubideologyIcon
@@ -25,6 +38,7 @@ defined_text ={
 	text = { trigger = { has_country_leader_with_trait = SUBIDEOLOGY_Socialism } localization_key = GFX_SUBIDEOLOGY_Socialism }
 	text = { trigger = { has_country_leader_with_trait = SUBIDEOLOGY_Marxism } localization_key = GFX_SUBIDEOLOGY_Marxism }
 	text = { trigger = { has_country_leader_with_trait = SUBIDEOLOGY_Leninism } localization_key = GFX_SUBIDEOLOGY_Leninism }
+	text = { trigger = { has_country_leader_with_trait = SUBIDEOLOGY_Hoxhaism } localization_key = GFX_SUBIDEOLOGY_Hoxhaism }
 	# Script-GetSubideologyIcon
 	text = { localization_key = GFX_SUBIDEOLOGY_Socialism }
 }
@@ -33,6 +47,7 @@ defined_text ={
 	name = GetTitle
 	text = { trigger = { has_country_leader_with_trait = TITLE_General_Secretary } localization_key = TITLE_General_Secretary }
 	text = { trigger = { has_country_leader_with_trait = TITLE_First_Secretary } localization_key = TITLE_First_Secretary }
-	# Script-GetSubideologyN
+	text = { trigger = { has_country_leader_with_trait = TITLE_Leader } localization_key = TITLE_Leader }
+	# Script-GetTitleN
 	text = { localization_key = TITLE_Leader }
 }

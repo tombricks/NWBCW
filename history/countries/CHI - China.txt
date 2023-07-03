@@ -1,7 +1,6 @@
 capital = 608
 
-set_cosmetic_tag = CHI_PRC
-
+set_variable = { country_name = token:dyn_peoples_republic_of }
 recruit_character = CHI_Deng_Liqun
 
 set_popularities = {
@@ -16,6 +15,7 @@ set_politics = {
 
 create_faction = CHI_Bloc
 add_to_faction = CHI
+add_to_faction = ALB
 
 CHI_Deng_Liqun = {
 	set_variable = { Portrait_Code = 0 }

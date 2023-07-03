@@ -9,6 +9,10 @@ state = {
 		add_core_of = SOV
 		set_state_flag = country_russia
 		set_state_flag = correct_state_population
+		victory_points = { 6380 50 } # Moscow
+		victory_points = { 9378 8 } # Balashikha 
+		victory_points = { 6348 8 } # Podolsk 
+		victory_points = { 11282 5 } # Khimki 
 	}
 	
 	provinces = {

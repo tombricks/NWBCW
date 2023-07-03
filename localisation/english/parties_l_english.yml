@@ -31,16 +31,28 @@
 
  TITLE_General_Secretary: "General Secretary"
  TITLE_First_Secretary: "First Secretary"
+ TITLE_Leader: "Leader"
  # Script-TitleLoc
+
+ SUBIDEOLOGY_TT: "§Y[GetSubideology]§!"
+ SUBIDEOLOGY_TT_2: "[GetSubideologyDesc]"
 
  SUBIDEOLOGY_Marxism_Leninism: "Marxism-Leninism"
  SUBIDEOLOGY_Marxism_Leninism_ADJ: "Marxist-Leninist"
+ SUBIDEOLOGY_Marxism_Leninism_desc: "Developed by Joseph Stalin in the 1920s as a synthesis of orthodox Marxist theory and the ideas of the revolutionary Vladimir Lenin, Marxism-Leninism is the scientific ideological framework at the heart of the international communist movement. The guiding idea behind most communist parties and states, central is the notion of the vanguard party based on democratic centralism that will seize power and establish the socialist dictatorship of the proletariat in the progress towards a stateless, moneyless, and classless society: communism."
  SUBIDEOLOGY_Mao_Zedong_Thought: "Mao Zedong Thought"
  SUBIDEOLOGY_Mao_Zedong_Thought_ADJ: "Mao Zedong Thought"
+ SUBIDEOLOGY_Mao_Zedong_Thought_desc: "Mao Zedong Thought is the variety of Marxism-Leninism developed by the late leader of the People's Republic of China, Mao Zedong. Mao Zedong Thought guided China through its industrialisation and growth into a world superpower."
  SUBIDEOLOGY_Socialism: "Socialism"
  SUBIDEOLOGY_Socialism_ADJ: "Socialist"
+ SUBIDEOLOGY_Socialism_desc: ""
  SUBIDEOLOGY_Marxism: "Marxism"
  SUBIDEOLOGY_Marxism_ADJ: "Marxist"
+ SUBIDEOLOGY_Marxism_desc: ""
  SUBIDEOLOGY_Leninism: "Leninism"
  SUBIDEOLOGY_Leninism_ADJ: "Leninist"
+ SUBIDEOLOGY_Leninism_desc: ""
+ SUBIDEOLOGY_Hoxhaism: "Hoxhaism"
+ SUBIDEOLOGY_Hoxhaism_ADJ: "Hoxhaist"
+ SUBIDEOLOGY_Hoxhaism_desc: ""
  # Script-SubideologyLoc

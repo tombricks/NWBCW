@@ -1,0 +1,13 @@
+d_list_tokens = {
+	set_temp_variable = { start = args^0 }
+	set_temp_variable = { end = args^1 }
+	add_to_temp_variable = { end = 1 }
+	set_temp_variable = { i = args^0 }
+	while_loop_effect = {
+		limit = {
+			check_variable = { i < end  }
+		}
+		log = "[?i]: [?i.GetTokenKey]"
+		add_to_temp_variable = { i = 1 }
+	}
+}

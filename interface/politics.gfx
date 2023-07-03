@@ -19,5 +19,9 @@ spriteTypes = {
 		name = "GFX_SUBIDEOLOGY_Leninism"
 		texturefile = "gfx/interface/ideologies/SUBIDEOLOGY_Leninism.dds"
 	}
+	spriteType = {
+		name = "GFX_SUBIDEOLOGY_Hoxhaism"
+		texturefile = "gfx/interface/ideologies/SUBIDEOLOGY_Hoxhaism.dds"
+	}
 	# Script-SubideologyGFX
 }

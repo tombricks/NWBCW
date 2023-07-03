@@ -9,6 +9,7 @@ state = {
 		add_core_of = SOV
 		set_state_flag = country_russia
 		set_state_flag = correct_state_population
+		victory_points = { 3335 10 } # Bryansk
 	}
 	
 	provinces = {

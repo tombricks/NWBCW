@@ -1,6 +1,7 @@
 leader_traits = {
 	TITLE_General_Secretary = {}
 	TITLE_First_Secretary = {}
+	TITLE_Leader = {}
 	# Script-TitleTrait
 
 	SUBIDEOLOGY_Marxism_Leninism = {}
@@ -8,5 +9,6 @@ leader_traits = {
 	SUBIDEOLOGY_Socialism = {}
 	SUBIDEOLOGY_Marxism = {}
 	SUBIDEOLOGY_Leninism = {}
+	SUBIDEOLOGY_Hoxhaism = {}
 	# Script-SubideologyTrait
 }
