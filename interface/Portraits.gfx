@@ -11,4 +11,5 @@ spriteTypes = {
         name = "GFX_Portrait_ALB_Nexhmije_Hoxha_0"
         texturefile = "gfx/leaders/ALB_Nexhmije_Hoxha.dds"
     }
+    # CountryGen-Entry
 }
