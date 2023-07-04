@@ -1,0 +1,24 @@
+state = {
+	id = 980
+	name = "STATE_980" # Meghalya
+	manpower = 1970999
+	state_category = state_03
+	resources = {
+		rubber = 12
+	}
+	
+	history = {
+		owner = ZZZ
+
+		buildings = {
+			infrastructure = 0
+			industrial_complex = 1
+		}
+	}
+	
+	provinces = {
+		1497 11742 11756
+	}
+	
+	local_supplies = 10
+}

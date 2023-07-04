@@ -1,0 +1,30 @@
+state = {
+	id = 989
+	name = "STATE_989" # North Odisha
+	manpower = 19969319
+	state_category = state_13
+	resources = {
+		aluminium = 34.000
+		tungsten = 1.000
+		steel = 15.000
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 10088 5 }
+		victory_points = { 4104 1 }
+		victory_points = { 1538 5 }
+
+		buildings = {
+			infrastructure = 1
+			arms_factory = 1
+			dockyard = 1
+		}
+	}
+	
+	provinces = {
+		1059 1101 1538 4104 4513 9229 10060 10088 10428 12063
+	}
+	
+	local_supplies = 10
+}

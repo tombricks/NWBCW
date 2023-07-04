@@ -1,0 +1,24 @@
+state = {
+	id = 376
+	name = "STATE_376" # Moroccan Sahara
+	manpower = 1681228
+	state_category = state_03
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 1989 1 }
+		victory_points = { 4933 1 }
+
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	
+	provinces = {
+		1989 4933 7908 7958 8046 6436
+	}
+	
+	local_supplies = 10
+}

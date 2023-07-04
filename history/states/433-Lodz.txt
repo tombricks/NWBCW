@@ -1,0 +1,24 @@
+state = {
+	id = 433
+	name = "STATE_433" # Lodz
+	manpower = 2110877
+	state_category = state_03
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 9508 5 }
+
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+		}
+	}
+	
+	provinces = {
+		493 584 3482 9508 9546 11428 11532 660
+	}
+	
+	local_supplies = 10
+}

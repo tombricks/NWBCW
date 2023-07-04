@@ -1,0 +1,23 @@
+state = {
+	id = 1040
+	name = "STATE_1040" # Cantabria
+	manpower = 453404
+	state_category = state_01
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 11688 1 }
+
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	
+	provinces = {
+		9703 11688 13926 13927
+	}
+	
+	local_supplies = 10
+}

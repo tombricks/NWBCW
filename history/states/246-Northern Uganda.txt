@@ -1,0 +1,25 @@
+state = {
+	id = 246
+	name = "STATE_246" # Northern Uganda
+	manpower = 4563471
+	state_category = state_06
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 8223 1 }
+		victory_points = { 6678 5 }
+		victory_points = { 7133 1 }
+
+		buildings = {
+			infrastructure = 0
+		}
+	}
+	
+	provinces = {
+		7133 8223 6620 6678 6703 13719 13720 13721 13722 13723 13724
+	}
+	
+	local_supplies = 10
+}

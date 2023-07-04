@@ -1,0 +1,27 @@
+state = {
+	id = 1089
+	name = "STATE_1089" # Poltava
+	manpower = 1194553
+	state_category = state_02
+	resources = {
+	}
+	
+	history = {
+		owner = SOV
+		add_core_of = SOV
+		set_state_flag = country_ukraine
+		victory_points = { 511 5 }
+		victory_points = { 6495 3 }
+		victory_points = { 3584 1 }
+
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	
+	provinces = {
+		511 559 3557 3584 6495 6507 6578 9413 9491 9519 14449
+	}
+	
+	local_supplies = 10
+}

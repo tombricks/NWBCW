@@ -1,0 +1,33 @@
+state = {
+	id = 35
+	name = "STATE_35" # Västergötland
+	manpower = 1287542
+	state_category = state_03
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 383 5 }
+		victory_points = { 6331 2 }
+		victory_points = { 6310 1 }
+		victory_points = { 69 1 }
+		victory_points = { 3375 1 }
+		victory_points = { 295 1 }
+
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 1
+			air_base = 5
+			dockyard = 1
+			synthetic_refinery = 1
+		}
+	}
+	
+	provinces = {
+		69 171 295 383 3063 3286 3375 3386 6310 6331 13096
+	}
+	
+	local_supplies = 10
+}

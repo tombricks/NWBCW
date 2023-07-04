@@ -1,0 +1,29 @@
+state = {
+	id = 152
+	name = "STATE_152" # Moldova
+	manpower = 3925547
+	state_category = state_05
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 6706 5 }
+		victory_points = { 9716 5 }
+		victory_points = { 6747 5 }
+		victory_points = { 6584 1 }
+
+		buildings = {
+			infrastructure = 2
+			air_base = 2
+			arms_factory = 1
+			industrial_complex = 1
+		}
+	}
+	
+	provinces = {
+		723 744 3741 6584 6706 6747 9701 9716 11655 11672 11689
+	}
+	
+	local_supplies = 10
+}

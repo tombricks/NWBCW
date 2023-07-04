@@ -1,0 +1,38 @@
+state = {
+	id = 794
+	name = "STATE_794" # Alabama
+	manpower = 3780035
+	state_category = state_05
+	resources = {
+		oil = 2
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 12735 5 }
+		victory_points = { 7480 5 }
+		victory_points = { 5059 3 }
+		victory_points = { 492 3 }
+		victory_points = { 7640 1 }
+		victory_points = { 11509 1 }
+		victory_points = { 10192 1 }
+		victory_points = { 1587 3 }
+		victory_points = { 12803 1 }
+		victory_points = { 4594 1 }
+
+		buildings = {
+			infrastructure = 2
+			arms_factory = 3
+			fuel_silo = 2
+			air_base = 4
+			industrial_complex = 2
+			nuclear_reactor = 1
+		}
+	}
+	
+	provinces = {
+		492 860 1587 4594 4622 4756 5059 7422 7480 7640 10192 10520 11509 11942 12735 12803
+	}
+	
+	local_supplies = 10
+}

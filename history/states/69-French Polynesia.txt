@@ -1,0 +1,24 @@
+state = {
+	id = 69
+	name = "STATE_69" # French Polynesia
+	manpower = 227165
+	state_category = state_00
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 12148 1 }
+
+		buildings = {
+			infrastructure = 2
+			air_base = 1
+		}
+	}
+	
+	provinces = {
+		10188 12148
+	}
+	
+	local_supplies = 10
+}

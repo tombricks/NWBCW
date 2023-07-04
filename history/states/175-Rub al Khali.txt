@@ -1,0 +1,23 @@
+state = {
+	id = 175
+	name = "STATE_175" # Rub' al Khali
+	manpower = 3991
+	state_category = state_inhospitable
+	resources = {
+		oil = 98
+	}
+	
+	history = {
+		owner = ZZZ
+
+		buildings = {
+			infrastructure = 0
+		}
+	}
+	
+	provinces = {
+		8118
+	}
+	
+	local_supplies = 10
+}

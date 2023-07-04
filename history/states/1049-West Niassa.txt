@@ -1,0 +1,23 @@
+state = {
+	id = 1049
+	name = "STATE_1049" # West Niassa
+	manpower = 614648
+	state_category = state_01
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 11439 5 }
+
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	
+	provinces = {
+		11439
+	}
+	
+	local_supplies = 10
+}

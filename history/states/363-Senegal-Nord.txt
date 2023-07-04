@@ -1,0 +1,23 @@
+state = {
+	id = 363
+	name = "STATE_363" # Senegal-Nord
+	manpower = 778391
+	state_category = state_02
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 12710 2 }
+
+		buildings = {
+			infrastructure = 0
+		}
+	}
+	
+	provinces = {
+		8015 12710 6807
+	}
+	
+	local_supplies = 10
+}

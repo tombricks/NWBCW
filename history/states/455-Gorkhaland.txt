@@ -1,0 +1,25 @@
+state = {
+	id = 455
+	name = "STATE_455" # Gorkhaland
+	manpower = 1288420
+	state_category = state_02
+	resources = {
+		steel = 2
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 12338 5 }
+
+		buildings = {
+			infrastructure = 1
+			air_base = 2
+		}
+	}
+	
+	provinces = {
+		10389 12338
+	}
+	
+	local_supplies = 10
+}

@@ -2,10 +2,12 @@ tags = {
     "CHI": { "name": "China", "def": "China", "adj": "Chinese" },
     "SOV": { "name": "Soviet Union", "def": "the Soviet Union", "adj": "Soviet" },
     "ALB": { "name": "Albania", "def": "Albania", "adj": "Albanian" },
+    # CountryGen-Entry
 }
 templates = {
     "peoples_republic_of": { "name": "People's Republic of $$NAME$$", "def": "the People's Republic of $$DEF$$" },
     "soviet_socialist_republic": { "name": "$$ADJ$$ Soviet Socialist Republic", "def": "the $$ADJ$$ Soviet Socialist Republic" },
+    "democratic_republic": { "name": "$$ADJ$$ Democratic Republic", "def": "the $$ADJ$$ Democratic Republic" },
     "peoples_socialist_republic_of": { "name": "People's Socialist Republic of $$DEF$$", "def": "the People's Socialist Republic of $$DEF$$" },
 }
 def setter(tag, template):

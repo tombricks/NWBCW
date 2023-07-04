@@ -1,0 +1,30 @@
+state = {
+	id = 1032
+	name = "STATE_1032" # Eastern Anatolia
+	manpower = 1756193
+	state_category = state_03
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 6950 3 }
+		victory_points = { 876 3 }
+		victory_points = { 6965 5 }
+		victory_points = { 3890 1 }
+		victory_points = { 9954 1 }
+		victory_points = { 10399 1 }
+
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			air_base = 2
+		}
+	}
+	
+	provinces = {
+		3950 3903 9777 9761 3921 3890 6950 6919 6965 9860 876 11797 9954 10399
+	}
+	
+	local_supplies = 10
+}

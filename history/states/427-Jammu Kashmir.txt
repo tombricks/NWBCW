@@ -1,0 +1,26 @@
+state = {
+	id = 427
+	name = "STATE_427" # Jammu and Kashmir
+	manpower = 9413389
+	state_category = state_09
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 9068 5 }
+		victory_points = { 12754 5 }
+
+		buildings = {
+			infrastructure = 0
+			industrial_complex = 1
+			air_base = 2
+		}
+	}
+	
+	provinces = {
+		2041 8005 10905 12754 9068 13296
+	}
+	
+	local_supplies = 10
+}

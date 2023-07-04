@@ -1,0 +1,30 @@
+state = {
+	id = 287
+	name = "STATE_287" # Central Botswana
+	manpower = 1266245
+	state_category = state_02
+	resources = {
+		tungsten = 4.000
+		steel = 4.000
+		chromium = 32
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 336 5 }
+		victory_points = { 10525 1 }
+		victory_points = { 530 1 }
+
+		buildings = {
+			infrastructure = 2
+			air_base = 4
+			industrial_complex = 1
+		}
+	}
+	
+	provinces = {
+		8214 10525 336 530 432 468
+	}
+	
+	local_supplies = 10
+}

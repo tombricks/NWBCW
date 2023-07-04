@@ -1,0 +1,25 @@
+state = {
+	id = 1035
+	name = "STATE_1035" # Syunik
+	manpower = 170000
+	state_category = state_02
+	resources = {
+	}
+	
+	history = {
+		owner = SOV
+		add_core_of = SOV
+		set_state_flag = country_armenia
+		victory_points = { 4660 1 }
+
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	
+	provinces = {
+		13920 6642 4660
+	}
+	
+	local_supplies = 10
+}

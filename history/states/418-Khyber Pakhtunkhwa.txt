@@ -1,0 +1,28 @@
+state = {
+	id = 418
+	name = "STATE_418" # Khyber Pakhtunkhwa
+	manpower = 15822558
+	state_category = state_11
+	resources = {
+		oil = 2
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 14484 5 }
+		victory_points = { 6746 1 }
+		victory_points = { 6856 1 }
+
+		buildings = {
+			infrastructure = 0
+			industrial_complex = 1
+			arms_factory = 2
+		}
+	}
+	
+	provinces = {
+		4558 4998 6097 6492 6746 6818 6856 12763 14484 14588 14591
+	}
+	
+	local_supplies = 10
+}

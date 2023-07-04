@@ -1,0 +1,28 @@
+state = {
+	id = 1093
+	name = "STATE_1093" # Brest
+	manpower = 1172538
+	state_category = state_01
+	resources = {
+	}
+	
+	history = {
+		owner = SOV
+		add_core_of = SOV
+		set_state_flag = country_belarus
+		victory_points = { 3392 5 }
+		victory_points = { 9304 3 }
+		victory_points = { 11528 1 }
+
+		buildings = {
+			infrastructure = 2
+			air_base = 2
+		}
+	}
+	
+	provinces = {
+		535 560 3256 3392 3556 6280 6306 6546 9304 9554 9655 11285 11528
+	}
+	
+	local_supplies = 10
+}

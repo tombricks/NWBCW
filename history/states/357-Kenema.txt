@@ -1,0 +1,24 @@
+state = {
+	id = 357
+	name = "STATE_357" # Kenema
+	manpower = 1519967
+	state_category = state_03
+	resources = {
+		chromium = 52
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 1897 3 }
+
+		buildings = {
+			infrastructure = 0
+		}
+	}
+	
+	provinces = {
+		1897 2094 7377
+	}
+	
+	local_supplies = 10
+}

@@ -1,0 +1,32 @@
+state = {
+	id = 774
+	name = "STATE_774" # West Virginia
+	manpower = 1537092
+	state_category = state_03
+	resources = {
+		oil = 5
+		steel = 4
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 7588 3 }
+		victory_points = { 6971 3 }
+		victory_points = { 9923 1 }
+		victory_points = { 6850 1 }
+		victory_points = { 3975 1 }
+		victory_points = { 7466 1 }
+
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+			air_base = 1
+		}
+	}
+	
+	provinces = {
+		11888 6958 9923 801 6850 3941 7646 7588 7466 4627 6971 10441 3975
+	}
+	
+	local_supplies = 10
+}

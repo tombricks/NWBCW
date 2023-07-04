@@ -1,0 +1,23 @@
+state = {
+	id = 419
+	name = "STATE_419" # Pashto Tribal Areas
+	manpower = 1779318
+	state_category = state_03
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 1978 3 }
+
+		buildings = {
+			infrastructure = 0
+		}
+	}
+	
+	provinces = {
+		1978 4324 12717 14481 14482 14483
+	}
+	
+	local_supplies = 10
+}

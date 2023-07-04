@@ -1,0 +1,23 @@
+state = {
+	id = 844
+	name = "STATE_844" # East Salvador
+	manpower = 1767639
+	state_category = state_03
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 13093 3 }
+
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	
+	provinces = {
+		13093
+	}
+	
+	local_supplies = 10
+}

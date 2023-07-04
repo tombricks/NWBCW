@@ -1,0 +1,22 @@
+state = {
+	id = 1108
+	name = "STATE_1108" # Bilma
+	manpower = 56299
+	state_category = state_00
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 14582 1 }
+
+		buildings = {
+		}
+	}
+	
+	provinces = {
+		1956 8030 8128 10780 14582
+	}
+	
+	local_supplies = 10
+}

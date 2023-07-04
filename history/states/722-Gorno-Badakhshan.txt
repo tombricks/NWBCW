@@ -1,0 +1,26 @@
+state = {
+	id = 722
+	name = "STATE_722" # Gorno-Badakhshan
+	manpower = 134439
+	state_category = state_00
+	resources = {
+	}
+	
+	history = {
+		owner = SOV
+		add_core_of = SOV
+		set_state_flag = country_tajikistan
+		victory_points = { 10417 1 }
+		victory_points = { 4923 1 }
+
+		buildings = {
+			infrastructure = 0
+		}
+	}
+	
+	provinces = {
+		1307 4923 8027 10417 12805 14130
+	}
+	
+	local_supplies = 10
+}

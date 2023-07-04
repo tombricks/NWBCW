@@ -1,0 +1,27 @@
+state = {
+	id = 263
+	name = "STATE_263" # Zambézia
+	manpower = 3900024
+	state_category = state_05
+	resources = {
+		oil = 3
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 11377 5 }
+		victory_points = { 11381 5 }
+		victory_points = { 2180 5 }
+		victory_points = { 2120 5 }
+
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	
+	provinces = {
+		2180 12971 11377 11381 2120 11373
+	}
+	
+	local_supplies = 10
+}

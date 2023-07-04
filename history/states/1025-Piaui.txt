@@ -1,0 +1,25 @@
+state = {
+	id = 1025
+	name = "STATE_1025" # Piauí
+	manpower = 2416786
+	state_category = state_04
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 2228 1 }
+		victory_points = { 5153 5 }
+		victory_points = { 10984 1 }
+
+		buildings = {
+			infrastructure = 0
+		}
+	}
+	
+	provinces = {
+		2228 3923 3931 3946 5153 5204 5291 6759 10984
+	}
+	
+	local_supplies = 10
+}

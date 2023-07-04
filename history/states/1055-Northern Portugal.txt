@@ -1,0 +1,24 @@
+state = {
+	id = 1055
+	name = "STATE_1055" # Norte
+	manpower = 3150083
+	state_category = state_04
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 9817 5 }
+		victory_points = { 11673 1 }
+
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	
+	provinces = {
+		724 877 9817 11673 14157
+	}
+	
+	local_supplies = 10
+}

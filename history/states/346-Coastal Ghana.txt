@@ -1,0 +1,29 @@
+state = {
+	id = 346
+	name = "STATE_346" # Coastal Ghana
+	manpower = 5739567
+	state_category = state_06
+	resources = {
+		oil = 2
+		steel = 11
+		aluminium = 5
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 9493 10 }
+		victory_points = { 12742 1 }
+
+		buildings = {
+			infrastructure = 1
+			air_base = 4
+			industrial_complex = 1
+		}
+	}
+	
+	provinces = {
+		10862 12742 9493
+	}
+	
+	local_supplies = 10
+}

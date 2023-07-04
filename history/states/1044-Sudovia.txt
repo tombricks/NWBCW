@@ -1,0 +1,26 @@
+state = {
+	id = 1044
+	name = "STATE_1044" # Sudovia
+	manpower = 182816
+	state_category = state_00
+	resources = {
+		aluminium = 11.000
+	}
+	
+	history = {
+		owner = SOV
+		add_core_of = SOV
+		set_state_flag = country_lithuania
+		victory_points = { 6281 1 }
+
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	
+	provinces = {
+		6281 6407 11312
+	}
+	
+	local_supplies = 10
+}

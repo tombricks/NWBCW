@@ -1,0 +1,33 @@
+state = {
+	id = 9
+	name = "STATE_9" # Scotland
+	manpower = 3807815
+	state_category = state_06
+	resources = {
+		oil = 8
+		steel = 12
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 9392 5 }
+		victory_points = { 3273 7 }
+		victory_points = { 11136 4 }
+		victory_points = { 3150 1 }
+		victory_points = { 9237 1 }
+		victory_points = { 11218 1 }
+
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 3
+			dockyard = 5
+			nuclear_reactor = 1
+		}
+	}
+	
+	provinces = {
+		200 3150 3273 6300 6320 6350 6395 9237 9314 9350 9383 9392 11055 11136 11207 11218 11378
+	}
+	
+	local_supplies = 10
+}

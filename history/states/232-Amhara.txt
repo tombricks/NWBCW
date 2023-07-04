@@ -1,0 +1,27 @@
+state = {
+	id = 232
+	name = "STATE_232" # Amhara
+	manpower = 13109296
+	state_category = state_10
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 1984 5 }
+		victory_points = { 367 1 }
+		victory_points = { 5097 1 }
+		victory_points = { 376 1 }
+
+		buildings = {
+			infrastructure = 0
+			industrial_complex = 1
+		}
+	}
+	
+	provinces = {
+		1984 2040 5097 7944 352 367 368 376 396 471 13137 13810 13811 13812 13813 13814 13815 13820 13821
+	}
+	
+	local_supplies = 10
+}

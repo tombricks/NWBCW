@@ -1,0 +1,24 @@
+state = {
+	id = 865
+	name = "STATE_865" # Barbados
+	manpower = 229500
+	state_category = state_00
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 11350 1 }
+
+		buildings = {
+			infrastructure = 2
+			air_base = 2
+		}
+	}
+	
+	provinces = {
+		11350
+	}
+	
+	local_supplies = 10
+}

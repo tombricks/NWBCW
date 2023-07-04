@@ -1,0 +1,24 @@
+state = {
+	id = 1009
+	name = "STATE_1009" # Martinique
+	manpower = 319556
+	state_category = state_01
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 177 1 }
+
+		buildings = {
+			infrastructure = 2
+			air_base = 1
+		}
+	}
+	
+	provinces = {
+		177
+	}
+	
+	local_supplies = 10
+}

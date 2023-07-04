@@ -1,0 +1,27 @@
+state = {
+	id = 993
+	name = "STATE_993" # Ladakh
+	manpower = 224646
+	state_category = state_01
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 7273 1 }
+		victory_points = { 107 1 }
+
+		buildings = {
+			infrastructure = 0
+			industrial_complex = 0
+			air_base = 0
+			radar_station = 1
+		}
+	}
+	
+	provinces = {
+		103 107 109 7273 12884 13295 14143 14144
+	}
+	
+	local_supplies = 10
+}

@@ -1,0 +1,23 @@
+state = {
+	id = 371
+	name = "STATE_371" # Adrar
+	manpower = 95470
+	state_category = state_00
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 8035 1 }
+
+		buildings = {
+			infrastructure = 0
+		}
+	}
+	
+	provinces = {
+		8035 10779 10814 10838
+	}
+	
+	local_supplies = 10
+}

@@ -1,0 +1,26 @@
+state = {
+	id = 106
+	name = "STATE_106" # Tartu
+	manpower = 466554
+	state_category = state_01
+	resources = {
+	}
+	
+	history = {
+		owner = SOV
+		add_core_of = SOV
+		set_state_flag = country_estonia
+		victory_points = { 9221 1 }
+
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+		}
+	}
+	
+	provinces = {
+		6408 9221 9485 11057 308 9079
+	}
+	
+	local_supplies = 10
+}

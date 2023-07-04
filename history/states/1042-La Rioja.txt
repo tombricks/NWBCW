@@ -1,0 +1,23 @@
+state = {
+	id = 1042
+	name = "STATE_1042" # La Rioja
+	manpower = 232754
+	state_category = state_00
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 3902 1 }
+
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	
+	provinces = {
+		3902 6903
+	}
+	
+	local_supplies = 10
+}

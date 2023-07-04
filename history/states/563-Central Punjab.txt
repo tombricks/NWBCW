@@ -1,0 +1,31 @@
+state = {
+	id = 563
+	name = "STATE_563" # Central Punjab
+	manpower = 24736494
+	state_category = state_14
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 8106 5 }
+		victory_points = { 4979 1 }
+		victory_points = { 6197 10 }
+		victory_points = { 10887 5 }
+		victory_points = { 9084 5 }
+		victory_points = { 10066 1 }
+
+		buildings = {
+			infrastructure = 1
+			air_base = 4
+			industrial_complex = 1
+			arms_factory = 2
+		}
+	}
+	
+	provinces = {
+		4979 8106 9084 10066 10887 12005 6107 6197
+	}
+	
+	local_supplies = 10
+}

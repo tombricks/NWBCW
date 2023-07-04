@@ -1,0 +1,29 @@
+state = {
+	id = 180
+	name = "STATE_180" # Abu Dhabi
+	manpower = 1222960
+	state_category = state_03
+	resources = {
+		oil = 80
+		aluminium = 45
+		steel = 10
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 3689 5 }
+
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			air_base = 6
+			nuclear_reactor = 1
+		}
+	}
+	
+	provinces = {
+		2048 7960 8108 3585 3683 3689
+	}
+	
+	local_supplies = 10
+}

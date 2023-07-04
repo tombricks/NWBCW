@@ -1,0 +1,25 @@
+state = {
+	id = 1005
+	name = "STATE_1005" # Esequiba
+	manpower = 193634
+	state_category = state_00
+	resources = {
+		aluminium = 2.000
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 8107 1 }
+		victory_points = { 12716 1 }
+
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	
+	provinces = {
+		8107 12716 12339 12474 12487 12560
+	}
+	
+	local_supplies = 10
+}

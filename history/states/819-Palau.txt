@@ -1,0 +1,24 @@
+state = {
+	id = 819
+	name = "STATE_819" # Palau
+	manpower = 16202
+	state_category = state_00
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 12103 3 }
+
+		buildings = {
+			infrastructure = 2
+			air_base = 1
+		}
+	}
+	
+	provinces = {
+		4357 12103
+	}
+	
+	local_supplies = 10
+}

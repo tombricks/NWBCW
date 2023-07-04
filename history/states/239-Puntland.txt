@@ -1,0 +1,24 @@
+state = {
+	id = 239
+	name = "STATE_239" # Puntland
+	manpower = 923209
+	state_category = state_02
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 1964 1 }
+		victory_points = { 4909 1 }
+		victory_points = { 11090 5 }
+
+		buildings = {
+		}
+	}
+	
+	provinces = {
+		1964 4909 10818 11090 13865 13866
+	}
+	
+	local_supplies = 10
+}

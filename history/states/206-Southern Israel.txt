@@ -1,0 +1,28 @@
+state = {
+	id = 206
+	name = "STATE_206" # Negev
+	manpower = 847827
+	state_category = state_01
+	resources = {
+		aluminium = 8
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 11970 2 }
+		victory_points = { 1015 1 }
+
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			air_base = 10
+			anti_air_building = 3
+		}
+	}
+	
+	provinces = {
+		1015 4088 7176 11970
+	}
+	
+	local_supplies = 10
+}

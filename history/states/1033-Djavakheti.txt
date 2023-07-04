@@ -1,0 +1,25 @@
+state = {
+	id = 1033
+	name = "STATE_1033" # Djavakheti
+	manpower = 176458
+	state_category = state_02
+	resources = {
+	}
+	
+	history = {
+		owner = SOV
+		add_core_of = SOV
+		set_state_flag = country_georgia
+
+		buildings = {
+			infrastructure = 1
+			air_base = 2
+		}
+	}
+	
+	provinces = {
+		3656 6669 9702
+	}
+	
+	local_supplies = 10
+}

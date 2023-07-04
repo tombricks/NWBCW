@@ -1,0 +1,27 @@
+state = {
+	id = 470
+	name = "STATE_470" # Vidarbha
+	manpower = 16351061
+	state_category = state_12
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 10030 5 }
+		victory_points = { 7430 5 }
+		victory_points = { 7619 1 }
+
+		buildings = {
+			infrastructure = 0
+			industrial_complex = 1
+			arms_factory = 1
+		}
+	}
+	
+	provinces = {
+		4883 7430 7619 10030 10171 12781 8232 9039 9069 13297 13298
+	}
+	
+	local_supplies = 10
+}

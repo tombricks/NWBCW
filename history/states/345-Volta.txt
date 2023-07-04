@@ -1,0 +1,23 @@
+state = {
+	id = 345
+	name = "STATE_345" # Volta
+	manpower = 2901348
+	state_category = state_04
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 12785 1 }
+
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	
+	provinces = {
+		9569 12785 13136
+	}
+	
+	local_supplies = 10
+}

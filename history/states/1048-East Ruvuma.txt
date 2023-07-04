@@ -1,0 +1,23 @@
+state = {
+	id = 1048
+	name = "STATE_1048" # East Ruvuma
+	manpower = 616836
+	state_category = state_01
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 13686 1 }
+
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	
+	provinces = {
+		8182 13685 13686
+	}
+	
+	local_supplies = 10
+}

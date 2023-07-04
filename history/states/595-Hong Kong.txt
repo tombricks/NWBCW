@@ -1,0 +1,26 @@
+state = {
+	id = 595
+	name = "STATE_595" # Hong Kong
+	manpower = 6232769
+	state_category = state_07
+	resources = {
+	}
+	
+	history = {
+		owner = CHI
+		add_core_of = CHI
+		victory_points = { 10062 10 }
+
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			air_base = 2
+		}
+	}
+	
+	provinces = {
+		10062
+	}
+	
+	local_supplies = 10
+}

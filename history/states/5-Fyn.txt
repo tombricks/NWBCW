@@ -1,0 +1,25 @@
+state = {
+	id = 5
+	name = "STATE_5" # Fyn
+	manpower = 391098
+	state_category = state_01
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 3325 5 }
+
+		buildings = {
+			infrastructure = 3
+			dockyard = 1
+			air_base = 1
+		}
+	}
+	
+	provinces = {
+		3325 14542 14545
+	}
+	
+	local_supplies = 10
+}

@@ -1,0 +1,24 @@
+state = {
+	id = 300
+	name = "STATE_300" # Huila
+	manpower = 1766464
+	state_category = state_03
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 13366 5 }
+		victory_points = { 12985 2 }
+
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	
+	provinces = {
+		8138 12391 12985 9395 9424 9426 13363 13364 13365 13366 13367 13368 13369 13370 13371 13372
+	}
+	
+	local_supplies = 10
+}

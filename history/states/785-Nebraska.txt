@@ -1,0 +1,32 @@
+state = {
+	id = 785
+	name = "STATE_785" # Nebraska
+	manpower = 1454574
+	state_category = state_03
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 12586 5 }
+		victory_points = { 10676 3 }
+		victory_points = { 7852 3 }
+		victory_points = { 4830 1 }
+		victory_points = { 1683 1 }
+		victory_points = { 4749 1 }
+
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			air_base = 4
+			synthetic_refinery = 2
+			nuclear_reactor = 1
+		}
+	}
+	
+	provinces = {
+		1683 3613 3708 3855 4749 4760 4830 7840 7852 10606 10676 12516 12586
+	}
+	
+	local_supplies = 10
+}

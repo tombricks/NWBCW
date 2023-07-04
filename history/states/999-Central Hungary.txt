@@ -1,0 +1,24 @@
+state = {
+	id = 999
+	name = "STATE_999" # Central Hungary
+	manpower = 924530
+	state_category = state_02
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+
+		buildings = {
+			infrastructure = 1
+			air_base = 2
+			industrial_complex = 1
+		}
+	}
+	
+	provinces = {
+		6670 6700 11625 6716 684
+	}
+	
+	local_supplies = 10
+}

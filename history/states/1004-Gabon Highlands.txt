@@ -1,0 +1,24 @@
+state = {
+	id = 1004
+	name = "STATE_1004" # Gabon Highlands
+	manpower = 350200
+	state_category = state_01
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 3246 2 }
+		victory_points = { 10948 1 }
+
+		buildings = {
+			infrastructure = 0
+		}
+	}
+	
+	provinces = {
+		3268 3246 3316 10948 13760 13761 13762 13763 13764 13765
+	}
+	
+	local_supplies = 10
+}

@@ -1,0 +1,26 @@
+state = {
+	id = 878
+	name = "STATE_878" # Suriname
+	manpower = 364111
+	state_category = state_01
+	resources = {
+		aluminium = 9.000
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 10906 3 }
+		victory_points = { 12828 1 }
+
+		buildings = {
+			infrastructure = 2
+			air_base = 2
+		}
+	}
+	
+	provinces = {
+		10906 12828
+	}
+	
+	local_supplies = 10
+}

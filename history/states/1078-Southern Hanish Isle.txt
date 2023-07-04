@@ -1,0 +1,23 @@
+state = {
+	id = 1078
+	name = "STATE_1078" # Southern Hanish Isle
+	manpower = 1
+	state_category = state_00
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 14392 1 }
+
+		buildings = {
+			infrastructure = 0
+		}
+	}
+	
+	provinces = {
+		14392
+	}
+	
+	local_supplies = 10
+}

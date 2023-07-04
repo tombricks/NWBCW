@@ -1,0 +1,26 @@
+state = {
+	id = 124
+	name = "STATE_124" # Carniola
+	manpower = 971702
+	state_category = state_02
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 9627 5 }
+		victory_points = { 3631 1 }
+		victory_points = { 599 1 }
+
+		buildings = {
+			infrastructure = 2
+			air_base = 1
+		}
+	}
+	
+	provinces = {
+		599 3631 6650 9627 11595
+	}
+	
+	local_supplies = 10
+}

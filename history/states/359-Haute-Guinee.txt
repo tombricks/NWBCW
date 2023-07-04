@@ -1,0 +1,27 @@
+state = {
+	id = 359
+	name = "STATE_359" # Haute-Guinée
+	manpower = 2680920
+	state_category = state_04
+	resources = {
+		aluminium = 22
+		chromium = 16
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 4957 5 }
+		victory_points = { 5039 1 }
+		victory_points = { 6990 1 }
+
+		buildings = {
+			infrastructure = 0
+		}
+	}
+	
+	provinces = {
+		4957 5039 8008 6952 6957 6990 7237 7318
+	}
+	
+	local_supplies = 10
+}

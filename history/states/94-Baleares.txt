@@ -1,0 +1,26 @@
+state = {
+	id = 94
+	name = "STATE_94" # Baleares
+	manpower = 817295
+	state_category = state_02
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 9793 5 }
+		victory_points = { 7114 1 }
+		victory_points = { 9845 1 }
+
+		buildings = {
+			infrastructure = 3
+			air_base = 1
+		}
+	}
+	
+	provinces = {
+		7114 9793 9845
+	}
+	
+	local_supplies = 10
+}

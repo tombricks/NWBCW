@@ -1,0 +1,28 @@
+state = {
+	id = 406
+	name = "STATE_406" # Greater Luristan
+	manpower = 3087094
+	state_category = state_03
+	resources = {
+		oil = 28
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 3908 1 }
+		victory_points = { 5050 1 }
+		victory_points = { 2065 1 }
+
+		buildings = {
+			infrastructure = 1
+			air_base = 4
+			industrial_complex = 2
+		}
+	}
+	
+	provinces = {
+		1922 2065 3908 5050
+	}
+	
+	local_supplies = 10
+}

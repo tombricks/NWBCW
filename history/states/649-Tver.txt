@@ -1,0 +1,32 @@
+state = {
+	id = 649
+	name = "STATE_649" # Tver
+	manpower = 1130672
+	state_category = state_02
+	resources = {
+	}
+	
+	history = {
+		owner = SOV
+		add_core_of = SOV
+		set_state_flag = country_russia
+		victory_points = { 6245 5 }
+		victory_points = { 9046 1 }
+		victory_points = { 11349 3 }
+		victory_points = { 3101 1 }
+		victory_points = { 11315 1 }
+
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			air_base = 2
+			nuclear_reactor = 1
+		}
+	}
+	
+	provinces = {
+		85 187 287 333 2999 3101 3215 3235 3321 3344 6203 6245 6264 6303 6346 9046 9242 9256 9265 9287 9343 11084 11250 11272 11315 11349
+	}
+	
+	local_supplies = 10
+}

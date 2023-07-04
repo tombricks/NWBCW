@@ -1,0 +1,25 @@
+state = {
+	id = 329
+	name = "STATE_329" # Zinder
+	manpower = 4511814
+	state_category = state_06
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 14559 1 }
+		victory_points = { 11324 1 }
+		victory_points = { 10758 5 }
+		victory_points = { 8028 4 }
+
+		buildings = {
+		}
+	}
+	
+	provinces = {
+		4913 8028 10758 10805 10917 11286 11308 11314 11323 11324 13282 14559
+	}
+	
+	local_supplies = 10
+}

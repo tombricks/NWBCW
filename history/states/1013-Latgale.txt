@@ -1,0 +1,26 @@
+state = {
+	id = 1013
+	name = "STATE_1013" # Latgale
+	manpower = 413099
+	state_category = state_01
+	resources = {
+	}
+	
+	history = {
+		owner = SOV
+		add_core_of = SOV
+		set_state_flag = country_latvia
+		victory_points = { 310 1 }
+
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+		}
+	}
+	
+	provinces = {
+		310 341 3298 9275 13931
+	}
+	
+	local_supplies = 10
+}

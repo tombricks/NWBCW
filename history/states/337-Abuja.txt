@@ -1,0 +1,28 @@
+state = {
+	id = 337
+	name = "STATE_337" # Abuja
+	manpower = 5495243
+	state_category = state_06
+	resources = {
+		steel = 14
+		aluminium = 4
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 2025 10 }
+		victory_points = { 1992 3 }
+
+		buildings = {
+			infrastructure = 1
+			arms_factory = 1
+			air_base = 2
+		}
+	}
+	
+	provinces = {
+		2025 8021 11226 11238 1992
+	}
+	
+	local_supplies = 10
+}

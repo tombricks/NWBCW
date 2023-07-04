@@ -1,0 +1,24 @@
+state = {
+	id = 1036
+	name = "STATE_1036" # Karvachar
+	manpower = 10302
+	state_category = state_00
+	resources = {
+	}
+	
+	history = {
+		owner = SOV
+		add_core_of = SOV
+		set_state_flag = country_azerbaijan
+
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	
+	provinces = {
+		1467
+	}
+	
+	local_supplies = 10
+}

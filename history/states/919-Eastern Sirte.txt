@@ -1,0 +1,25 @@
+state = {
+	id = 919
+	name = "STATE_919" # Sirte
+	manpower = 120644
+	state_category = state_00
+	resources = {
+		oil = 5
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 4047 5 }
+		victory_points = { 10117 1 }
+
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	
+	provinces = {
+		1041 4047 7136 7194 10046 10117 13073
+	}
+	
+	local_supplies = 10
+}

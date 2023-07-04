@@ -1,0 +1,32 @@
+state = {
+	id = 694
+	name = "STATE_694" # Zaporizhya
+	manpower = 1451967
+	state_category = state_03
+	resources = {
+		aluminium = 4.000
+		steel = 8
+	}
+	
+	history = {
+		owner = SOV
+		add_core_of = SOV
+		set_state_flag = country_ukraine
+		victory_points = { 11405 5 }
+		victory_points = { 11700 3 }
+		victory_points = { 9571 3 }
+
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			air_base = 3
+			nuclear_reactor = 1
+		}
+	}
+	
+	provinces = {
+		3399 3767 9571 9729 11405 11700 14439 14440 14441
+	}
+	
+	local_supplies = 10
+}

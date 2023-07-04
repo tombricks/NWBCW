@@ -1,0 +1,23 @@
+state = {
+	id = 425
+	name = "STATE_425" # Musandam
+	manpower = 21219
+	state_category = state_00
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 3573 3 }
+
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	
+	provinces = {
+		3573
+	}
+	
+	local_supplies = 10
+}

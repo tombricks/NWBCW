@@ -1,0 +1,22 @@
+state = {
+	id = 1019
+	name = "STATE_1019" # Afar
+	manpower = 1259631
+	state_category = state_02
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+
+		buildings = {
+			infrastructure = 0
+		}
+	}
+	
+	provinces = {
+		374 397 510 518 5041 13802 13803 13804 13805 13806 13807 13808
+	}
+	
+	local_supplies = 10
+}

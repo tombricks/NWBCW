@@ -1,0 +1,24 @@
+state = {
+	id = 342
+	name = "STATE_342" # Lomé
+	manpower = 2607555
+	state_category = state_04
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 1951 10 }
+
+		buildings = {
+			infrastructure = 0
+			air_base = 1
+		}
+	}
+	
+	provinces = {
+		1951 9687
+	}
+	
+	local_supplies = 10
+}

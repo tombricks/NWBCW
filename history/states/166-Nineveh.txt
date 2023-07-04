@@ -1,0 +1,27 @@
+state = {
+	id = 166
+	name = "STATE_166" # Nineveh
+	manpower = 1489061
+	state_category = state_03
+	resources = {
+		oil = 4.000
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 10106 8 }
+		victory_points = { 1938 1 }
+
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			air_base = 2
+		}
+	}
+	
+	provinces = {
+		1938 10106 12372 11369 11498
+	}
+	
+	local_supplies = 10
+}

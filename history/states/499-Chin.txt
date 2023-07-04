@@ -1,0 +1,26 @@
+state = {
+	id = 499
+	name = "STATE_499" # Chin
+	manpower = 1048935
+	state_category = state_02
+	resources = {
+		steel = 2
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 11966 1 }
+		victory_points = { 4147 1 }
+
+		buildings = {
+			infrastructure = 0
+			air_base = 1
+		}
+	}
+	
+	provinces = {
+		4147 4454 7534 10033 11966 14047
+	}
+	
+	local_supplies = 10
+}

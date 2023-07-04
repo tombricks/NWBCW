@@ -1,0 +1,24 @@
+state = {
+	id = 822
+	name = "STATE_822" # Midway Atoll
+	manpower = 51
+	state_category = state_00
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 13052 1 }
+
+		buildings = {
+			infrastructure = 2
+			air_base = 1
+		}
+	}
+	
+	provinces = {
+		13052
+	}
+	
+	local_supplies = 10
+}

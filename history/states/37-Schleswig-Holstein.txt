@@ -1,0 +1,30 @@
+state = {
+	id = 37
+	name = "STATE_37" # Schleswig-Holstein
+	manpower = 2385718
+	state_category = state_04
+	resources = {
+		aluminium = 22
+		steel = 44
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 6389 5 }
+		victory_points = { 11331 3 }
+
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+			dockyard = 2
+			air_base = 4
+			nuclear_reactor = 2
+		}
+	}
+	
+	provinces = {
+		317 3231 3368 6257 6389 9320 11331 11366 14544
+	}
+	
+	local_supplies = 10
+}

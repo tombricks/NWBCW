@@ -1,0 +1,36 @@
+state = {
+	id = 462
+	name = "STATE_462" # Tamil Nadu
+	manpower = 41223154
+	state_category = state_16
+	resources = {
+		oil = 4
+		rubber = 24
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 10278 5 }
+		victory_points = { 10149 5 }
+		victory_points = { 7436 5 }
+		victory_points = { 1409 5 }
+		victory_points = { 4416 5 }
+		victory_points = { 4327 1 }
+		victory_points = { 1381 1 }
+
+		buildings = {
+			infrastructure = 1
+			arms_factory = 1
+			dockyard = 1
+			industrial_complex = 1
+			air_base = 10
+			nuclear_reactor = 1
+		}
+	}
+	
+	provinces = {
+		10278 7436 10149 12164 4327 7265 1409 4416 1381
+	}
+	
+	local_supplies = 10
+}

@@ -1,0 +1,30 @@
+state = {
+	id = 728
+	name = "STATE_728" # Merv
+	manpower = 1645660
+	state_category = state_03
+	resources = {
+		oil = 15
+	}
+	
+	history = {
+		owner = SOV
+		add_core_of = SOV
+		set_state_flag = country_turkmenistan
+		victory_points = { 10414 5 }
+		victory_points = { 10357 3 }
+		victory_points = { 4549 1 }
+		victory_points = { 7491 1 }
+
+		buildings = {
+			infrastructure = 2
+			air_base = 2
+		}
+	}
+	
+	provinces = {
+		756 1632 1649 4482 4549 4958 5003 7491 7560 7924 10357 10414 10742 3551 3641 3737 14059
+	}
+	
+	local_supplies = 10
+}

@@ -1,0 +1,28 @@
+state = {
+	id = 828
+	name = "STATE_828" # Baja California
+	manpower = 2880170
+	state_category = state_04
+	resources = {
+		tungsten = 2
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 12461 7 }
+		victory_points = { 9102 5 }
+		victory_points = { 12736 3 }
+
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			air_base = 3
+		}
+	}
+	
+	provinces = {
+		1892 1904 7964 8119 12461 12736 12859 12169 9102
+	}
+	
+	local_supplies = 10
+}

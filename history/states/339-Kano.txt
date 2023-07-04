@@ -1,0 +1,27 @@
+state = {
+	id = 339
+	name = "STATE_339" # Kano
+	manpower = 18239953
+	state_category = state_12
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 11267 10 }
+		victory_points = { 11263 5 }
+		victory_points = { 1969 1 }
+
+		buildings = {
+			infrastructure = 0
+			air_base = 2
+			industrial_complex = 1
+		}
+	}
+	
+	provinces = {
+		1969 4938 4972 11263 11267 13269 13321
+	}
+	
+	local_supplies = 10
+}

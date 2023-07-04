@@ -1,0 +1,23 @@
+state = {
+	id = 749
+	name = "STATE_749" # Cocos Islands 
+	manpower = 390
+	state_category = state_inhospitable
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 13002 1 }
+
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	
+	provinces = {
+		13002
+	}
+	
+	local_supplies = 10
+}

@@ -1,0 +1,27 @@
+state = {
+	id = 192
+	name = "STATE_192" # Deir ez-Zor
+	manpower = 528414
+	state_category = state_01
+	resources = {
+		oil = 2
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 6312 5 }
+		victory_points = { 2013 1 }
+		victory_points = { 1493 1 }
+
+		buildings = {
+			infrastructure = 1
+			air_base = 1
+		}
+	}
+	
+	provinces = {
+		2013 1493 6312
+	}
+	
+	local_supplies = 10
+}

@@ -1,0 +1,22 @@
+state = {
+	id = 983
+	name = "STATE_983" # Drangme
+	manpower = 214680
+	state_category = state_01
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+
+		buildings = {
+			infrastructure = 0
+		}
+	}
+	
+	provinces = {
+		12860 7359
+	}
+	
+	local_supplies = 10
+}

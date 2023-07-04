@@ -1,0 +1,27 @@
+state = {
+	id = 557
+	name = "STATE_557" # Babylon
+	manpower = 6195127
+	state_category = state_07
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 11266 10 }
+		victory_points = { 7994 5 }
+
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 1
+			air_base = 5
+		}
+	}
+	
+	provinces = {
+		2097 7994 3269 11187 11266
+	}
+	
+	local_supplies = 10
+}

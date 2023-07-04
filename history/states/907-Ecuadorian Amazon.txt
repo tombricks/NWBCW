@@ -1,0 +1,25 @@
+state = {
+	id = 907
+	name = "STATE_907" # Ecuadorian Amazon
+	manpower = 553009
+	state_category = state_01
+	resources = {
+		oil = 13
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 8075 1 }
+		victory_points = { 10888 1 }
+
+		buildings = {
+			infrastructure = 0
+		}
+	}
+	
+	provinces = {
+		8075 10888 10166 10179 14078
+	}
+	
+	local_supplies = 10
+}

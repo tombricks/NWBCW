@@ -1,0 +1,24 @@
+state = {
+	id = 65
+	name = "STATE_65" # Corsica
+	manpower = 221167
+	state_category = state_00
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 3838 1 }
+
+		buildings = {
+			infrastructure = 2
+			air_base = 1
+		}
+	}
+	
+	provinces = {
+		3838 9851 11804
+	}
+	
+	local_supplies = 10
+}

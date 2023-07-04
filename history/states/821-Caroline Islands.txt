@@ -1,0 +1,34 @@
+state = {
+	id = 821
+	name = "STATE_821" # Caroline Islands
+	manpower = 78142
+	state_category = state_00
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 13035 3 }
+		victory_points = { 13036 3 }
+		victory_points = { 13028 3 }
+		victory_points = { 13027 1 }
+		victory_points = { 13029 1 }
+		victory_points = { 2489 3 }
+		victory_points = { 13034 1 }
+		victory_points = { 13032 1 }
+		victory_points = { 13033 1 }
+		victory_points = { 13031 1 }
+		victory_points = { 13030 1 }
+
+		buildings = {
+			infrastructure = 2
+			air_base = 3
+		}
+	}
+	
+	provinces = {
+		2489 13027 13028 13029 13030 13031 13032 13033 13034 13035 13036
+	}
+	
+	local_supplies = 10
+}

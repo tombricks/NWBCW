@@ -1,0 +1,26 @@
+state = {
+	id = 1091
+	name = "STATE_1091" # Cherkasy
+	manpower = 1109826
+	state_category = state_02
+	resources = {
+	}
+	
+	history = {
+		owner = SOV
+		add_core_of = SOV
+		set_state_flag = country_ukraine
+		victory_points = { 488 5 }
+		victory_points = { 11424 3 }
+
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	
+	provinces = {
+		458 488 9451 11424 11454 11530
+	}
+	
+	local_supplies = 10
+}

@@ -1,0 +1,35 @@
+state = {
+	id = 779
+	name = "STATE_779" # Wisconsin
+	manpower = 4559124
+	state_category = state_06
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 12357 5 }
+		victory_points = { 12456 5 }
+		victory_points = { 4166 3 }
+		victory_points = { 4029 3 }
+		victory_points = { 10341 3 }
+		victory_points = { 9657 1 }
+		victory_points = { 7829 1 }
+		victory_points = { 7776 1 }
+
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			air_base = 4
+			industrial_complex = 3
+			synthetic_refinery = 2
+			nuclear_reactor = 1
+		}
+	}
+	
+	provinces = {
+		703 926 1560 1760 1849 3699 4029 4166 4738 4834 7776 7829 9657 9678 10341 10526 12357 12456
+	}
+	
+	local_supplies = 10
+}

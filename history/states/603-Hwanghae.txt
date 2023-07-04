@@ -1,0 +1,31 @@
+state = {
+	id = 603
+	name = "STATE_603" # Hwanghae
+	manpower = 5191536
+	state_category = state_06
+	resources = {
+		aluminium = 9
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 10065 5 }
+		victory_points = { 12040 5 }
+		victory_points = { 848 5 }
+		victory_points = { 1003 5 }
+		victory_points = { 7155 1 }
+
+		buildings = {
+			infrastructure = 1
+			fuel_silo = 1
+			synthetic_refinery = 1
+			air_base = 6
+		}
+	}
+	
+	provinces = {
+		848 1003 4107 7070 7155 9981 10065 11915 12040 3173 3176 3187
+	}
+	
+	local_supplies = 10
+}

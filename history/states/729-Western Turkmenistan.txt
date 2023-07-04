@@ -1,0 +1,31 @@
+state = {
+	id = 729
+	name = "STATE_729" # Ashgabat
+	manpower = 2183630
+	state_category = state_04
+	resources = {
+		oil = 6.000
+	}
+	
+	history = {
+		owner = SOV
+		add_core_of = SOV
+		set_state_flag = country_turkmenistan
+		victory_points = { 12333 5 }
+		victory_points = { 10485 3 }
+		victory_points = { 1593 3 }
+		victory_points = { 7477 3 }
+		victory_points = { 10359 1 }
+
+		buildings = {
+			infrastructure = 2
+			air_base = 4
+		}
+	}
+	
+	provinces = {
+		1593 3662 3798 4563 7477 7563 7618 7635 8099 9605 10359 10485 10510 12324 12333 12491 14291 14292 14345 14368 14369 14370
+	}
+	
+	local_supplies = 10
+}

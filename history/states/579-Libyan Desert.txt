@@ -1,0 +1,21 @@
+state = {
+	id = 579
+	name = "STATE_579" # Calansho Sand Sea
+	manpower = 615
+	state_category = state_inhospitable
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+
+		buildings = {
+		}
+	}
+	
+	provinces = {
+		4191
+	}
+	
+	local_supplies = 10
+}

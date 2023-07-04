@@ -1,0 +1,27 @@
+state = {
+	id = 129
+	name = "STATE_129" # East Srpska
+	manpower = 601292
+	state_category = state_01
+	resources = {
+		steel = 2.000
+		aluminium = 3.000
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 11741 3 }
+		victory_points = { 11845 1 }
+		victory_points = { 606 1 }
+
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	
+	provinces = {
+		606 953 982 11741 11845
+	}
+	
+	local_supplies = 10
+}

@@ -1,0 +1,24 @@
+state = {
+	id = 228
+	name = "STATE_228" # Eritrean Coast
+	manpower = 639222
+	state_category = state_01
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 70 1 }
+		victory_points = { 5091 1 }
+
+		buildings = {
+			infrastructure = 0
+		}
+	}
+	
+	provinces = {
+		5047 5091 8043 12766 70 13794 13793 13792 13791
+	}
+	
+	local_supplies = 10
+}

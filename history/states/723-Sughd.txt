@@ -1,0 +1,25 @@
+state = {
+	id = 723
+	name = "STATE_723" # Sughd
+	manpower = 1540426
+	state_category = state_03
+	resources = {
+	}
+	
+	history = {
+		owner = SOV
+		add_core_of = SOV
+		set_state_flag = country_tajikistan
+		victory_points = { 12430 3 }
+
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	
+	provinces = {
+		1919 10187 10660 12430 14134 14135 14205
+	}
+	
+	local_supplies = 10
+}

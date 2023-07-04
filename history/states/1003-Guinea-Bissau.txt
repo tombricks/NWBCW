@@ -1,0 +1,24 @@
+state = {
+	id = 1003
+	name = "STATE_1003" # Buba
+	manpower = 263712
+	state_category = state_01
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 12747 2 }
+
+		buildings = {
+			infrastructure = 0
+			air_base = 1
+		}
+	}
+	
+	provinces = {
+		12747 6894
+	}
+	
+	local_supplies = 10
+}

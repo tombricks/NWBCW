@@ -1,0 +1,28 @@
+state = {
+	id = 112
+	name = "STATE_112" # Malopolska
+	manpower = 3426814
+	state_category = state_05
+	resources = {
+		steel = 16
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 9427 5 }
+		victory_points = { 6416 1 }
+
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			air_base = 3
+			industrial_complex = 1
+		}
+	}
+	
+	provinces = {
+		562 624 3497 3586 6416 9427
+	}
+	
+	local_supplies = 10
+}

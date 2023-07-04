@@ -1,0 +1,33 @@
+state = {
+	id = 669
+	name = "STATE_669" # Crimea
+	manpower = 2290908
+	state_category = state_04
+	resources = {
+	}
+	
+	history = {
+		owner = SOV
+		add_core_of = SOV
+		set_state_flag = country_ukraine
+		victory_points = { 3686 5 }
+		victory_points = { 6704 5 }
+		victory_points = { 9680 3 }
+		victory_points = { 705 3 }
+		victory_points = { 9677 1 }
+
+		buildings = {
+			infrastructure = 1
+			air_base = 6
+			dockyard = 1
+			anti_air_building = 5
+			radar_station = 3
+		}
+	}
+	
+	provinces = {
+		705 3686 3722 6704 6724 9677 9680 9718 11649 14328 14329
+	}
+	
+	local_supplies = 10
+}

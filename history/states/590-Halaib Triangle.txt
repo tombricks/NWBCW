@@ -1,0 +1,22 @@
+state = {
+	id = 590
+	name = "STATE_590" # Hala'ib
+	manpower = 13600
+	state_category = state_00
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+
+		buildings = {
+			infrastructure = 0
+		}
+	}
+	
+	provinces = {
+		13227
+	}
+	
+	local_supplies = 10
+}

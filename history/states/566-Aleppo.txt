@@ -1,0 +1,23 @@
+state = {
+	id = 566
+	name = "STATE_566" # Aleppo
+	manpower = 1299524
+	state_category = state_03
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 12473 7 }
+
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	
+	provinces = {
+		12473 6308
+	}
+	
+	local_supplies = 10
+}

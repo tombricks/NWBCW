@@ -1,0 +1,29 @@
+state = {
+	id = 870
+	name = "STATE_870" # Pacifico
+	manpower = 5775957
+	state_category = state_06
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 7936 10 }
+		victory_points = { 7991 1 }
+		victory_points = { 10494 3 }
+		victory_points = { 10846 3 }
+
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			synthetic_refinery = 1
+			arms_factory = 1
+		}
+	}
+	
+	provinces = {
+		7936 7991 10494 10846 10974 11472
+	}
+	
+	local_supplies = 10
+}

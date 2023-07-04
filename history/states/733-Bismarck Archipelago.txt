@@ -1,0 +1,26 @@
+state = {
+	id = 733
+	name = "STATE_733" # Bismarck Archipelago
+	manpower = 526516
+	state_category = state_01
+	resources = {
+		rubber = 16
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 4304 1 }
+		victory_points = { 7339 1 }
+		victory_points = { 1361 1 }
+
+		buildings = {
+			infrastructure = 0
+		}
+	}
+	
+	provinces = {
+		1301 1361 4304 4421 7251 7339 14405
+	}
+	
+	local_supplies = 10
+}

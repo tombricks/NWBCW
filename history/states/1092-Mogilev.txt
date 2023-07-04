@@ -1,0 +1,27 @@
+state = {
+	id = 1092
+	name = "STATE_1092" # Mogilev
+	manpower = 891927
+	state_category = state_01
+	resources = {
+	}
+	
+	history = {
+		owner = SOV
+		add_core_of = SOV
+		set_state_flag = country_belarus
+		victory_points = { 9289 5 }
+		victory_points = { 331 3 }
+
+		buildings = {
+			infrastructure = 1
+			arms_factory = 1
+		}
+	}
+	
+	provinces = {
+		289 331 6233 6354 9289 9371 9396 11383 14477 14478 14479 14537
+	}
+	
+	local_supplies = 10
+}

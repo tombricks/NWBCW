@@ -1,0 +1,29 @@
+state = {
+	id = 83
+	name = "STATE_83" # Sicilia
+	manpower = 4056351
+	state_category = state_05
+	resources = {
+		oil = 1
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 10074 5 }
+		victory_points = { 4014 5 }
+		victory_points = { 4159 5 }
+
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 3
+			air_base = 10
+			anti_air_building = 1
+		}
+	}
+	
+	provinces = {
+		1009 1156 4014 4159 7059 10074 12047
+	}
+	
+	local_supplies = 10
+}

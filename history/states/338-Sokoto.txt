@@ -1,0 +1,26 @@
+state = {
+	id = 338
+	name = "STATE_338" # Sokoto
+	manpower = 9950455
+	state_category = state_09
+	resources = {
+		steel = 10
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 11280 7 }
+		victory_points = { 12817 4 }
+		victory_points = { 1932 1 }
+
+		buildings = {
+			infrastructure = 0
+		}
+	}
+	
+	provinces = {
+		1891 1932 12817 11271 11280 13307 13308 13309 13310
+	}
+	
+	local_supplies = 10
+}

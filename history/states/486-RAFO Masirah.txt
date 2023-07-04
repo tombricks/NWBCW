@@ -1,0 +1,24 @@
+state = {
+	id = 486
+	name = "STATE_486" # Masirah Island
+	manpower = 402
+	state_category = state_military_base
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 11179 1 }
+
+		buildings = {
+			infrastructure = 2
+			air_base = 4
+		}
+	}
+	
+	provinces = {
+		11179
+	}
+	
+	local_supplies = 10
+}

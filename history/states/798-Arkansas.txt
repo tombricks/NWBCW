@@ -1,0 +1,35 @@
+state = {
+	id = 798
+	name = "STATE_798" # Arkansas
+	manpower = 2272390
+	state_category = state_04
+	resources = {
+		oil = 4
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 12489 5 }
+		victory_points = { 4567 3 }
+		victory_points = { 12778 3 }
+		victory_points = { 4625 1 }
+		victory_points = { 7543 1 }
+		victory_points = { 10477 1 }
+		victory_points = { 12458 1 }
+		victory_points = { 1503 1 }
+
+		buildings = {
+			infrastructure = 2
+			arms_factory = 3
+			air_base = 1
+			industrial_complex = 2
+			nuclear_reactor = 1
+		}
+	}
+	
+	provinces = {
+		1503 1646 4444 4567 4597 4625 7485 7543 7586 10355 10477 12458 12489 12778
+	}
+	
+	local_supplies = 10
+}

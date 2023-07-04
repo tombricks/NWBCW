@@ -1,0 +1,31 @@
+state = {
+	id = 46
+	name = "STATE_46" # Holland
+	manpower = 6333058
+	state_category = state_07
+	resources = {
+		oil = 11
+		steel = 35
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 391 12 }
+		victory_points = { 3211 5 }
+
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			synthetic_refinery = 1
+			dockyard = 1
+			industrial_complex = 2
+			air_base = 5
+		}
+	}
+	
+	provinces = {
+		68 391 3211 3314
+	}
+	
+	local_supplies = 10
+}

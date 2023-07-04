@@ -1,0 +1,23 @@
+state = {
+	id = 1081
+	name = "STATE_1081" # Najran
+	manpower = 296780
+	state_category = state_00
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 14430 1 }
+
+		buildings = {
+			infrastructure = 0
+		}
+	}
+	
+	provinces = {
+		14398 14399 14430
+	}
+	
+	local_supplies = 10
+}

@@ -1,0 +1,28 @@
+state = {
+	id = 494
+	name = "STATE_494" # Northern Bangladesh
+	manpower = 41269056
+	state_category = state_16
+	resources = {
+		oil = 4
+		steel = 1
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 4616 5 }
+		victory_points = { 10443 1 }
+		victory_points = { 12423 1 }
+
+		buildings = {
+			infrastructure = 0
+			industrial_complex = 2
+		}
+	}
+	
+	provinces = {
+		4616 10443 13246 113 119 10416 12423 114 115
+	}
+	
+	local_supplies = 10
+}

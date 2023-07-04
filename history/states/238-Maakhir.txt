@@ -1,0 +1,23 @@
+state = {
+	id = 238
+	name = "STATE_238" # Maakhir
+	manpower = 235609
+	state_category = state_01
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 10921 1 }
+
+		buildings = {
+			infrastructure = 0
+		}
+	}
+	
+	provinces = {
+		10921 12814 13856 13857
+	}
+	
+	local_supplies = 10
+}

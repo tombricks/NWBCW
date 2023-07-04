@@ -1,0 +1,23 @@
+state = {
+	id = 929
+	name = "STATE_929" # Vatican State
+	manpower = 850
+	state_category = state_00
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 13276 1 }
+
+		buildings = {
+			infrastructure = 4
+		}
+	}
+	
+	provinces = {
+		13276
+	}
+	
+	local_supplies = 10
+}

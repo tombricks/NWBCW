@@ -1,0 +1,23 @@
+state = {
+	id = 1073
+	name = "STATE_1073" # Gilan
+	manpower = 2023000
+	state_category = state_02
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 4609 5 }
+
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	
+	provinces = {
+		4609 4637
+	}
+	
+	local_supplies = 10
+}

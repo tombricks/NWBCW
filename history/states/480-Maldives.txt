@@ -1,0 +1,24 @@
+state = {
+	id = 480
+	name = "STATE_480" # Maldives
+	manpower = 232251
+	state_category = state_00
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 4967 3 }
+
+		buildings = {
+			infrastructure = 2
+			air_base = 3
+		}
+	}
+	
+	provinces = {
+		4967
+	}
+	
+	local_supplies = 10
+}

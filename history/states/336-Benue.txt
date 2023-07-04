@@ -1,0 +1,25 @@
+state = {
+	id = 336
+	name = "STATE_336" # Benue
+	manpower = 8647058
+	state_category = state_09
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 10820 7 }
+		victory_points = { 4889 4 }
+		victory_points = { 11230 1 }
+
+		buildings = {
+			infrastructure = 0
+		}
+	}
+	
+	provinces = {
+		4889 10820 11230 13316 13317 13318 13319 13320
+	}
+	
+	local_supplies = 10
+}

@@ -1,0 +1,28 @@
+state = {
+	id = 712
+	name = "STATE_712" # Ganja
+	manpower = 334374
+	state_category = state_03
+	resources = {
+		aluminium = 1.000
+	}
+	
+	history = {
+		owner = SOV
+		add_core_of = SOV
+		set_state_flag = country_azerbaijan
+		victory_points = { 1539 5 }
+		victory_points = { 13919 3 }
+
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+		}
+	}
+	
+	provinces = {
+		1539 4605 11674 11704 13919 12309 14343
+	}
+	
+	local_supplies = 10
+}

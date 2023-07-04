@@ -1,0 +1,26 @@
+state = {
+	id = 356
+	name = "STATE_356" # Monrovia
+	manpower = 1713674
+	state_category = state_03
+	resources = {
+		chromium = 42
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 7959 10 }
+		victory_points = { 13241 5 }
+
+		buildings = {
+			infrastructure = 0
+			air_base = 1
+		}
+	}
+	
+	provinces = {
+		7959 13239 13240 13241
+	}
+	
+	local_supplies = 10
+}

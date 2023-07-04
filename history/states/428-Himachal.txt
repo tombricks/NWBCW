@@ -1,0 +1,26 @@
+state = {
+	id = 428
+	name = "STATE_428" # Himachal
+	manpower = 4877344
+	state_category = state_06
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 12708 1 }
+		victory_points = { 1129 1 }
+		victory_points = { 2076 1 }
+
+		buildings = {
+			infrastructure = 0
+			industrial_complex = 1
+		}
+	}
+	
+	provinces = {
+		1129 2076 7106 12708 98 7316
+	}
+	
+	local_supplies = 10
+}

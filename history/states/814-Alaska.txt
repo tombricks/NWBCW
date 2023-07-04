@@ -1,0 +1,35 @@
+state = {
+	id = 814
+	name = "STATE_814" # Alaska
+	manpower = 532892
+	state_category = state_01
+	resources = {
+		oil = 21
+		chromium = 24
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 13091 5 }
+		victory_points = { 222 3 }
+		victory_points = { 13069 3 }
+		victory_points = { 148 1 }
+		victory_points = { 4833 1 }
+		victory_points = { 7884 1 }
+		victory_points = { 1830 1 }
+		victory_points = { 7855 1 }
+
+		buildings = {
+			infrastructure = 2
+			air_base = 10
+			industrial_complex = 2
+			radar_station = 3
+		}
+	}
+	
+	provinces = {
+		1135 1830 4833 4848 7855 7884 10679 10694 10707 12661 13069 13090 13091 148 173 222 281 14069 14070
+	}
+	
+	local_supplies = 10
+}

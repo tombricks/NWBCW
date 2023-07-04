@@ -1,0 +1,31 @@
+state = {
+	id = 463
+	name = "STATE_463" # Southern Chile
+	manpower = 814915
+	state_category = state_02
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 5169 3 }
+		victory_points = { 5201 3 }
+		victory_points = { 2161 2 }
+		victory_points = { 12954 1 }
+		victory_points = { 8218 1 }
+		victory_points = { 5209 1 }
+		victory_points = { 10961 1 }
+
+		buildings = {
+			infrastructure = 1
+			dockyard = 1
+			air_base = 4
+		}
+	}
+	
+	provinces = {
+		2161 5118 5159 5201 5209 5215 8198 8218 8913 10961 5169 12954
+	}
+	
+	local_supplies = 10
+}

@@ -1,0 +1,37 @@
+state = {
+	id = 612
+	name = "STATE_612" # Kansai
+	manpower = 17562351
+	state_category = state_11
+	resources = {
+		aluminium = 3
+		steel = 52
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 7072 15 }
+		victory_points = { 11960 5 }
+		victory_points = { 4142 3 }
+		victory_points = { 12031 5 }
+		victory_points = { 7113 2 }
+		victory_points = { 4054 1 }
+		victory_points = { 1136 1 }
+
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 15
+			arms_factory = 2
+			dockyard = 1
+			air_base = 10
+			nuclear_reactor = 1
+			anti_air_building = 1
+		}
+	}
+	
+	provinces = {
+		1051 1067 1133 1136 4054 4142 7072 7113 9985 11960 12031 6163 6168
+	}
+	
+	local_supplies = 10
+}

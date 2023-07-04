@@ -1,0 +1,26 @@
+state = {
+	id = 138
+	name = "STATE_138" # Southern Albania
+	manpower = 1121249
+	state_category = state_02
+	resources = {
+	}
+	
+	history = {
+		owner = ALB
+		add_core_of = ALB
+		victory_points = { 914 1 }
+		victory_points = { 3884 1 }
+		victory_points = { 6900 1 }
+
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	
+	provinces = {
+		914 3448 3884 6900 9875
+	}
+	
+	local_supplies = 10
+}

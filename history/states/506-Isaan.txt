@@ -1,0 +1,34 @@
+state = {
+	id = 506
+	name = "STATE_506" # Isaan
+	manpower = 15792615
+	state_category = state_11
+	resources = {
+		oil = 1
+		rubber = 32
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 10384 5 }
+		victory_points = { 12195 5 }
+		victory_points = { 12373 5 }
+		victory_points = { 1548 1 }
+		victory_points = { 4511 1 }
+		victory_points = { 10425 1 }
+
+		buildings = {
+			infrastructure = 0
+			arms_factory = 1
+			industrial_complex = 2
+			synthetic_refinery = 2
+			air_base = 2
+		}
+	}
+	
+	provinces = {
+		1357 1535 1548 4511 4582 7516 7601 10384 10425 10438 12195 12264 12360 12373 12388 12402 12417 12431 160
+	}
+	
+	local_supplies = 10
+}

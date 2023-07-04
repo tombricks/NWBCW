@@ -1,0 +1,25 @@
+state = {
+	id = 843
+	name = "STATE_843" # San Salvador
+	manpower = 3279729
+	state_category = state_05
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 12823 5 }
+
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			air_base = 1
+		}
+	}
+	
+	provinces = {
+		12823
+	}
+	
+	local_supplies = 10
+}

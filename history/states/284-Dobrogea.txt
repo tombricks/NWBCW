@@ -1,0 +1,27 @@
+state = {
+	id = 284
+	name = "STATE_284" # Dobruja
+	manpower = 825897
+	state_category = state_02
+	resources = {
+		oil = 7
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 657 5 }
+
+		buildings = {
+			infrastructure = 2
+			air_base = 2
+			dockyard = 1
+			nuclear_reactor = 1
+		}
+	}
+	
+	provinces = {
+		657 687 3076 9635 14287
+	}
+	
+	local_supplies = 10
+}

@@ -1,0 +1,26 @@
+state = {
+	id = 708
+	name = "STATE_708" # Eastern Georgia
+	manpower = 1714755
+	state_category = state_04
+	resources = {
+	}
+	
+	history = {
+		owner = SOV
+		add_core_of = SOV
+		set_state_flag = country_georgia
+		victory_points = { 4534 1 }
+
+		buildings = {
+			infrastructure = 1
+			air_base = 2
+		}
+	}
+	
+	provinces = {
+		3667 4534 6763 1164
+	}
+	
+	local_supplies = 10
+}

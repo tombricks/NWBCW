@@ -1,0 +1,29 @@
+state = {
+	id = 1088
+	name = "STATE_1088" # Sumy
+	manpower = 1005947
+	state_category = state_02
+	resources = {
+	}
+	
+	history = {
+		owner = SOV
+		add_core_of = SOV
+		set_state_flag = country_ukraine
+		victory_points = { 3520 5 }
+		victory_points = { 9477 3 }
+		victory_points = { 9566 3 }
+		victory_points = { 463 1 }
+		victory_points = { 3455 1 }
+
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	
+	provinces = {
+		463 3225 3455 3520 6565 9477 9566 11462
+	}
+	
+	local_supplies = 10
+}

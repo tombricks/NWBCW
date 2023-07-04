@@ -1,0 +1,24 @@
+state = {
+	id = 372
+	name = "STATE_372" # Tifariti
+	manpower = 72094
+	state_category = state_00
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 7979 1 }
+
+		buildings = {
+			infrastructure = 0
+			air_base = 1
+		}
+	}
+	
+	provinces = {
+		7979 13232 13233 13234 13235
+	}
+	
+	local_supplies = 10
+}

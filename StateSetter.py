@@ -1,10 +1,11 @@
 import os
-states = [ 620, 592, 729  ]
+states = [ 558, 813, 1015, 558, 567, 564, 562, 572, 570, 559, 1072, 582, 583, 586, 560, 578, 585, 588, 589, 592, 591 ]
 files = os.listdir('history/states')
 new = "owner = CHI\n\t\tadd_core_of = CHI"
 for filename in files:
     if "txt" in filename:
-        fileId = int(filename[0:filename.index(" ")])
+        filenamer = filename.replace(" ", "")
+        fileId = int(filenamer[0:filenamer.index("-")])
         if fileId in states:
             print(filename)
             text = ""

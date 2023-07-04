@@ -1,0 +1,23 @@
+state = {
+	id = 1024
+	name = "STATE_1024" # Amapá
+	manpower = 405477
+	state_category = state_01
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 6980 3 }
+
+		buildings = {
+			infrastructure = 0
+		}
+	}
+	
+	provinces = {
+		4980 6980
+	}
+	
+	local_supplies = 10
+}

@@ -1,0 +1,22 @@
+state = {
+	id = 18
+	name = "STATE_18" # Pitcairn Islands
+	manpower = 42
+	state_category = state_inhospitable
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+
+		buildings = {
+			infrastructure = 0
+		}
+	}
+	
+	provinces = {
+		1280
+	}
+	
+	local_supplies = 10
+}

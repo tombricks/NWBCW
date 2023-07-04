@@ -1,0 +1,27 @@
+state = {
+	id = 485
+	name = "STATE_485" # Eastern Nepal
+	manpower = 14124219
+	state_category = state_11
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 4987 5 }
+		victory_points = { 12892 1 }
+		victory_points = { 5310 1 }
+
+		buildings = {
+			infrastructure = 0
+			air_base = 4
+			industrial_complex = 1
+		}
+	}
+	
+	provinces = {
+		4987 5310 6955 7139 7196 12892 14508 14509
+	}
+	
+	local_supplies = 10
+}

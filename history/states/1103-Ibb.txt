@@ -1,0 +1,25 @@
+state = {
+	id = 1103
+	name = "STATE_1103" # 'Ibb
+	manpower = 1145805
+	state_category = state_02
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 14558 1 }
+		victory_points = { 9147 4 }
+		victory_points = { 14577 2 }
+
+		buildings = {
+			infrastructure = 0
+		}
+	}
+	
+	provinces = {
+		9147 14476 14558 14576 14577 14578 14579 14580 14581
+	}
+	
+	local_supplies = 10
+}

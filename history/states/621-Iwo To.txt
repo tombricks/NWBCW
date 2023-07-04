@@ -1,0 +1,23 @@
+state = {
+	id = 621
+	name = "STATE_621" # Iwo To
+	manpower = 1
+	state_category = state_00
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 13025 1 }
+
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	
+	provinces = {
+		13025 14193 14194
+	}
+	
+	local_supplies = 10
+}

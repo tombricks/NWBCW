@@ -1,0 +1,29 @@
+state = {
+	id = 13
+	name = "STATE_13" # Greater London
+	manpower = 12455425
+	state_category = state_10
+	resources = {
+		aluminium = 18.000
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 11333 15 }
+		victory_points = { 11221 1 }
+
+		buildings = {
+			infrastructure = 3
+			arms_factory = 3
+			industrial_complex = 3
+			air_base = 10
+			anti_air_building = 1
+		}
+	}
+	
+	provinces = {
+		507 9239 11221 11333 13070
+	}
+	
+	local_supplies = 10
+}

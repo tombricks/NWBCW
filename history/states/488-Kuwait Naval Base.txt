@@ -1,0 +1,25 @@
+state = {
+	id = 488
+	name = "STATE_488" # Kuwait Naval Base
+	manpower = 1244
+	state_category = state_military_base
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+
+		buildings = {
+			infrastructure = 3
+			air_base = 10
+			anti_air_building = 3
+			radar_station = 1
+		}
+	}
+	
+	provinces = {
+		11178
+	}
+	
+	local_supplies = 10
+}

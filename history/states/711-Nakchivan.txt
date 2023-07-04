@@ -1,0 +1,26 @@
+state = {
+	id = 711
+	name = "STATE_711" # Nakhchivan
+	manpower = 330392
+	state_category = state_01
+	resources = {
+	}
+	
+	history = {
+		owner = SOV
+		add_core_of = SOV
+		set_state_flag = country_azerbaijan
+		victory_points = { 6997 3 }
+
+		buildings = {
+			infrastructure = 1
+			air_base = 1
+		}
+	}
+	
+	provinces = {
+		6997
+	}
+	
+	local_supplies = 10
+}

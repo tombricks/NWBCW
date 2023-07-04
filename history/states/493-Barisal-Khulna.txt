@@ -1,0 +1,26 @@
+state = {
+	id = 493
+	name = "STATE_493" # Barisal-Khulna
+	manpower = 17275330
+	state_category = state_12
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 2843 5 }
+		victory_points = { 10035 1 }
+		victory_points = { 7124 1 }
+
+		buildings = {
+			infrastructure = 0
+			industrial_complex = 1
+		}
+	}
+	
+	provinces = {
+		2843 7078 7124 9935 10035 11911
+	}
+	
+	local_supplies = 10
+}

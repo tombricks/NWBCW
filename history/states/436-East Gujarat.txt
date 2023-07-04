@@ -1,0 +1,34 @@
+state = {
+	id = 436
+	name = "STATE_436" # East Gujarat
+	manpower = 33809537
+	state_category = state_15
+	resources = {
+		oil = 6.000
+		steel = 39.000
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 9975 5 }
+		victory_points = { 1103 1 }
+		victory_points = { 11952 5 }
+		victory_points = { 4187 5 }
+		victory_points = { 7150 1 }
+
+		buildings = {
+			infrastructure = 1
+			arms_factory = 1
+			dockyard = 1
+			air_base = 6
+			nuclear_reactor = 1
+			industrial_complex = 2
+		}
+	}
+	
+	provinces = {
+		1103 4187 7150 7165 9975 11952 12092
+	}
+	
+	local_supplies = 10
+}

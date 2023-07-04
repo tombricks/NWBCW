@@ -1,0 +1,28 @@
+state = {
+	id = 120
+	name = "STATE_120" # Karpaty
+	manpower = 2502750
+	state_category = state_04
+	resources = {
+		steel = 6
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 6573 5 }
+		victory_points = { 3537 1 }
+		victory_points = { 3581 1 }
+
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 1
+		}
+	}
+	
+	provinces = {
+		555 581 3537 3565 3581 6573 6604 9551 11539 561
+	}
+	
+	local_supplies = 10
+}

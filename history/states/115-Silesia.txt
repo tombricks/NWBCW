@@ -1,0 +1,32 @@
+state = {
+	id = 115
+	name = "STATE_115" # Silesia
+	manpower = 4395376
+	state_category = state_06
+	resources = {
+		aluminium = 1.000
+		tungsten = 9.000
+		steel = 18
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 6464 3 }
+		victory_points = { 11467 5 }
+		victory_points = { 479 5 }
+		victory_points = { 6512 1 }
+
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			air_base = 5
+			industrial_complex = 1
+		}
+	}
+	
+	provinces = {
+		479 506 6464 6512 9457 9511 11467
+	}
+	
+	local_supplies = 10
+}

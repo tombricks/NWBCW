@@ -1,0 +1,23 @@
+state = {
+	id = 184
+	name = "STATE_184" # Daraa
+	manpower = 412790
+	state_category = state_01
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 1074 3 }
+
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	
+	provinces = {
+		1074 11093 11095 11102
+	}
+	
+	local_supplies = 10
+}

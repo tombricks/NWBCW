@@ -1,0 +1,25 @@
+state = {
+	id = 1063
+	name = "STATE_1063" # Uttarakhand
+	manpower = 8506843
+	state_category = state_08
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 5157 5 }
+		victory_points = { 10021 1 }
+
+		buildings = {
+			infrastructure = 0
+			industrial_complex = 1
+		}
+	}
+	
+	provinces = {
+		1898 3989 5157 9122 10021
+	}
+	
+	local_supplies = 10
+}

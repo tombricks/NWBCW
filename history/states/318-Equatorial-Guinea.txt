@@ -1,0 +1,24 @@
+state = {
+	id = 318
+	name = "STATE_318" # Rio Muni
+	manpower = 317661
+	state_category = state_01
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 8244 5 }
+
+		buildings = {
+			infrastructure = 1
+			air_base = 1
+		}
+	}
+	
+	provinces = {
+		8244 13787 13788
+	}
+	
+	local_supplies = 10
+}

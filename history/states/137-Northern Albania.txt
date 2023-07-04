@@ -1,0 +1,27 @@
+state = {
+	id = 137
+	name = "STATE_137" # Northern Albania
+	manpower = 1498031
+	state_category = state_03
+	resources = {
+		steel = 6
+	}
+	
+	history = {
+		owner = ALB
+		add_core_of = ALB
+		victory_points = { 9914 5 }
+		victory_points = { 9780 1 }
+
+		buildings = {
+			infrastructure = 0
+			air_base = 3
+		}
+	}
+	
+	provinces = {
+		3896 9780 9914 11762
+	}
+	
+	local_supplies = 10
+}

@@ -1,0 +1,26 @@
+state = {
+	id = 340
+	name = "STATE_340" # Borno
+	manpower = 9799001
+	state_category = state_09
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 4997 5 }
+		victory_points = { 8109 3 }
+		victory_points = { 5028 1 }
+
+		buildings = {
+			infrastructure = 0
+			industrial_complex = 1
+		}
+	}
+	
+	provinces = {
+		4997 8109 5028 13273 13322
+	}
+	
+	local_supplies = 10
+}

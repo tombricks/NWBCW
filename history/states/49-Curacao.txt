@@ -1,0 +1,24 @@
+state = {
+	id = 49
+	name = "STATE_49" # Curacao
+	manpower = 207595
+	state_category = state_00
+	resources = {
+		oil = 35
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 153 1 }
+
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	
+	provinces = {
+		153
+	}
+	
+	local_supplies = 10
+}

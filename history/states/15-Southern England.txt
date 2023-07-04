@@ -1,0 +1,32 @@
+state = {
+	id = 15
+	name = "STATE_15" # Southern England
+	manpower = 4292035
+	state_category = state_05
+	resources = {
+		steel = 25.000
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 6489 5 }
+		victory_points = { 9458 3 }
+		victory_points = { 11446 3 }
+		victory_points = { 3422 2 }
+
+		buildings = {
+			infrastructure = 3
+			arms_factory = 4
+			dockyard = 2
+			industrial_complex = 3
+			air_base = 10
+			anti_air_building = 2
+		}
+	}
+	
+	provinces = {
+		3422 3501 6103 6351 6489 9458 9484 11446
+	}
+	
+	local_supplies = 10
+}

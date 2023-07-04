@@ -1,0 +1,31 @@
+state = {
+	id = 817
+	name = "STATE_817" # Hawaii
+	manpower = 1029806
+	state_category = state_02
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 4180 5 }
+		victory_points = { 7195 1 }
+		victory_points = { 12021 1 }
+		victory_points = { 10048 1 }
+		victory_points = { 7112 1 }
+
+		buildings = {
+			infrastructure = 3
+			dockyard = 2
+			air_base = 10
+			anti_air_building = 1
+			radar_station = 3
+		}
+	}
+	
+	provinces = {
+		4180 7112 7195 10048 12021
+	}
+	
+	local_supplies = 10
+}

@@ -1,0 +1,23 @@
+state = {
+	id = 491
+	name = "STATE_491" # Taiping Island
+	manpower = 1
+	state_category = state_00
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 11162 2 }
+
+		buildings = {
+			air_base = 1
+		}
+	}
+	
+	provinces = {
+		11162
+	}
+	
+	local_supplies = 10
+}

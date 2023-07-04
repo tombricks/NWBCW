@@ -1,0 +1,29 @@
+state = {
+	id = 837
+	name = "STATE_837" # Guerrero-Oaxaca
+	manpower = 5234926
+	state_category = state_06
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 10730 5 }
+		victory_points = { 12712 3 }
+		victory_points = { 8032 1 }
+		victory_points = { 10773 1 }
+		victory_points = { 5066 1 }
+		victory_points = { 8236 1 }
+
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 5
+		}
+	}
+	
+	provinces = {
+		5066 8032 8236 10730 10773 12712 11600 11611
+	}
+	
+	local_supplies = 10
+}

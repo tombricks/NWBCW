@@ -1,0 +1,29 @@
+state = {
+	id = 375
+	name = "STATE_375" # Atlas
+	manpower = 7307340
+	state_category = state_08
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 11987 5 }
+		victory_points = { 12042 5 }
+		victory_points = { 4108 5 }
+		victory_points = { 989 5 }
+
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			air_base = 2
+			arms_factory = 1
+		}
+	}
+	
+	provinces = {
+		989 1111 1152 1207 4084 4108 4154 7116 7173 10107 11987 12042 6415 6460
+	}
+	
+	local_supplies = 10
+}

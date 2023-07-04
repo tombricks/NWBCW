@@ -1,0 +1,30 @@
+state = {
+	id = 304
+	name = "STATE_304" # Kasai
+	manpower = 6771613
+	state_category = state_07
+	resources = {
+		chromium = 32
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 2024 10 }
+		victory_points = { 13444 1 }
+		victory_points = { 3765 1 }
+		victory_points = { 13462 2 }
+		victory_points = { 3597 5 }
+		victory_points = { 13451 1 }
+
+		buildings = {
+			infrastructure = 0
+			air_base = 1
+		}
+	}
+	
+	provinces = {
+		1731 2024 8016 3765 3490 3746 4128 7716 9986 3597 3517 6122 13427 13428 13429 13430 13431 13432 13433 13434 13435 13436 13437 13438 13439 13440 13441 13442 13443 13444 13445 13446 13447 13448 13449 13450 13451 13452 13453 13454 13455 13456 13457 13458 13459 13460 13461 13462
+	}
+	
+	local_supplies = 10
+}

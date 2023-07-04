@@ -1,0 +1,25 @@
+state = {
+	id = 207
+	name = "STATE_207" # Jerusalem
+	manpower = 738746
+	state_category = state_01
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 1086 30 }
+
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			anti_air_building = 4
+		}
+	}
+	
+	provinces = {
+		1086
+	}
+	
+	local_supplies = 10
+}

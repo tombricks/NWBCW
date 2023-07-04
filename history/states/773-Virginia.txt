@@ -1,0 +1,38 @@
+state = {
+	id = 773
+	name = "STATE_773" # Virginia
+	manpower = 6016738
+	state_category = state_07
+	resources = {
+		oil = 1
+		steel = 4
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 788 5 }
+		victory_points = { 865 3 }
+		victory_points = { 3823 6 }
+		victory_points = { 873 5 }
+		victory_points = { 11873 1 }
+		victory_points = { 10343 1 }
+		victory_points = { 1506 3 }
+		victory_points = { 10412 3 }
+		victory_points = { 9931 1 }
+		victory_points = { 951 1 }
+
+		buildings = {
+			infrastructure = 3
+			dockyard = 5
+			air_base = 8
+			industrial_complex = 2
+			nuclear_reactor = 1
+		}
+	}
+	
+	provinces = {
+		788 865 873 951 1506 3823 3917 3925 6846 7558 9779 9931 10343 10412 10439 11738 11841 11873
+	}
+	
+	local_supplies = 10
+}

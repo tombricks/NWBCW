@@ -1,0 +1,33 @@
+state = {
+	id = 725
+	name = "STATE_725" # Fergana
+	manpower = 9950783
+	state_category = state_09
+	resources = {
+		steel = 1.000
+		tungsten = 5.000
+	}
+	
+	history = {
+		owner = SOV
+		add_core_of = SOV
+		set_state_flag = country_uzbekistan
+		victory_points = { 1459 10 }
+		victory_points = { 10530 5 }
+		victory_points = { 10488 3 }
+		victory_points = { 1483 3 }
+		victory_points = { 2058 3 }
+
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			arms_factory = 1
+		}
+	}
+	
+	provinces = {
+		1459 1483 2058 10488 10530 13215 14136
+	}
+	
+	local_supplies = 10
+}

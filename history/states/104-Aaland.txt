@@ -1,0 +1,23 @@
+state = {
+	id = 104
+	name = "STATE_104" # Åland
+	manpower = 23205
+	state_category = state_00
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 9228 1 }
+
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	
+	provinces = {
+		9228
+	}
+	
+	local_supplies = 10
+}

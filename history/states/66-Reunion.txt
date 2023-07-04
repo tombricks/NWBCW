@@ -1,0 +1,22 @@
+state = {
+	id = 66
+	name = "STATE_66" # Reunion
+	manpower = 875204
+	state_category = state_02
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	
+	provinces = {
+		13017
+	}
+	
+	local_supplies = 10
+}

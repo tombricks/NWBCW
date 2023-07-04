@@ -1,0 +1,31 @@
+state = {
+	id = 520
+	name = "STATE_520" # Vietnamese Highlands
+	manpower = 4685791
+	state_category = state_06
+	resources = {
+		aluminium = 21
+		tungsten = 3
+		rubber = 64
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 1605 3 }
+		victory_points = { 4363 1 }
+		victory_points = { 7271 1 }
+		victory_points = { 12176 1 }
+
+		buildings = {
+			infrastructure = 0
+			synthetic_refinery = 1
+			industrial_complex = 1
+		}
+	}
+	
+	provinces = {
+		7238 12176 7271 1605 12109 1400 7380 1328 4363 1248 12150 7347
+	}
+	
+	local_supplies = 10
+}

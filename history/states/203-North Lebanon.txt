@@ -1,0 +1,23 @@
+state = {
+	id = 203
+	name = "STATE_203" # North Lebanon
+	manpower = 744117
+	state_category = state_02
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 1108 3 }
+
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	
+	provinces = {
+		1108
+	}
+	
+	local_supplies = 10
+}

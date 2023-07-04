@@ -1,0 +1,32 @@
+state = {
+	id = 79
+	name = "STATE_79" # Toscana
+	manpower = 2973135
+	state_category = state_04
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 9907 5 }
+		victory_points = { 11833 3 }
+		victory_points = { 6946 1 }
+		victory_points = { 6973 1 }
+		victory_points = { 6875 1 }
+		victory_points = { 9879 1 }
+		victory_points = { 910 1 }
+
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 3
+			dockyard = 1
+			air_base = 2
+		}
+	}
+	
+	provinces = {
+		910 6875 6946 6973 6985 9750 9879 9907 11833 14151
+	}
+	
+	local_supplies = 10
+}

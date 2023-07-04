@@ -1,0 +1,31 @@
+state = {
+	id = 986
+	name = "STATE_986" # East Madhya Pradesh
+	manpower = 18100096
+	state_category = state_12
+	resources = {
+		aluminium = 6.000
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 10801 5 }
+		victory_points = { 4410 1 }
+		victory_points = { 10332 1 }
+		victory_points = { 5040 1 }
+		victory_points = { 7938 1 }
+
+		buildings = {
+			infrastructure = 0
+			industrial_complex = 1
+			nuclear_reactor = 1
+			arms_factory = 1
+		}
+	}
+	
+	provinces = {
+		4410 4953 5040 5096 7938 9577 9846 10332 10801 11103
+	}
+	
+	local_supplies = 10
+}

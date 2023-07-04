@@ -1,0 +1,23 @@
+state = {
+	id = 633
+	name = "STATE_633" # Dohuk
+	manpower = 663185
+	state_category = state_01
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 10811 2 }
+
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	
+	provinces = {
+		10811 13248
+	}
+	
+	local_supplies = 10
+}

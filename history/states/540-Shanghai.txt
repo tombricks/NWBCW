@@ -1,0 +1,29 @@
+state = {
+	id = 540
+	name = "STATE_540" # Shanghai
+	manpower = 19818196
+	state_category = state_13
+	resources = {
+		steel = 60
+	}
+	
+	history = {
+		owner = CHI
+		add_core_of = CHI
+		victory_points = { 7014 15 }
+
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			dockyard = 1
+			air_base = 10
+			arms_factory = 1
+		}
+	}
+	
+	provinces = {
+		12076 7014
+	}
+	
+	local_supplies = 10
+}

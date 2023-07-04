@@ -1,0 +1,29 @@
+state = {
+	id = 132
+	name = "STATE_132" # Eastern Serbia
+	manpower = 1316965
+	state_category = state_03
+	resources = {
+		tungsten = 3
+		steel = 2
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 11887 5 }
+		victory_points = { 9906 1 }
+		victory_points = { 11583 1 }
+		victory_points = { 388 1 }
+
+		buildings = {
+			infrastructure = 1
+			air_base = 2
+		}
+	}
+	
+	provinces = {
+		630 6634 9602 9756 9906 11583 11868 11887 388 392
+	}
+	
+	local_supplies = 10
+}

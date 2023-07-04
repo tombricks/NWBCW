@@ -1,0 +1,32 @@
+state = {
+	id = 883
+	name = "STATE_883" # Rio de Janeiro
+	manpower = 12232590
+	state_category = state_10
+	resources = {
+		oil = 35
+		aluminium = 1
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 10980 15 }
+		victory_points = { 12996 3 }
+		victory_points = { 5172 3 }
+		victory_points = { 8190 1 }
+
+		buildings = {
+			infrastructure = 2
+			fuel_silo = 2
+			dockyard = 3
+			air_base = 4
+			nuclear_reactor = 1
+		}
+	}
+	
+	provinces = {
+		5172 8190 10980 12996
+	}
+	
+	local_supplies = 10
+}

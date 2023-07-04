@@ -1,0 +1,27 @@
+state = {
+	id = 172
+	name = "STATE_172" # Kuwait
+	manpower = 1650442
+	state_category = state_03
+	resources = {
+		oil = 68
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 8085 5 }
+
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1		
+			air_base = 10
+			industrial_complex = 1
+		}
+	}
+	
+	provinces = {
+		8085 11212
+	}
+	
+	local_supplies = 10
+}

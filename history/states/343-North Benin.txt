@@ -1,0 +1,24 @@
+state = {
+	id = 343
+	name = "STATE_343" # Northern Benin
+	manpower = 1875445
+	state_category = state_03
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 12874 3 }
+		victory_points = { 12762 1 }
+
+		buildings = {
+			infrastructure = 0
+		}
+	}
+	
+	provinces = {
+		12762 12874 9731
+	}
+	
+	local_supplies = 10
+}

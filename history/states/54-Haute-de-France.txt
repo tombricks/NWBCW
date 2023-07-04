@@ -1,0 +1,31 @@
+state = {
+	id = 54
+	name = "STATE_54" # Hauts-de-France
+	manpower = 4975912
+	state_category = state_06
+	resources = {
+		steel = 5
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 11483 5 }
+		victory_points = { 11548 1 }
+		victory_points = { 575 1 }
+
+		buildings = {
+			infrastructure = 3
+			synthetic_refinery = 1
+			air_base = 10
+			industrial_complex = 1
+			fuel_silo = 1
+			nuclear_reactor = 1
+		}
+	}
+	
+	provinces = {
+		454 575 3402 6504 6585 9500 9561 11420 11483 11548 11606
+	}
+	
+	local_supplies = 10
+}

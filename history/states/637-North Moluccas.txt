@@ -1,0 +1,25 @@
+state = {
+	id = 637
+	name = "STATE_637" # North Moluccas
+	manpower = 892376
+	state_category = state_02
+	resources = {
+		rubber = 4
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 7413 5 }
+		victory_points = { 1419 1 }
+
+		buildings = {
+			infrastructure = 0
+		}
+	}
+	
+	provinces = {
+		10342 1437 7413 10141 1419
+	}
+	
+	local_supplies = 10
+}

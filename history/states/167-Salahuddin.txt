@@ -1,0 +1,27 @@
+state = {
+	id = 167
+	name = "STATE_167" # Salahuddin
+	manpower = 938346
+	state_category = state_02
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 3795 5 }
+		victory_points = { 1600 2 }
+		victory_points = { 3219 2 }
+
+		buildings = {
+			infrastructure = 1
+			arms_factory = 1
+			industrial_complex = 1
+		}
+	}
+	
+	provinces = {
+		1600 3219 3795 8123 11277 11289 11292
+	}
+	
+	local_supplies = 10
+}

@@ -1,0 +1,24 @@
+state = {
+	id = 398
+	name = "STATE_398" # Cape Verde
+	manpower = 371450
+	state_category = state_01
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 13014 3 }
+
+		buildings = {
+			infrastructure = 1
+			air_base = 1
+		}
+	}
+	
+	provinces = {
+		13014
+	}
+	
+	local_supplies = 10
+}

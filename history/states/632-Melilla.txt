@@ -1,0 +1,23 @@
+state = {
+	id = 632
+	name = "STATE_632" # Melilla
+	manpower = 54808
+	state_category = state_00
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 13229 1 }
+
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	
+	provinces = {
+		13229
+	}
+	
+	local_supplies = 10
+}

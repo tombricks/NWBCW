@@ -1,0 +1,25 @@
+state = {
+	id = 353
+	name = "STATE_353" # Woroba-Savanes
+	manpower = 3650378
+	state_category = state_06
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 8065 4 }
+		victory_points = { 5070 1 }
+		victory_points = { 9405 4 }
+
+		buildings = {
+			infrastructure = 0
+		}
+	}
+	
+	provinces = {
+		5013 9423 9474 8065 5070 9466 9406 9405 8122
+	}
+	
+	local_supplies = 10
+}

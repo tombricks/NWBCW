@@ -1,0 +1,23 @@
+state = {
+	id = 1051
+	name = "STATE_1051" # Unsko-sanski
+	manpower = 235062
+	state_category = state_01
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 9586 1 }
+
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	
+	provinces = {
+		6614 9586
+	}
+	
+	local_supplies = 10
+}

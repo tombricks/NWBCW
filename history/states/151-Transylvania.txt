@@ -1,0 +1,28 @@
+state = {
+	id = 151
+	name = "STATE_151" # Transylvania
+	manpower = 2194671
+	state_category = state_04
+	resources = {
+		oil = 5
+		steel = 1.000
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 6711 5 }
+		victory_points = { 690 5 }
+		victory_points = { 6679 1 }
+
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+		}
+	}
+	
+	provinces = {
+		522 690 3665 3694 6679 6711 9640 11639 9619
+	}
+	
+	local_supplies = 10
+}

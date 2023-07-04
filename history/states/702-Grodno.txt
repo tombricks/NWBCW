@@ -1,0 +1,27 @@
+state = {
+	id = 702
+	name = "STATE_702" # Grodno
+	manpower = 1014281
+	state_category = state_04
+	resources = {
+	}
+	
+	history = {
+		owner = SOV
+		add_core_of = SOV
+		set_state_flag = country_belarus
+		victory_points = { 3393 5 }
+		victory_points = { 6413 3 }
+		victory_points = { 3281 1 }
+
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	
+	provinces = {
+		3281 3366 3393 6359 6413 9359 11391
+	}
+	
+	local_supplies = 10
+}

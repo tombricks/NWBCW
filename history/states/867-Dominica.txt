@@ -1,0 +1,24 @@
+state = {
+	id = 867
+	name = "STATE_867" # Dominica
+	manpower = 60556
+	state_category = state_00
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 7123 1 }
+
+		buildings = {
+			infrastructure = 2
+			air_base = 1
+		}
+	}
+	
+	provinces = {
+		7123
+	}
+	
+	local_supplies = 10
+}

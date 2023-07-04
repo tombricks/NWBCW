@@ -1,0 +1,23 @@
+state = {
+	id = 495
+	name = "STATE_495" # Ceuta
+	manpower = 58698
+	state_category = state_00
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 13228 1 }
+
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	
+	provinces = {
+		13228
+	}
+	
+	local_supplies = 10
+}

@@ -1,0 +1,25 @@
+state = {
+	id = 335
+	name = "STATE_335" # Bukovyna
+	manpower = 784394
+	state_category = state_02
+	resources = {
+	}
+	
+	history = {
+		owner = SOV
+		add_core_of = SOV
+		set_state_flag = country_ukraine
+		victory_points = { 9548 5 }
+
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	
+	provinces = {
+		577 3407 9548
+	}
+	
+	local_supplies = 10
+}

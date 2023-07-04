@@ -1,0 +1,26 @@
+state = {
+	id = 985
+	name = "STATE_985" # South Madhya Pradesh
+	manpower = 10860057
+	state_category = state_09
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 11993 1 }
+		victory_points = { 4950 1 }
+
+		buildings = {
+			infrastructure = 0
+			industrial_complex = 1
+			arms_factory = 1
+		}
+	}
+	
+	provinces = {
+		4950 7205 9096 9173 9267 9460 10872 11993 12799 12854
+	}
+	
+	local_supplies = 10
+}

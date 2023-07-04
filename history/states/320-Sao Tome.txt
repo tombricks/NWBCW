@@ -1,0 +1,24 @@
+state = {
+	id = 320
+	name = "STATE_320" # São Tomé
+	manpower = 119858
+	state_category = state_00
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 13015 3 }
+
+		buildings = {
+			infrastructure = 0
+			air_base = 1
+		}
+	}
+	
+	provinces = {
+		13015
+	}
+	
+	local_supplies = 10
+}

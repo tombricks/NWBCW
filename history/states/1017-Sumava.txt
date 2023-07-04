@@ -1,0 +1,26 @@
+state = {
+	id = 1017
+	name = "STATE_1017" # Sumava
+	manpower = 1334452
+	state_category = state_03
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 6418 1 }
+		victory_points = { 9541 1 }
+
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			nuclear_reactor = 1
+		}
+	}
+	
+	provinces = {
+		424 543 5283 6418 6470 6592 9541 9555 11525
+	}
+	
+	local_supplies = 10
+}

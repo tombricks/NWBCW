@@ -1,0 +1,29 @@
+state = {
+	id = 399
+	name = "STATE_399" # Khuzestan
+	manpower = 3830850
+	state_category = state_05
+	resources = {
+		oil = 23
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 9060 5 }
+		victory_points = { 9059 4 }
+		victory_points = { 7953 1 }
+
+		buildings = {
+			infrastructure = 2
+			air_base = 2
+			industrial_complex = 1
+			anti_air_building = 2
+		}
+	}
+	
+	provinces = {
+		5005 7953 9059 9060 10774
+	}
+	
+	local_supplies = 10
+}

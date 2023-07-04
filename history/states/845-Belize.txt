@@ -1,0 +1,25 @@
+state = {
+	id = 845
+	name = "STATE_845" # Belize
+	manpower = 204000
+	state_category = state_00
+	resources = {
+		steel = 5
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 2077 1 }
+
+		buildings = {
+			infrastructure = 1
+			air_base = 1
+		}
+	}
+	
+	provinces = {
+		2077 11570
+	}
+	
+	local_supplies = 10
+}

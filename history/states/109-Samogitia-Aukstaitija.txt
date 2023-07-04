@@ -1,0 +1,29 @@
+state = {
+	id = 109
+	name = "STATE_109" # Samogitia-Aukstaitija
+	manpower = 1902169
+	state_category = state_03
+	resources = {
+	}
+	
+	history = {
+		owner = SOV
+		add_core_of = SOV
+		set_state_flag = country_lithuania
+		victory_points = { 6376 1 }
+		victory_points = { 6296 5 }
+		victory_points = { 9438 1 }
+
+		buildings = {
+			infrastructure = 2
+			air_base = 5
+			nuclear_reactor = 1
+		}
+	}
+	
+	provinces = {
+		3288 3337 6296 6314 6360 6376 9246 9374 9404 9438 9483 9499 11342
+	}
+	
+	local_supplies = 10
+}

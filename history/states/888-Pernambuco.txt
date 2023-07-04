@@ -1,0 +1,30 @@
+state = {
+	id = 888
+	name = "STATE_888" # Pernambuco
+	manpower = 6730592
+	state_category = state_07
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 5168 10 }
+		victory_points = { 10967 3 }
+		victory_points = { 8227 3 }
+		victory_points = { 5182 1 }
+		victory_points = { 10345 1 }
+
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 2
+			arms_factory = 2
+			synthetic_refinery = 2
+		}
+	}
+	
+	provinces = {
+		5168 5182 10967 12961 10345 8227
+	}
+	
+	local_supplies = 10
+}

@@ -1,0 +1,26 @@
+state = {
+	id = 497
+	name = "STATE_497" # Wa
+	manpower = 673460
+	state_category = state_03
+	resources = {
+		tungsten = 7
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 138 6 }
+		victory_points = { 4210 1 }
+		victory_points = { 7400 1 }
+
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	
+	provinces = {
+		132 138 140 4210 7400 14046 14519 14524 14525
+	}
+	
+	local_supplies = 10
+}

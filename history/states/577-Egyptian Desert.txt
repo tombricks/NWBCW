@@ -1,0 +1,21 @@
+state = {
+	id = 577
+	name = "STATE_577" # Egyptian Desert
+	manpower = 1301
+	state_category = state_inhospitable
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+
+		buildings = {
+		}
+	}
+	
+	provinces = {
+		12733
+	}
+	
+	local_supplies = 10
+}

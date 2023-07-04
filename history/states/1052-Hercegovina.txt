@@ -1,0 +1,23 @@
+state = {
+	id = 1052
+	name = "STATE_1052" # Hercegovina
+	manpower = 348394
+	state_category = state_01
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 9894 1 }
+
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	
+	provinces = {
+		3985 6942 9894 11816 13933
+	}
+	
+	local_supplies = 10
+}

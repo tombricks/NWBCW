@@ -1,0 +1,25 @@
+state = {
+	id = 262
+	name = "STATE_262" # Tete
+	manpower = 3649438
+	state_category = state_05
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 12950 5 }
+		victory_points = { 12935 5 }
+		victory_points = { 11399 1 }
+
+		buildings = {
+			infrastructure = 0
+		}
+	}
+	
+	provinces = {
+		5155 12935 12950 11363 11387 11396 11399
+	}
+	
+	local_supplies = 10
+}

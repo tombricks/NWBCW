@@ -1,0 +1,23 @@
+state = {
+	id = 1062
+	name = "STATE_1062" # Ionian Islands
+	manpower = 169963
+	state_category = state_00
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 10203 1 }
+
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	
+	provinces = {
+		1106 10203
+	}
+	
+	local_supplies = 10
+}

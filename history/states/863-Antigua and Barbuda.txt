@@ -1,0 +1,24 @@
+state = {
+	id = 863
+	name = "STATE_863" # Saint Kitts and Nevis
+	manpower = 39376
+	state_category = state_00
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 4450 1 }
+
+		buildings = {
+			infrastructure = 2
+			air_base = 1
+		}
+	}
+	
+	provinces = {
+		4450
+	}
+	
+	local_supplies = 10
+}

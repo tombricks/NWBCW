@@ -1,0 +1,25 @@
+state = {
+	id = 801
+	name = "STATE_801" # Western Spratlys
+	manpower = 1
+	state_category = state_inhospitable
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 11140 2 }
+		victory_points = { 11149 1 }
+		victory_points = { 11168 1 }
+
+		buildings = {
+			air_base = 1
+		}
+	}
+	
+	provinces = {
+		11134 11140 11149 11168
+	}
+	
+	local_supplies = 10
+}

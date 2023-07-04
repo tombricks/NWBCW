@@ -1,0 +1,25 @@
+state = {
+	id = 235
+	name = "STATE_235" # Southern Ethiopia
+	manpower = 11250854
+	state_category = state_10
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 10734 5 }
+		victory_points = { 8019 1 }
+		victory_points = { 315 1 }
+
+		buildings = {
+			infrastructure = 0
+		}
+	}
+	
+	provinces = {
+		7912 8019 10734 260 315 13822 13823 13824 13825 13826 13827
+	}
+	
+	local_supplies = 10
+}

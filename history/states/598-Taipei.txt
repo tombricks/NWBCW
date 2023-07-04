@@ -1,0 +1,30 @@
+state = {
+	id = 598
+	name = "STATE_598" # Taipei
+	manpower = 10815854
+	state_category = state_09
+	resources = {
+	}
+	
+	history = {
+		owner = CHI
+		add_core_of = CHI
+		victory_points = { 7186 10 }
+		victory_points = { 7214 1 }
+		victory_points = { 11959 5 }
+
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 2
+			air_base = 8
+			nuclear_reactor = 1
+		}
+	}
+	
+	provinces = {
+		7186 7214 11959
+	}
+	
+	local_supplies = 10
+}

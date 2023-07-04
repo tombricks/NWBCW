@@ -1,0 +1,24 @@
+state = {
+	id = 748
+	name = "STATE_748" # Christmas Island
+	manpower = 1832
+	state_category = state_00
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 13005 1 }
+
+		buildings = {
+			infrastructure = 2
+			air_base = 1
+		}
+	}
+	
+	provinces = {
+		13005
+	}
+	
+	local_supplies = 10
+}

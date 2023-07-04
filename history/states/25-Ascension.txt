@@ -1,0 +1,23 @@
+state = {
+	id = 25
+	name = "STATE_25" # Ascension
+	manpower = 1162
+	state_category = state_00
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+
+		buildings = {
+			air_base = 1
+			infrastructure = 2
+		}
+	}
+	
+	provinces = {
+		13013
+	}
+	
+	local_supplies = 10
+}

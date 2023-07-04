@@ -1,0 +1,30 @@
+state = {
+	id = 1030
+	name = "STATE_1030" # Donetsk Oblast
+	manpower = 2076266
+	state_category = state_03
+	resources = {
+	}
+	
+	history = {
+		owner = SOV
+		add_core_of = SOV
+		set_state_flag = country_ukraine
+		victory_points = { 6420 5 }
+		victory_points = { 3479 3 }
+		victory_points = { 3466 1 }
+		victory_points = { 502 1 }
+
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			air_base = 1
+		}
+	}
+	
+	provinces = {
+		502 3466 3479 3491 6420 6776 14295
+	}
+	
+	local_supplies = 10
+}

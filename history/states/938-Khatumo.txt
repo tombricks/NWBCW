@@ -1,0 +1,23 @@
+state = {
+	id = 938
+	name = "STATE_938" # Khatumo
+	manpower = 235609
+	state_category = state_01
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 8094 1 }
+
+		buildings = {
+			infrastructure = 0
+		}
+	}
+	
+	provinces = {
+		1905 3035 8094 13858 13859 13860
+	}
+	
+	local_supplies = 10
+}

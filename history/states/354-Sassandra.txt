@@ -1,0 +1,25 @@
+state = {
+	id = 354
+	name = "STATE_354" # Sassandra
+	manpower = 3321966
+	state_category = state_05
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 10762 1 }
+
+		buildings = {
+			infrastructure = 0
+			air_base = 1
+			industrial_complex = 1
+		}
+	}
+	
+	provinces = {
+		9328 9336 9362 9372 10762
+	}
+	
+	local_supplies = 10
+}

@@ -1,0 +1,27 @@
+state = {
+	id = 913
+	name = "STATE_913" # Santander
+	manpower = 3220383
+	state_category = state_04
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 4969 1 }
+		victory_points = { 12845 3 }
+		victory_points = { 7993 3 }
+		victory_points = { 11624 1 }
+
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+		}
+	}
+	
+	provinces = {
+		4969 7993 12845 11575 11624
+	}
+	
+	local_supplies = 10
+}

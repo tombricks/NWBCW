@@ -1,0 +1,26 @@
+state = {
+	id = 483
+	name = "STATE_483" # Sinhalese Coast
+	manpower = 8165957
+	state_category = state_08
+	resources = {
+		rubber = 24
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 6927 5 }
+
+		buildings = {
+			infrastructure = 2
+			arms_factory = 2
+			air_base = 4
+		}
+	}
+	
+	provinces = {
+		4219 7260 6927
+	}
+	
+	local_supplies = 10
+}

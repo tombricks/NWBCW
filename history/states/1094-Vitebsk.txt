@@ -1,0 +1,29 @@
+state = {
+	id = 1094
+	name = "STATE_1094" # Vitebsk
+	manpower = 1173348
+	state_category = state_01
+	resources = {
+		steel = 3
+	}
+	
+	history = {
+		owner = SOV
+		add_core_of = SOV
+		set_state_flag = country_belarus
+		victory_points = { 11241 5 }
+		victory_points = { 6249 3 }
+		victory_points = { 11220 3 }
+
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+		}
+	}
+	
+	provinces = {
+		233 323 699 784 833 3331 6249 6326 6371 9241 9323 11220 11241 14533
+	}
+	
+	local_supplies = 10
+}

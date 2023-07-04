@@ -1,0 +1,27 @@
+state = {
+	id = 417
+	name = "STATE_417" # Pashto Balochistan
+	manpower = 2013076
+	state_category = state_03
+	resources = {
+		tungsten = 2
+		steel = 5
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 5105 5 }
+		victory_points = { 7975 1 }
+		victory_points = { 7847 1 }
+
+		buildings = {
+			infrastructure = 0
+		}
+	}
+	
+	provinces = {
+		5105 8044 7975 4990 7847
+	}
+	
+	local_supplies = 10
+}

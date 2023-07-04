@@ -1,0 +1,27 @@
+state = {
+	id = 949
+	name = "STATE_949" # Tarapaca
+	manpower = 270794
+	state_category = state_01
+	resources = {
+		steel = 1
+		tungsten = 120
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 12994 5 }
+		victory_points = { 4841 3 }
+		victory_points = { 8217 1 }
+
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	
+	provinces = {
+		4829 4841 5146 8217 8231 12994
+	}
+	
+	local_supplies = 10
+}

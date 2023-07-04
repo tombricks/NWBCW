@@ -1,0 +1,22 @@
+state = {
+	id = 995
+	name = "STATE_995" # Al-Suwar
+	manpower = 358414
+	state_category = state_01
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	
+	provinces = {
+		901 1634
+	}
+	
+	local_supplies = 10
+}

@@ -1,0 +1,25 @@
+state = {
+	id = 165
+	name = "STATE_165" # Kirkuk
+	manpower = 861976
+	state_category = state_02
+	resources = {
+		oil = 8.000
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 6826 7 }
+
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+		}
+	}
+	
+	provinces = {
+		6826 11295 11364 11365
+	}
+	
+	local_supplies = 10
+}

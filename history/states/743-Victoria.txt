@@ -1,0 +1,35 @@
+state = {
+	id = 743
+	name = "STATE_743" # Victoria
+	manpower = 4045776
+	state_category = state_05
+	resources = {
+		oil = 2
+		steel = 2.000
+		aluminium = 1
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 7798 10 }
+		victory_points = { 4776 1 }
+		victory_points = { 2130 1 }
+		victory_points = { 7811 1 }
+		victory_points = { 1759 1 }
+
+		buildings = {
+			infrastructure = 3
+			dockyard = 1
+			industrial_complex = 1
+			arms_factory = 1
+			fuel_silo = 2
+			air_base = 2
+		}
+	}
+	
+	provinces = {
+		1759 2130 2155 4776 4791 7755 7798 7811 10581 10622 12932
+	}
+	
+	local_supplies = 10
+}

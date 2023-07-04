@@ -1,0 +1,29 @@
+state = {
+	id = 1065
+	name = "STATE_1065" # Khakassia
+	manpower = 431911
+	state_category = state_01
+	resources = {
+		aluminium = 10
+	}
+	
+	history = {
+		owner = SOV
+		add_core_of = SOV
+		set_state_flag = country_russia
+		victory_points = { 10649 3 }
+		victory_points = { 10712 1 }
+		victory_points = { 4711 1 }
+
+		buildings = {
+			infrastructure = 2
+			air_base = 4
+		}
+	}
+	
+	provinces = {
+		1702 1816 4711 10580 10649 10712
+	}
+	
+	local_supplies = 10
+}

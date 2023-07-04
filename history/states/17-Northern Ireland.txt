@@ -1,0 +1,27 @@
+state = {
+	id = 17
+	name = "STATE_17" # Ulster
+	manpower = 1445250
+	state_category = state_03
+	resources = {
+		steel = 25.000
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 3379 5 }
+		victory_points = { 385 1 }
+		victory_points = { 3242 1 }
+
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 3
+		}
+	}
+	
+	provinces = {
+		276 385 3217 3242 3329 3379 11257 14492 14493
+	}
+	
+	local_supplies = 10
+}

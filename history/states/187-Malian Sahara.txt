@@ -1,0 +1,21 @@
+state = {
+	id = 187
+	name = "STATE_187" # Malian Sahara
+	manpower = 11882
+	state_category = state_inhospitable
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+
+		buildings = {
+		}
+	}
+	
+	provinces = {
+		9322
+	}
+	
+	local_supplies = 10
+}

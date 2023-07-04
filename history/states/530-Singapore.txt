@@ -1,0 +1,27 @@
+state = {
+	id = 530
+	name = "STATE_530" # Singapore
+	manpower = 3423800
+	state_category = state_05
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 12299 30 }
+
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 3
+			arms_factory = 4
+			dockyard = 1
+			air_base = 10
+		}
+	}
+	
+	provinces = {
+		12299
+	}
+	
+	local_supplies = 10
+}

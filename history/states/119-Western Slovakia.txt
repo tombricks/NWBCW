@@ -1,0 +1,28 @@
+state = {
+	id = 119
+	name = "STATE_119" # Nízina
+	manpower = 2083096
+	state_category = state_03
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 9692 5 }
+		victory_points = { 541 1 }
+		victory_points = { 3484 1 }
+
+		buildings = {
+			infrastructure = 2
+			air_base = 3
+			nuclear_reactor = 1
+			industrial_complex = 1
+		}
+	}
+	
+	provinces = {
+		541 3484 9539 9692 3716 11679 11522
+	}
+	
+	local_supplies = 10
+}

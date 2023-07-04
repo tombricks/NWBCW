@@ -1,0 +1,26 @@
+state = {
+	id = 858
+	name = "STATE_858" # Jamaica
+	manpower = 2194700
+	state_category = state_03
+	resources = {
+		aluminium = 13
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 12477 1 }
+		victory_points = { 12304 5 }
+
+		buildings = {
+			infrastructure = 1
+			air_base = 2
+		}
+	}
+	
+	provinces = {
+		12304 12477 13330
+	}
+	
+	local_supplies = 10
+}

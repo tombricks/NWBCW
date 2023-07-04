@@ -1,0 +1,25 @@
+state = {
+	id = 846
+	name = "STATE_846" # Honduran Highlands
+	manpower = 2974000
+	state_category = state_04
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 12865 5 }
+
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			air_base = 2
+		}
+	}
+	
+	provinces = {
+		8017 12865 9867
+	}
+	
+	local_supplies = 10
+}

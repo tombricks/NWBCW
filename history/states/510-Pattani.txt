@@ -1,0 +1,27 @@
+state = {
+	id = 510
+	name = "STATE_510" # Pattani
+	manpower = 393499
+	state_category = state_05
+	resources = {
+		oil = 2
+		rubber = 94
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 7236 5 }
+		victory_points = { 12131 1 }
+
+		buildings = {
+			infrastructure = 1
+			air_base = 4
+		}
+	}
+	
+	provinces = {
+		7236 12131 4297 1279
+	}
+	
+	local_supplies = 10
+}

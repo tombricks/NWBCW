@@ -1,0 +1,23 @@
+state = {
+	id = 424
+	name = "STATE_424" # Guantanamo Bay
+	manpower = 4250
+	state_category = state_military_base
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 13247 1 }
+
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	
+	provinces = {
+		13247
+	}
+	
+	local_supplies = 10
+}

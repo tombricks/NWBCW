@@ -1,0 +1,23 @@
+state = {
+	id = 341
+	name = "STATE_341" # Northern Togo
+	manpower = 1453650
+	state_category = state_03
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 12843 2 }
+
+		buildings = {
+			infrastructure = 0
+		}
+	}
+	
+	provinces = {
+		12843 9704
+	}
+	
+	local_supplies = 10
+}

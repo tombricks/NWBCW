@@ -1,0 +1,24 @@
+state = {
+	id = 1034
+	name = "STATE_1034" # Gegharqunik-Tavush
+	manpower = 391000
+	state_category = state_02
+	resources = {
+	}
+	
+	history = {
+		owner = SOV
+		add_core_of = SOV
+		set_state_flag = country_armenia
+
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	
+	provinces = {
+		1254 11708 12450
+	}
+	
+	local_supplies = 10
+}

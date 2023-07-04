@@ -1,0 +1,24 @@
+state = {
+	id = 270
+	name = "STATE_270" # Mauritius
+	manpower = 1008950
+	state_category = state_02
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 13018 3 }
+
+		buildings = {
+			infrastructure = 2
+			air_base = 3
+		}
+	}
+	
+	provinces = {
+		13018
+	}
+	
+	local_supplies = 10
+}

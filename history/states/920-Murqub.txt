@@ -1,0 +1,22 @@
+state = {
+	id = 920
+	name = "STATE_920" # Murzub
+	manpower = 53011
+	state_category = state_00
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 12022 1 }
+
+		buildings = {
+		}
+	}
+	
+	provinces = {
+		14503 12022 1994
+	}
+	
+	local_supplies = 10
+}

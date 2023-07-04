@@ -1,0 +1,26 @@
+state = {
+	id = 381
+	name = "STATE_381" # Tamanrasset
+	manpower = 478716
+	state_category = state_01
+	resources = {
+		oil = 8
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 5095 1 }
+		victory_points = { 10749 1 }
+
+		buildings = {
+			infrastructure = 0
+			air_base = 2
+		}
+	}
+	
+	provinces = {
+		1043 10749 5095 12849
+	}
+	
+	local_supplies = 10
+}

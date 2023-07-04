@@ -1,0 +1,30 @@
+state = {
+	id = 177
+	name = "STATE_177" # Hejaz
+	manpower = 5948592
+	state_category = state_07
+	resources = {
+		steel = 6
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 12883 5 }
+		victory_points = { 5037 5 }
+		victory_points = { 12758 5 }
+		victory_points = { 3357 3 }
+
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 6
+			air_base = 2
+		}
+	}
+	
+	provinces = {
+		1923 2033 2090 2095 3354 3357 4981 5037 7934 10748 10835 12758 12883 14469
+	}
+	
+	local_supplies = 10
+}

@@ -1,0 +1,32 @@
+state = {
+	id = 465
+	name = "STATE_465" # Kerala
+	manpower = 22748530
+	state_category = state_13
+	resources = {
+		rubber = 24
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 7391 5 }
+		victory_points = { 7447 5 }
+		victory_points = { 1238 5 }
+		victory_points = { 7402 5 }
+		victory_points = { 1321 5 }
+
+		buildings = {
+			infrastructure = 1
+			dockyard = 1
+			air_base = 2
+			radar_station = 1
+			industrial_complex = 1
+		}
+	}
+	
+	provinces = {
+		7402 1321 1238 7447 7391 12275 10274 10130 7288
+	}
+	
+	local_supplies = 10
+}

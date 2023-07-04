@@ -1,0 +1,24 @@
+state = {
+	id = 369
+	name = "STATE_369" # Coastal Mauritania
+	manpower = 873598
+	state_category = state_02
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 6709 10 }
+
+		buildings = {
+			infrastructure = 0
+			air_base = 2
+		}
+	}
+	
+	provinces = {
+		5034 7992 6605 6709 6718
+	}
+	
+	local_supplies = 10
+}

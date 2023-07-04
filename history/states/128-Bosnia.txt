@@ -1,0 +1,28 @@
+state = {
+	id = 128
+	name = "STATE_128" # Bosnia
+	manpower = 1280742
+	state_category = state_03
+	resources = {
+		aluminium = 2.000
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 11899 5 }
+		victory_points = { 6799 1 }
+		victory_points = { 378 1 }
+
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			air_base = 2
+		}
+	}
+	
+	provinces = {
+		6799 9922 11872 11899 370 378
+	}
+	
+	local_supplies = 10
+}

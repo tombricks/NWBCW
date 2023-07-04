@@ -1,0 +1,25 @@
+state = {
+	id = 288
+	name = "STATE_288" # Kalahari
+	manpower = 205591
+	state_category = state_00
+	resources = {
+		tungsten = 3
+		chromium = 16
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 1580 1 }
+
+		buildings = {
+			infrastructure = 0
+		}
+	}
+	
+	provinces = {
+		12940 12963 11706 11736 358 550 1580 470
+	}
+	
+	local_supplies = 10
+}

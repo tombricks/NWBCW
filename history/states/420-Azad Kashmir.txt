@@ -1,0 +1,25 @@
+state = {
+	id = 420
+	name = "STATE_420" # Azad Kashmir
+	manpower = 3043479
+	state_category = state_04
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 1910 1 }
+		victory_points = { 2084 1 }
+
+		buildings = {
+			infrastructure = 0
+			arms_factory = 1
+		}
+	}
+	
+	provinces = {
+		1910 2084 6424
+	}
+	
+	local_supplies = 10
+}

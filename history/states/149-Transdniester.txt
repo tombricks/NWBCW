@@ -1,0 +1,27 @@
+state = {
+	id = 149
+	name = "STATE_149" # Transdniester
+	manpower = 462132
+	state_category = state_01
+	resources = {
+		steel = 3
+	}
+	
+	history = {
+		owner = SOV
+		add_core_of = SOV
+		set_state_flag = country_moldova
+		victory_points = { 13202 5 }
+
+		buildings = {
+			infrastructure = 1
+			air_base = 2
+		}
+	}
+	
+	provinces = {
+		13202 13203 13204
+	}
+	
+	local_supplies = 10
+}

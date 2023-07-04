@@ -1,0 +1,30 @@
+state = {
+	id = 55
+	name = "STATE_55" # Normandie
+	manpower = 2722027
+	state_category = state_04
+	resources = {
+		aluminium = 27
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 9434 5 }
+		victory_points = { 11535 5 }
+		victory_points = { 11563 5 }
+
+		buildings = {
+			infrastructure = 3
+			dockyard = 1
+			industrial_complex = 1
+			air_base = 10
+			nuclear_reactor = 2
+		}
+	}
+	
+	provinces = {
+		485 553 3549 6449 6569 6599 9434 9550 9578 11521 11535 11563
+	}
+	
+	local_supplies = 10
+}

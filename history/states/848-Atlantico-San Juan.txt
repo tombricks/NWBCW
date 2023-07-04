@@ -1,0 +1,24 @@
+state = {
+	id = 848
+	name = "STATE_848" # Atlántico-San Juan
+	manpower = 934507
+	state_category = state_02
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 1988 1 }
+		victory_points = { 2075 1 }
+
+		buildings = {
+			infrastructure = 0
+		}
+	}
+	
+	provinces = {
+		1988 2075 9745 9863
+	}
+	
+	local_supplies = 10
+}

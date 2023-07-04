@@ -1,0 +1,33 @@
+state = {
+	id = 855
+	name = "STATE_855" # Camagüey
+	manpower = 3873500
+	state_category = state_05
+	resources = {
+		steel = 5
+		tungsten = 10
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 9603 5 }
+		victory_points = { 4476 3 }
+		victory_points = { 12347 3 }
+		victory_points = { 7590 3 }
+		victory_points = { 7546 1 }
+		victory_points = { 10374 1 }
+
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			air_base = 3
+			arms_factory = 1
+		}
+	}
+	
+	provinces = {
+		1550 4476 7546 7590 9603 9607 10374 12347 14488 14489
+	}
+	
+	local_supplies = 10
+}

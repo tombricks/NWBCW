@@ -1,0 +1,26 @@
+state = {
+	id = 283
+	name = "STATE_283" # Namibian Plateau
+	manpower = 1136148
+	state_category = state_02
+	resources = {
+		tungsten = 10
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 4879 10 }
+		victory_points = { 10978 1 }
+
+		buildings = {
+			infrastructure = 2
+			air_base = 4
+		}
+	}
+	
+	provinces = {
+		4879 5154 5189 7605 8136 10957 11554 11555 11661 10978 12921 11478 11485 11501 11512 11551
+	}
+	
+	local_supplies = 10
+}

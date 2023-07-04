@@ -1,0 +1,26 @@
+state = {
+	id = 107
+	name = "STATE_107" # Riga
+	manpower = 651424
+	state_category = state_01
+	resources = {
+	}
+	
+	history = {
+		owner = SOV
+		add_core_of = SOV
+		set_state_flag = country_latvia
+		victory_points = { 9340 5 }
+
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+		}
+	}
+	
+	provinces = {
+		9340
+	}
+	
+	local_supplies = 10
+}

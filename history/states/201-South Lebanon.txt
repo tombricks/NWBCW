@@ -1,0 +1,25 @@
+state = {
+	id = 201
+	name = "STATE_201" # South Lebanon
+	manpower = 425830
+	state_category = state_01
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 11919 3 }
+
+		buildings = {
+			infrastructure = 2
+			air_base = 1
+			arms_factory = 1
+		}
+	}
+	
+	provinces = {
+		11919
+	}
+	
+	local_supplies = 10
+}

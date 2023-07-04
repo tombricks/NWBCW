@@ -1,0 +1,24 @@
+state = {
+	id = 296
+	name = "STATE_296" # Cabinda
+	manpower = 320690
+	state_category = state_01
+	resources = {
+		oil = 30
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 2115 5 }
+
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	
+	provinces = {
+		2115
+	}
+	
+	local_supplies = 10
+}

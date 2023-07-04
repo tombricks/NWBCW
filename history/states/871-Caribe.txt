@@ -1,0 +1,33 @@
+state = {
+	id = 871
+	name = "STATE_871" # Caribe
+	manpower = 7827385
+	state_category = state_08
+	resources = {
+		oil = 8
+		steel = 8
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 12703 10 }
+		victory_points = { 8056 3 }
+		victory_points = { 10864 3 }
+		victory_points = { 1937 3 }
+		victory_points = { 2085 1 }
+
+		buildings = {
+			infrastructure = 1
+			synthetic_refinery = 1
+			dockyard = 1
+			air_base = 4
+			industrial_complex = 1
+		}
+	}
+	
+	provinces = {
+		1937 2023 2085 8056 10864 12703 12790 11626 11629 11745 11750 11765
+	}
+	
+	local_supplies = 10
+}

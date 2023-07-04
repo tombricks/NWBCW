@@ -1,0 +1,22 @@
+state = {
+	id = 1105
+	name = "STATE_1105" # Yemeni Rub' al-Khali
+	manpower = 14185
+	state_category = state_inhospitable
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+
+		buildings = {
+			infrastructure = 0
+		}
+	}
+	
+	provinces = {
+		13079
+	}
+	
+	local_supplies = 10
+}

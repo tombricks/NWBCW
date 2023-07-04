@@ -1,0 +1,25 @@
+state = {
+	id = 1022
+	name = "STATE_1022" # Acre
+	manpower = 473897
+	state_category = state_00
+	resources = {
+		rubber = 1
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 3891 3 }
+		victory_points = { 5216 1 }
+
+		buildings = {
+			infrastructure = 0
+		}
+	}
+	
+	provinces = {
+		3891 5216 14084
+	}
+	
+	local_supplies = 10
+}

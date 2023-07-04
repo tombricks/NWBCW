@@ -1,0 +1,24 @@
+state = {
+	id = 1014
+	name = "STATE_1014" # Podlasie
+	manpower = 1023675
+	state_category = state_02
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 347 5 }
+		victory_points = { 3254 1 }
+
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	
+	provinces = {
+		290 347 400 3254 11247 11274
+	}
+	
+	local_supplies = 10
+}

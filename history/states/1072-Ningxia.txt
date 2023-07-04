@@ -1,0 +1,32 @@
+state = {
+	id = 1072
+	name = "STATE_1072" # Ningxia
+	manpower = 5108390
+	state_category = state_06
+	resources = {
+		steel = 10
+	}
+	
+	history = {
+		owner = CHI
+		add_core_of = CHI
+		victory_points = { 8081 5 }
+		victory_points = { 3153 2 }
+		victory_points = { 5025 1 }
+		victory_points = { 3742 1 }
+
+		buildings = {
+			infrastructure = 1
+			arms_factory = 1
+			fuel_silo = 1
+			air_base = 1
+			industrial_complex = 1
+		}
+	}
+	
+	provinces = {
+		1985 3153 3742 5025 8081 14003 14119 14124 14253 14254
+	}
+	
+	local_supplies = 10
+}

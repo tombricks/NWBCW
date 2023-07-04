@@ -1,0 +1,23 @@
+state = {
+	id = 941
+	name = "STATE_941" # Bougainville
+	manpower = 148889
+	state_category = state_01
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 10234 1 }
+
+		buildings = {
+			infrastructure = 0
+		}
+	}
+	
+	provinces = {
+		10234
+	}
+	
+	local_supplies = 10
+}

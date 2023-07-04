@@ -1,0 +1,24 @@
+state = {
+	id = 200
+	name = "STATE_200" # Socotra
+	manpower = 26647
+	state_category = state_00
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 8000 1 }
+
+		buildings = {
+			infrastructure = 0
+			air_base = 1
+		}
+	}
+	
+	provinces = {
+		8000
+	}
+	
+	local_supplies = 10
+}

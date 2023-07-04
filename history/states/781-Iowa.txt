@@ -1,0 +1,33 @@
+state = {
+	id = 781
+	name = "STATE_781" # Iowa
+	manpower = 2487375
+	state_category = state_04
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 1770 5 }
+		victory_points = { 12646 3 }
+		victory_points = { 7306 3 }
+		victory_points = { 10478 3 }
+		victory_points = { 12418 1 }
+		victory_points = { 11971 1 }
+		victory_points = { 9892 1 }
+		victory_points = { 9910 1 }
+		victory_points = { 7539 1 }
+
+		buildings = {
+			infrastructure = 3
+			air_base = 2
+			synthetic_refinery = 2
+		}
+	}
+	
+	provinces = {
+		1586 1678 1770 1831 4691 7306 7458 7539 9892 9910 10478 10666 11788 11971 12418 12646
+	}
+	
+	local_supplies = 10
+}

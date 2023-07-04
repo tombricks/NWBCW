@@ -1,0 +1,23 @@
+state = {
+	id = 1057
+	name = "STATE_1057" # Algrave
+	manpower = 378950
+	state_category = state_01
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 6880 1 }
+
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	
+	provinces = {
+		3790 6880 14154
+	}
+	
+	local_supplies = 10
+}

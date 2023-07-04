@@ -1,0 +1,25 @@
+state = {
+	id = 382
+	name = "STATE_382" # Grand Erg Occidental
+	manpower = 231589
+	state_category = state_00
+	resources = {
+		oil = 2
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 10731 1 }
+		victory_points = { 1958 1 }
+
+		buildings = {
+			infrastructure = 0
+		}
+	}
+	
+	provinces = {
+		1095 1958 8088 10731 12711 12842
+	}
+	
+	local_supplies = 10
+}

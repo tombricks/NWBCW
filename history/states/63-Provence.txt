@@ -1,0 +1,32 @@
+state = {
+	id = 63
+	name = "STATE_63" # Provence
+	manpower = 2941270
+	state_category = state_04
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 11834 5 }
+		victory_points = { 958 5 }
+		victory_points = { 911 3 }
+		victory_points = { 3961 1 }
+
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 3
+			dockyard = 1
+			arms_factory = 2
+			air_base = 10
+			radar_station = 2
+			anti_air_building = 2
+		}
+	}
+	
+	provinces = {
+		911 956 958 3762 3764 3961 11834 11849 11875
+	}
+	
+	local_supplies = 10
+}

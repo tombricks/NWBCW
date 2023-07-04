@@ -1,0 +1,30 @@
+state = {
+	id = 123
+	name = "STATE_123" # Transdanubia
+	manpower = 2587050
+	state_category = state_04
+	resources = {
+		aluminium = 3.000
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 11610 1 }
+		victory_points = { 6720 1 }
+		victory_points = { 546 1 }
+		victory_points = { 11627 1 }
+
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			air_base = 3
+			nuclear_reactor = 1
+		}
+	}
+	
+	provinces = {
+		546 682 686 701 3670 3680 6685 6720 9624 9676 11610 11627 11663 13125
+	}
+	
+	local_supplies = 10
+}

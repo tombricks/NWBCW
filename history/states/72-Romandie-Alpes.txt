@@ -1,0 +1,27 @@
+state = {
+	id = 72
+	name = "STATE_72" # Romandie-Alpes
+	manpower = 1574996
+	state_category = state_03
+	resources = {
+		aluminium = 1.000
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 6666 5 }
+
+		buildings = {
+			infrastructure = 3
+			air_base = 4
+			industrial_complex = 3
+			nuclear_reactor = 1
+		}
+	}
+	
+	provinces = {
+		3612 6666 6683 9622 11590 13124
+	}
+	
+	local_supplies = 10
+}

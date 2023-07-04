@@ -1,0 +1,27 @@
+state = {
+	id = 962
+	name = "STATE_962" # Auvergne
+	manpower = 1115328
+	state_category = state_02
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 3770 5 }
+		victory_points = { 590 3 }
+
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 2
+			air_base = 4
+		}
+	}
+	
+	provinces = {
+		590 769 3594 3770 6644 6773 9593 9609 9748 11576
+	}
+	
+	local_supplies = 10
+}

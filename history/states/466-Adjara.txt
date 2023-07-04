@@ -1,0 +1,27 @@
+state = {
+	id = 466
+	name = "STATE_466" # Adjara
+	manpower = 321300
+	state_category = state_01
+	resources = {
+		steel = 1.000
+	}
+	
+	history = {
+		owner = SOV
+		add_core_of = SOV
+		set_state_flag = country_georgia
+		victory_points = { 3653 3 }
+
+		buildings = {
+			infrastructure = 1
+			air_base = 1
+		}
+	}
+	
+	provinces = {
+		3653
+	}
+	
+	local_supplies = 10
+}

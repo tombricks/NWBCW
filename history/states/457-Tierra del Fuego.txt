@@ -1,0 +1,25 @@
+state = {
+	id = 457
+	name = "STATE_457" # Tierra del Fuego
+	manpower = 116368
+	state_category = state_00
+	resources = {
+		oil = 4
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 11009 3 }
+
+		buildings = {
+			infrastructure = 1
+			air_base = 3
+		}
+	}
+	
+	provinces = {
+		11009
+	}
+	
+	local_supplies = 10
+}

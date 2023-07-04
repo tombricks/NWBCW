@@ -1,0 +1,25 @@
+state = {
+	id = 593
+	name = "STATE_593" # Mogadishu
+	manpower = 703185
+	state_category = state_02
+	resources = {
+		steel = 8
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 5081 7 }
+
+		buildings = {
+			infrastructure = 0
+			air_base = 2
+		}
+	}
+	
+	provinces = {
+		5081
+	}
+	
+	local_supplies = 10
+}

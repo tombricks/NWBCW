@@ -1,0 +1,31 @@
+state = {
+	id = 703
+	name = "STATE_703" # Minsk
+	manpower = 2906194
+	state_category = state_05
+	resources = {
+	}
+	
+	history = {
+		owner = SOV
+		add_core_of = SOV
+		set_state_flag = country_belarus
+		victory_points = { 11370 10 }
+		victory_points = { 294 3 }
+		victory_points = { 11313 3 }
+		victory_points = { 277 1 }
+		victory_points = { 360 1 }
+
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			air_base = 6
+		}
+	}
+	
+	provinces = {
+		216 277 294 360 386 406 3267 3759 6292 9236 11313 11322 11370 14480
+	}
+	
+	local_supplies = 10
+}

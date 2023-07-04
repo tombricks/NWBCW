@@ -1,0 +1,25 @@
+state = {
+	id = 145
+	name = "STATE_145" # Cyprus
+	manpower = 593658
+	state_category = state_01
+	resources = {
+		oil = 3
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 11984 1 }
+
+		buildings = {
+			infrastructure = 3
+			air_base = 2
+		}
+	}
+	
+	provinces = {
+		11984
+	}
+	
+	local_supplies = 10
+}

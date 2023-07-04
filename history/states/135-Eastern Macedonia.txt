@@ -1,0 +1,25 @@
+state = {
+	id = 135
+	name = "STATE_135" # Western Macedonia
+	manpower = 447106
+	state_category = state_01
+	resources = {
+		steel = 4.000
+		aluminium = 2.000
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 867 1 }
+
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	
+	provinces = {
+		867 11856
+	}
+	
+	local_supplies = 10
+}

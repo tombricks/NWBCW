@@ -1,0 +1,26 @@
+state = {
+	id = 292
+	name = "STATE_292" # Lusaka
+	manpower = 2698532
+	state_category = state_04
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 5199 10 }
+		victory_points = { 7872 1 }
+
+		buildings = {
+			infrastructure = 1
+			air_base = 4
+			industrial_complex = 1
+		}
+	}
+	
+	provinces = {
+		5199 7872 9545 9564 9581
+	}
+	
+	local_supplies = 10
+}

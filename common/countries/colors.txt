@@ -15,6 +15,7 @@ ALB = {
 	color = rgb { 149 45 102 }
 	color_ui = rgb { 149 45 102 }
 }
+# CountryGen-Entry
 
 D01 = {
 	color = rgb { 122 179 97 }

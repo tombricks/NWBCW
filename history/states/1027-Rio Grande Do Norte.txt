@@ -1,0 +1,25 @@
+state = {
+	id = 1027
+	name = "STATE_1027" # Rio Grande do Norte
+	manpower = 2360265
+	state_category = state_04
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 10933 5 }
+		victory_points = { 2175 1 }
+		victory_points = { 10989 3 }
+
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	
+	provinces = {
+		2175 10933 10989
+	}
+	
+	local_supplies = 10
+}

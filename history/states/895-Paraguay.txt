@@ -1,0 +1,29 @@
+state = {
+	id = 895
+	name = "STATE_895" # Paraguay
+	manpower = 4413040
+	state_category = state_05
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 2152 5 }
+		victory_points = { 12901 3 }
+		victory_points = { 2194 1 }
+		victory_points = { 2173 1 }
+		victory_points = { 11023 1 }
+
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			air_base = 4
+		}
+	}
+	
+	provinces = {
+		2152 2173 2194 11023 12901 5187 6017 6096 6136 6491
+	}
+	
+	local_supplies = 10
+}

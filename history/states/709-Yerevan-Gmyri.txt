@@ -1,0 +1,30 @@
+state = {
+	id = 709
+	name = "STATE_709" # Yerevan-Gyumri
+	manpower = 2048150
+	state_category = state_04
+	resources = {
+		tungsten = 7.000
+	}
+	
+	history = {
+		owner = SOV
+		add_core_of = SOV
+		set_state_flag = country_armenia
+		victory_points = { 12320 7 }
+		victory_points = { 12441 3 }
+		victory_points = { 12380 1 }
+
+		buildings = {
+			infrastructure = 1
+			air_base = 4
+			nuclear_reactor = 1
+		}
+	}
+	
+	provinces = {
+		1210 3564 12320 12380 12441 13123
+	}
+	
+	local_supplies = 10
+}

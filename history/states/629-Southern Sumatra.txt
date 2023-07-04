@@ -1,0 +1,45 @@
+state = {
+	id = 629
+	name = "STATE_629" # Southern Sumatra
+	manpower = 18926664
+	state_category = state_12
+	resources = {
+		oil = 6
+		steel = 35
+		tungsten = 27
+		rubber = 98
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 4361 5 }
+		victory_points = { 12268 5 }
+		victory_points = { 10150 1 }
+		victory_points = { 10322 1 }
+		victory_points = { 1274 1 }
+		victory_points = { 1313 1 }
+		victory_points = { 7384 1 }
+		victory_points = { 4211 1 }
+		victory_points = { 10382 5 }
+		victory_points = { 12138 5 }
+		victory_points = { 10354 1 }
+		victory_points = { 12415 1 }
+		victory_points = { 12126 1 }
+		victory_points = { 1428 1 }
+
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 2
+			dockyard = 1
+			synthetic_refinery = 1
+			air_base = 4
+			arms_factory = 1
+		}
+	}
+	
+	provinces = {
+		4320 4361 1342 12165 1246 1401 12268 4364 4381 10294 10150 1274 1313 4276 12296 10322 7384 7396 4211 1460 7308 7368 7440 10194 10354 10382 12138 12209 12415 6077 6079 12126 1428 14175 14176 14177 14195
+	}
+	
+	local_supplies = 10
+}

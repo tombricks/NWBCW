@@ -1,0 +1,23 @@
+state = {
+	id = 982
+	name = "STATE_982" # Sikkim
+	manpower = 459723
+	state_category = state_01
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 4435 1 }
+
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	
+	provinces = {
+		4435
+	}
+	
+	local_supplies = 10
+}

@@ -1,0 +1,26 @@
+state = {
+	id = 824
+	name = "STATE_824" # Diego Garcia
+	manpower = 2428
+	state_category = state_military_base
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 13019 3 }
+
+		buildings = {
+			infrastructure = 2
+			air_base = 6
+			radar_station = 1
+			anti_air_building = 1
+		}
+	}
+	
+	provinces = {
+		13019
+	}
+	
+	local_supplies = 10
+}

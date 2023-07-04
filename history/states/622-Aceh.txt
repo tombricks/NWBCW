@@ -1,0 +1,27 @@
+state = {
+	id = 622
+	name = "STATE_622" # Aceh
+	manpower = 3541166
+	state_category = state_05
+	resources = {
+		tungsten = 6
+		rubber = 24
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 7658 5 }
+		victory_points = { 10509 2 }
+
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+		}
+	}
+	
+	provinces = {
+		7658 10509 12488 6109 6112 6113 14174
+	}
+	
+	local_supplies = 10
+}

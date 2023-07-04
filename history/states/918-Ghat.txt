@@ -1,0 +1,23 @@
+state = {
+	id = 918
+	name = "STATE_918" # Ghat
+	manpower = 73562
+	state_category = state_00
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 5004 1 }
+
+		buildings = {
+			infrastructure = 0
+		}
+	}
+	
+	provinces = {
+		5004 6285 6313 9110 9114
+	}
+	
+	local_supplies = 10
+}

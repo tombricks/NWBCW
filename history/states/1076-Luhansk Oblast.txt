@@ -1,0 +1,26 @@
+state = {
+	id = 1076
+	name = "STATE_1076" # Luhansk Oblast
+	manpower = 803726
+	state_category = state_02
+	resources = {
+	}
+	
+	history = {
+		owner = SOV
+		add_core_of = SOV
+		set_state_flag = country_ukraine
+		victory_points = { 6519 3 }
+
+		buildings = {
+			infrastructure = 3
+			air_base = 2
+		}
+	}
+	
+	provinces = {
+		547 570 6519 9476 11487 11513
+	}
+	
+	local_supplies = 10
+}

@@ -1,0 +1,27 @@
+state = {
+	id = 202
+	name = "STATE_202" # Mount Lebanon
+	manpower = 1453988
+	state_category = state_03
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 792 10 }
+		victory_points = { 13278 4 }
+
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 1
+			air_base = 3
+		}
+	}
+	
+	provinces = {
+		792 13278
+	}
+	
+	local_supplies = 10
+}

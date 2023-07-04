@@ -1,0 +1,29 @@
+state = {
+	id = 379
+	name = "STATE_379" # M'zab
+	manpower = 1195263
+	state_category = state_02
+	resources = {
+		oil = 19
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 1126 1 }
+		victory_points = { 2049 1 }
+		victory_points = { 4970 1 }
+		victory_points = { 8077 1 }
+		victory_points = { 5035 1 }
+
+		buildings = {
+			infrastructure = 1
+			arms_factory = 1
+		}
+	}
+	
+	provinces = {
+		1126 1901 1967 2049 4903 4970 5035 5053 8061 8077 6352
+	}
+	
+	local_supplies = 10
+}

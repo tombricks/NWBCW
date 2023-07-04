@@ -1,0 +1,21 @@
+state = {
+	id = 394
+	name = "STATE_394" # Algerian Sahara
+	manpower = 41190
+	state_category = state_inhospitable
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+
+		buildings = {
+		}
+	}
+	
+	provinces = {
+		6348
+	}
+	
+	local_supplies = 10
+}

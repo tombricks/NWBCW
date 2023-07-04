@@ -1,0 +1,27 @@
+state = {
+	id = 397
+	name = "STATE_397" # Al Wahat
+	manpower = 150504
+	state_category = state_00
+	resources = {
+		oil = 6
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 10785 1 }
+		victory_points = { 1127 5 }
+		victory_points = { 8069 1 }
+
+		buildings = {
+			infrastructure = 1
+			air_base = 1
+		}
+	}
+	
+	provinces = {
+		6341 10754 10785 14504 1127 4200 7076 8069 4057
+	}
+	
+	local_supplies = 10
+}

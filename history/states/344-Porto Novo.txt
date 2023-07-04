@@ -1,0 +1,24 @@
+state = {
+	id = 344
+	name = "STATE_344" # Porto Novo
+	manpower = 3650102
+	state_category = state_05
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 10919 10 }
+
+		buildings = {
+			infrastructure = 0
+			air_base = 1
+		}
+	}
+	
+	provinces = {
+		10919 9709
+	}
+	
+	local_supplies = 10
+}

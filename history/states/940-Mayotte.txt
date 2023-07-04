@@ -1,0 +1,25 @@
+state = {
+	id = 940
+	name = "STATE_940" # Mayotte
+	manpower = 126134
+	state_category = state_01
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 13285 1 }
+
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			air_base = 1
+		}
+	}
+	
+	provinces = {
+		13285
+	}
+	
+	local_supplies = 10
+}

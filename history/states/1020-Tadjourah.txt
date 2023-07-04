@@ -1,0 +1,23 @@
+state = {
+	id = 1020
+	name = "STATE_1020" # Tadjourah
+	manpower = 200239
+	state_category = state_00
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 4985 1 }
+
+		buildings = {
+			infrastructure = 0
+		}
+	}
+	
+	provinces = {
+		4985 13790
+	}
+	
+	local_supplies = 10
+}

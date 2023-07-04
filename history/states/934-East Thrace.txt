@@ -1,0 +1,30 @@
+state = {
+	id = 934
+	name = "STATE_934" # East Thrace
+	manpower = 11494451
+	state_category = state_10
+	resources = {
+		steel = 21
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 9833 15 }
+		victory_points = { 11842 5 }
+		victory_points = { 6895 1 }
+
+		buildings = {
+			infrastructure = 3
+			dockyard = 2
+			arms_factory = 3
+			air_base = 10
+			industrial_complex = 1
+		}
+	}
+	
+	provinces = {
+		849 922 3893 6895 9833 11842
+	}
+	
+	local_supplies = 10
+}

@@ -1,0 +1,32 @@
+state = {
+	id = 682
+	name = "STATE_682" # Krasnoyarsk
+	manpower = 2194425
+	state_category = state_02
+	resources = {
+		tungsten = 4
+	}
+	
+	history = {
+		owner = SOV
+		add_core_of = SOV
+		set_state_flag = country_russia
+		victory_points = { 4724 5 }
+		victory_points = { 7815 3 }
+		victory_points = { 12691 3 }
+		victory_points = { 12621 1 }
+		victory_points = { 12563 3 }
+
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			air_base = 2
+		}
+	}
+	
+	provinces = {
+		1777 1850 4690 4724 4782 4818 4853 7744 7815 7886 10639 12563 12621 12628 12691 14109 14114 14152 14363
+	}
+	
+	local_supplies = 10
+}

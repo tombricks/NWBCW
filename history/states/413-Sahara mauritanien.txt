@@ -1,0 +1,21 @@
+state = {
+	id = 413
+	name = "STATE_413" # Mauritanian Sahara
+	manpower = 29654
+	state_category = state_inhospitable
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+
+		buildings = {
+		}
+	}
+	
+	provinces = {
+		7943
+	}
+	
+	local_supplies = 10
+}

@@ -1,0 +1,23 @@
+state = {
+	id = 2
+	name = "STATE_2" # Færøerne
+	manpower = 38063
+	state_category = state_00
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 13003 3 }
+
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	
+	provinces = {
+		13003
+	}
+	
+	local_supplies = 10
+}

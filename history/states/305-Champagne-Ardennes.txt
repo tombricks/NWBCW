@@ -1,0 +1,29 @@
+state = {
+	id = 305
+	name = "STATE_305" # Champagne-Ardenne
+	manpower = 2142351
+	state_category = state_04
+	resources = {
+		steel = 10
+		aluminium = 10
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 13011 5 }
+		victory_points = { 6545 1 }
+		victory_points = { 11488 1 }
+
+		buildings = {
+			infrastructure = 3
+			synthetic_refinery = 1
+			nuclear_reactor = 2
+		}
+	}
+	
+	provinces = {
+		303 551 3533 3546 3560 6531 6545 9472 9490 9505 11488 11516 11549 11642 11732 13011
+	}
+	
+	local_supplies = 10
+}

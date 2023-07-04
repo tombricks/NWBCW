@@ -1,0 +1,23 @@
+state = {
+	id = 99
+	name = "STATE_99" # The Azores
+	manpower = 207648
+	state_category = state_00
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 1751 1 }
+
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	
+	provinces = {
+		1751
+	}
+	
+	local_supplies = 10
+}

@@ -1,0 +1,32 @@
+state = {
+	id = 265
+	name = "STATE_265" # Emilia-Romagna
+	manpower = 3400598
+	state_category = state_05
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 6606 5 }
+		victory_points = { 9752 5 }
+		victory_points = { 6790 1 }
+		victory_points = { 6793 1 }
+		victory_points = { 782 1 }
+		victory_points = { 9924 1 }
+
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 3
+			arms_factory = 1
+			dockyard = 1
+			anti_air_building = 1
+		}
+	}
+	
+	provinces = {
+		304 782 3976 6606 6790 6793 9582 9752 9924
+	}
+	
+	local_supplies = 10
+}

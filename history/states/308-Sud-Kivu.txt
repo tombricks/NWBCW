@@ -1,0 +1,25 @@
+state = {
+	id = 308
+	name = "STATE_308" # Sud-Kivu
+	manpower = 2095802
+	state_category = state_03
+	resources = {
+		tungsten = 14
+		chromium = 12
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 4941 4 }
+
+		buildings = {
+			infrastructure = 0
+		}
+	}
+	
+	provinces = {
+		4941 13512 13513 13514
+	}
+	
+	local_supplies = 10
+}

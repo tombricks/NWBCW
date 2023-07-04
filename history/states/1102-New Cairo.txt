@@ -1,0 +1,22 @@
+state = {
+	id = 1102
+	name = "STATE_1102" # New Cairo
+	manpower = 17000
+	state_category = state_00
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 14515 1 }
+
+		buildings = {
+		}
+	}
+	
+	provinces = {
+		14515
+	}
+	
+	local_supplies = 10
+}

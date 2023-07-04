@@ -1,0 +1,29 @@
+state = {
+	id = 515
+	name = "STATE_515" # Northern Laos
+	manpower = 1137209
+	state_category = state_02
+	resources = {
+		tungsten = 4
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 4568 1 }
+		victory_points = { 4339 1 }
+		victory_points = { 12433 1 }
+		victory_points = { 9961 1 }
+		victory_points = { 12392 1 }
+
+		buildings = {
+			infrastructure = 0
+			air_base = 1
+		}
+	}
+	
+	provinces = {
+		4339 4568 4613 7075 7103 7218 9961 12392 12433 182 190 196 14045
+	}
+	
+	local_supplies = 10
+}

@@ -1,0 +1,27 @@
+state = {
+	id = 276
+	name = "STATE_276" # Northwest South Africa
+	manpower = 2339135
+	state_category = state_04
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 1680 5 }
+		victory_points = { 1478 1 }
+		victory_points = { 2213 1 }
+		victory_points = { 1429 3 }
+
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+		}
+	}
+	
+	provinces = {
+		2213 10668 1429 1478 1561 1680
+	}
+	
+	local_supplies = 10
+}

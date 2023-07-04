@@ -1,0 +1,37 @@
+state = {
+	id = 777
+	name = "STATE_777" # Michigan
+	manpower = 8447677
+	state_category = state_08
+	resources = {
+		steel = 17
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 6710 10 }
+		victory_points = { 6782 5 }
+		victory_points = { 11669 3 }
+		victory_points = { 9684 3 }
+		victory_points = { 6769 3 }
+		victory_points = { 11656 3 }
+		victory_points = { 11714 1 }
+		victory_points = { 7420 1 }
+		victory_points = { 4854 1 }
+		victory_points = { 709 1 }
+
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 6
+			arms_factory = 6
+			air_base = 4
+			nuclear_reactor = 1
+		}
+	}
+	
+	provinces = {
+		691 695 709 751 3766 4854 5205 6710 6769 6782 7420 9684 9724 9746 9747 10233 10303 10599 11641 11656 11669 11685 11714 11731 13155 13159 13200
+	}
+	
+	local_supplies = 10
+}

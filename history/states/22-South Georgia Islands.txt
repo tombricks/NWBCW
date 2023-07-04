@@ -1,0 +1,22 @@
+state = {
+	id = 22
+	name = "STATE_22" # South Georgia Islands
+	manpower = 75
+	state_category = state_inhospitable
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	
+	provinces = {
+		10995
+	}
+	
+	local_supplies = 10
+}

@@ -1,0 +1,24 @@
+state = {
+	id = 268
+	name = "STATE_268" # Toliara
+	manpower = 1696357
+	state_category = state_03
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 12956 5 }
+		victory_points = { 2200 1 }
+
+		buildings = {
+			infrastructure = 0
+		}
+	}
+	
+	provinces = {
+		2200 8180 12956 545
+	}
+	
+	local_supplies = 10
+}

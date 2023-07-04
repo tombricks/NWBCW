@@ -1,0 +1,24 @@
+state = {
+	id = 1046
+	name = "STATE_1046" # Njombe
+	manpower = 531352
+	state_category = state_01
+	resources = {
+		aluminium = 11.000
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 13663 1 }
+
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	
+	provinces = {
+		10845 13663
+	}
+	
+	local_supplies = 10
+}

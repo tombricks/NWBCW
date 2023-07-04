@@ -1,0 +1,24 @@
+state = {
+	id = 240
+	name = "STATE_240" # Central Somalia
+	manpower = 426760
+	state_category = state_01
+	resources = {
+		oil = 4
+		steel = 3
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 2020 1 }
+
+		buildings = {
+		}
+	}
+	
+	provinces = {
+		750 2020 5065 11081 12991 13331 13868 13869 13870 13871
+	}
+	
+	local_supplies = 10
+}

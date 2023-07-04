@@ -1,0 +1,25 @@
+state = {
+	id = 71
+	name = "STATE_71" # New Caledonia
+	manpower = 212384
+	state_category = state_00
+	resources = {
+		steel = 10.000
+		aluminium = 7.000
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 12132 3 }
+
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	
+	provinces = {
+		4231 4268 12132
+	}
+	
+	local_supplies = 10
+}

@@ -1,0 +1,27 @@
+state = {
+	id = 16
+	name = "STATE_16" # Wales
+	manpower = 2354431
+	state_category = state_04
+	resources = {
+		aluminium = 18.000
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 377 5 }
+		victory_points = { 407 1 }
+		victory_points = { 9364 1 }
+
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+		}
+	}
+	
+	provinces = {
+		253 311 377 407 3274 6363 9364 11361
+	}
+	
+	local_supplies = 10
+}

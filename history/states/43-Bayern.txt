@@ -1,0 +1,32 @@
+state = {
+	id = 43
+	name = "STATE_43" # Bayern
+	manpower = 7427671
+	state_category = state_08
+	resources = {
+		steel = 60
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 692 10 }
+		victory_points = { 9666 5 }
+		victory_points = { 9515 1 }
+		victory_points = { 9681 1 }
+
+		buildings = {
+			infrastructure = 3
+			arms_factory = 3
+			industrial_complex = 6
+			air_base = 6
+			nuclear_reactor = 2
+			radar_station = 2
+		}
+	}
+	
+	provinces = {
+		532 571 586 589 692 707 708 3299 3541 3571 3688 3705 6693 9515 9652 9666 9681 11497 11620 11638 11653 342
+	}
+	
+	local_supplies = 10
+}

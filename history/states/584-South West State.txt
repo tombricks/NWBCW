@@ -1,0 +1,22 @@
+state = {
+	id = 584
+	name = "STATE_584" # South West State
+	manpower = 628017
+	state_category = state_01
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 618 1 }
+
+		buildings = {
+		}
+	}
+	
+	provinces = {
+		580 618 2063 8164 10928 13332 13334 13872 13873 13874
+	}
+	
+	local_supplies = 10
+}

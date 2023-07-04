@@ -1,0 +1,25 @@
+state = {
+	id = 1029
+	name = "STATE_1029" # Alagoas-Sergipe
+	manpower = 3916032
+	state_category = state_05
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 10998 5 }
+		victory_points = { 8143 5 }
+		victory_points = { 1524 1 }
+
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	
+	provinces = {
+		1524 8143 10998
+	}
+	
+	local_supplies = 10
+}

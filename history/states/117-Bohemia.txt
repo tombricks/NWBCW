@@ -1,0 +1,31 @@
+state = {
+	id = 117
+	name = "STATE_117" # Bohemia
+	manpower = 3798055
+	state_category = state_05
+	resources = {
+		steel = 15
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 11542 10 }
+		victory_points = { 11401 1 }
+		victory_points = { 11432 1 }
+		victory_points = { 494 1 }
+
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 2
+			air_base = 5
+			synthetic_refinery = 1
+		}
+	}
+	
+	provinces = {
+		469 494 572 574 3418 6440 9414 9421 9429 11401 11414 11432 11542
+	}
+	
+	local_supplies = 10
+}

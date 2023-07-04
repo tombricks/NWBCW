@@ -1,0 +1,26 @@
+state = {
+	id = 241
+	name = "STATE_241" # Kenyan Coast
+	manpower = 2029174
+	state_category = state_03
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 5210 5 }
+		victory_points = { 6738 1 }
+
+		buildings = {
+			infrastructure = 1
+			air_base = 2
+			industrial_complex = 1
+		}
+	}
+	
+	provinces = {
+		5210 6725 6738 6796 13688 13689 13690
+	}
+	
+	local_supplies = 10
+}

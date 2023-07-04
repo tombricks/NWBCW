@@ -1,0 +1,26 @@
+state = {
+	id = 219
+	name = "STATE_219" # Red Sea Coast
+	manpower = 225961
+	state_category = state_00
+	resources = {
+		oil = 1
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 12002 1 }
+		victory_points = { 9957 1 }
+		victory_points = { 4068 1 }
+
+		buildings = {
+			infrastructure = 0
+		}
+	}
+	
+	provinces = {
+		1064 1080 4068 4910 5069 7156 9957 10126 12002 12004 12889
+	}
+	
+	local_supplies = 10
+}

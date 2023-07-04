@@ -1,0 +1,33 @@
+state = {
+	id = 829
+	name = "STATE_829" # Sonora
+	manpower = 2038196
+	state_category = state_03
+	resources = {
+		tungsten = 9
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 8012 3 }
+		victory_points = { 10765 5 }
+		victory_points = { 4977 3 }
+		victory_points = { 12833 3 }
+		victory_points = { 4908 3 }
+		victory_points = { 5071 1 }
+		victory_points = { 2069 1 }
+		victory_points = { 10848 1 }
+
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+			air_base = 3
+		}
+	}
+	
+	provinces = {
+		2069 4908 4977 5071 8012 8033 10765 10848 12833
+	}
+	
+	local_supplies = 10
+}

@@ -1,0 +1,28 @@
+state = {
+	id = 953
+	name = "STATE_953" # Santa Catarina
+	manpower = 4552906
+	state_category = state_10
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 10405 5 }
+		victory_points = { 4548 1 }
+		victory_points = { 1529 1 }
+		victory_points = { 12905 1 }
+
+		buildings = {
+			infrastructure = 2
+			synthetic_refinery = 2
+			air_base = 3
+		}
+	}
+	
+	provinces = {
+		12905 1529 10405 4548
+	}
+	
+	local_supplies = 10
+}

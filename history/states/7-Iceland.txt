@@ -1,0 +1,28 @@
+state = {
+	id = 7
+	name = "STATE_7" # Iceland
+	manpower = 239024
+	state_category = state_01
+	resources = {
+		aluminium = 26
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 13255 5 }
+		victory_points = { 4861 1 }
+		victory_points = { 13254 1 }
+
+		buildings = {
+			infrastructure = 2
+			air_base = 6
+			industrial_complex = 1
+		}
+	}
+	
+	provinces = {
+		4861 12674 12689 13254 13255
+	}
+	
+	local_supplies = 10
+}

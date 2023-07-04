@@ -1,0 +1,29 @@
+state = {
+	id = 139
+	name = "STATE_139" # Thessaly
+	manpower = 864152
+	state_category = state_02
+	resources = {
+		steel = 2.000
+		aluminium = 1.000
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 863 5 }
+		victory_points = { 3914 1 }
+		victory_points = { 3973 1 }
+
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			air_base = 4
+		}
+	}
+	
+	provinces = {
+		863 3914 3973 3980 6930 9805 11786
+	}
+	
+	local_supplies = 10
+}

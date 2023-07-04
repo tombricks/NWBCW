@@ -1,0 +1,25 @@
+state = {
+	id = 997
+	name = "STATE_997" # Gagauzia
+	manpower = 112533
+	state_category = state_00
+	resources = {
+	}
+	
+	history = {
+		owner = SOV
+		add_core_of = SOV
+		set_state_flag = country_moldova
+		victory_points = { 13302 1 }
+
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	
+	provinces = {
+		13302
+	}
+	
+	local_supplies = 10
+}

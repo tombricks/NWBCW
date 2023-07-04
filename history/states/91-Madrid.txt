@@ -1,0 +1,28 @@
+state = {
+	id = 91
+	name = "STATE_91" # Madrid
+	manpower = 4609876
+	state_category = state_06
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 3938 15 }
+
+		buildings = {
+			infrastructure = 2
+			arms_factory = 2
+			industrial_complex = 3
+			air_base = 6
+			radar_station = 2
+			nuclear_reactor = 1
+		}
+	}
+	
+	provinces = {
+		3938 9767 13925 14063
+	}
+	
+	local_supplies = 10
+}

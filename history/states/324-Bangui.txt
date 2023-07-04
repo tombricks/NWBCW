@@ -1,0 +1,24 @@
+state = {
+	id = 324
+	name = "STATE_324" # Bangui
+	manpower = 764936
+	state_category = state_02
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 12830 4 }
+
+		buildings = {
+			infrastructure = 0
+			air_base = 1
+		}
+	}
+	
+	provinces = {
+		11108 12830
+	}
+	
+	local_supplies = 10
+}

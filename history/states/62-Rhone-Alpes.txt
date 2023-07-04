@@ -1,0 +1,30 @@
+state = {
+	id = 62
+	name = "STATE_62" # Auvergne-Rhône-Alpes
+	manpower = 4802500
+	state_category = state_06
+	resources = {
+		aluminium = 5
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 6613 10 }
+		victory_points = { 3768 5 }
+		victory_points = { 6786 1 }
+
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 4
+			air_base = 4
+			nuclear_reactor = 2
+		}
+	}
+	
+	provinces = {
+		641 762 3589 3768 6613 6639 6784 6786 9590 9728 11593 11713 11716
+	}
+	
+	local_supplies = 10
+}

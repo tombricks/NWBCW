@@ -1,0 +1,26 @@
+state = {
+	id = 548
+	name = "STATE_548" # Tianjin
+	manpower = 13563492
+	state_category = state_10
+	resources = {
+	}
+	
+	history = {
+		owner = CHI
+		add_core_of = CHI
+		victory_points = { 10068 10 }
+
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			dockyard = 1
+		}
+	}
+	
+	provinces = {
+		4137 10068 3156
+	}
+	
+	local_supplies = 10
+}

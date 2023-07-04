@@ -1,0 +1,27 @@
+state = {
+	id = 839
+	name = "STATE_839" # Chiapas
+	manpower = 5443985
+	state_category = state_06
+	resources = {
+		oil = 5
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 1900 5 }
+		victory_points = { 12867 3 }
+		victory_points = { 12753 3 }
+
+		buildings = {
+			infrastructure = 1
+			synthetic_refinery = 1
+		}
+	}
+	
+	provinces = {
+		1900 12753 12867 11596 11615
+	}
+	
+	local_supplies = 10
+}

@@ -1,0 +1,30 @@
+state = {
+	id = 786
+	name = "STATE_786" # South Dakota
+	manpower = 641617
+	state_category = state_01
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 10595 3 }
+		victory_points = { 1747 3 }
+		victory_points = { 7862 1 }
+		victory_points = { 12620 1 }
+		victory_points = { 12667 1 }
+
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			air_base = 1
+			synthetic_refinery = 1
+		}
+	}
+	
+	provinces = {
+		1747 1875 3750 4839 4880 7745 7771 7862 10569 10595 12620 12667
+	}
+	
+	local_supplies = 10
+}

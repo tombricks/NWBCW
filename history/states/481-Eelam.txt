@@ -1,0 +1,27 @@
+state = {
+	id = 481
+	name = "STATE_481" # Eelam
+	manpower = 2690298
+	state_category = state_04
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 10201 1 }
+		victory_points = { 10229 1 }
+
+		buildings = {
+			infrastructure = 0
+			arms_factory = 1
+			air_base = 2
+			industrial_complex = 1
+		}
+	}
+	
+	provinces = {
+		7344 10201 10229 12258 6954
+	}
+	
+	local_supplies = 10
+}

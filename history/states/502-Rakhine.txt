@@ -1,0 +1,25 @@
+state = {
+	id = 502
+	name = "STATE_502" # Rakhine
+	manpower = 1360181
+	state_category = state_03
+	resources = {
+		oil = 4
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 3651 1 }
+
+		buildings = {
+			infrastructure = 0
+			air_base = 1
+		}
+	}
+	
+	provinces = {
+		3651 10182
+	}
+	
+	local_supplies = 10
+}

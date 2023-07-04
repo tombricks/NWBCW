@@ -1,0 +1,24 @@
+state = {
+	id = 348
+	name = "STATE_348" # Upper Ghana
+	manpower = 2769606
+	state_category = state_04
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 8039 5 }
+		victory_points = { 8096 1 }
+
+		buildings = {
+			infrastructure = 0
+		}
+	}
+	
+	provinces = {
+		8039 8096 9632 9643 9672
+	}
+	
+	local_supplies = 10
+}

@@ -1,0 +1,24 @@
+state = {
+	id = 130
+	name = "STATE_130" # Vojvodina
+	manpower = 1074675
+	state_category = state_02
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 3617 5 }
+		victory_points = { 9621 1 }
+
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	
+	provinces = {
+		619 3617 3623 9621 11580
+	}
+	
+	local_supplies = 10
+}

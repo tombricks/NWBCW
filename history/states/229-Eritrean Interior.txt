@@ -1,0 +1,27 @@
+state = {
+	id = 229
+	name = "STATE_229" # Eritrean Interior
+	manpower = 2233827
+	state_category = state_04
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 5017 1 }
+		victory_points = { 97 1 }
+		victory_points = { 81 5 }
+
+		buildings = {
+			infrastructure = 0
+			air_base = 1
+			arms_factory = 1
+		}
+	}
+	
+	provinces = {
+		5017 12723 81 97 13795 13796 13797 13798 13799
+	}
+	
+	local_supplies = 10
+}

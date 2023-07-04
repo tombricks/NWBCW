@@ -1,0 +1,28 @@
+state = {
+	id = 464
+	name = "STATE_464" # Kongu Nadu
+	manpower = 13006149
+	state_category = state_11
+	resources = {
+		rubber = 24
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 7363 5 }
+		victory_points = { 8067 5 }
+
+		buildings = {
+			infrastructure = 1
+			arms_factory = 1
+			synthetic_refinery = 1
+			industrial_complex = 1
+		}
+	}
+	
+	provinces = {
+		7363 12247 10246 8067 1268 10808 4420
+	}
+	
+	local_supplies = 10
+}

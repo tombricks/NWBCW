@@ -1,0 +1,26 @@
+state = {
+	id = 89
+	name = "STATE_89" # Asturias
+	manpower = 1405831
+	state_category = state_05
+	resources = {
+		aluminium = 11
+		steel = 5
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 11707 5 }
+
+		buildings = {
+			infrastructure = 3
+			dockyard = 1
+		}
+	}
+	
+	provinces = {
+		6749 9719 11707 13930
+	}
+	
+	local_supplies = 10
+}

@@ -1,0 +1,25 @@
+state = {
+	id = 860
+	name = "STATE_860" # Sud-Haiti
+	manpower = 4271618
+	state_category = state_05
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 4641 7 }
+		victory_points = { 1635 1 }
+
+		buildings = {
+			infrastructure = 0
+			air_base = 2
+		}
+	}
+	
+	provinces = {
+		1635 4641 9587
+	}
+	
+	local_supplies = 10
+}

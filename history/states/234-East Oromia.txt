@@ -1,0 +1,25 @@
+state = {
+	id = 234
+	name = "STATE_234" # Eastern Oromia
+	manpower = 10147352
+	state_category = state_09
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 12714 1 }
+		victory_points = { 10775 1 }
+		victory_points = { 345 4 }
+
+		buildings = {
+			infrastructure = 0
+		}
+	}
+	
+	provinces = {
+		8036 10775 12714 163 212 297 345 13830 13831 13832 13833 13834 13835 13836
+	}
+	
+	local_supplies = 10
+}

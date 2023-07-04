@@ -1,0 +1,35 @@
+state = {
+	id = 788
+	name = "STATE_788" # Montana
+	manpower = 766866
+	state_category = state_02
+	resources = {
+		oil = 1
+		tungsten = 2
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 12585 3 }
+		victory_points = { 6742 3 }
+		victory_points = { 4860 3 }
+		victory_points = { 4741 1 }
+		victory_points = { 7779 1 }
+		victory_points = { 1736 1 }
+		victory_points = { 4838 1 }
+		victory_points = { 10593 1 }
+		victory_points = { 1767 1 }
+
+		buildings = {
+			infrastructure = 2
+			air_base = 2
+			industrial_complex = 2
+		}
+	}
+	
+	provinces = {
+		1736 1767 1851 1854 1857 4741 4838 4857 4860 4863 6742 7760 7779 7880 7883 10587 10593 10624 10706 11712 12572 12585 12676
+	}
+	
+	local_supplies = 10
+}

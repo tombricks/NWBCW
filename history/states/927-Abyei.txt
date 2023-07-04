@@ -1,0 +1,21 @@
+state = {
+	id = 927
+	name = "STATE_927" # Abyei
+	manpower = 575
+	state_category = state_00
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+
+		buildings = {
+		}
+	}
+	
+	provinces = {
+		11049
+	}
+	
+	local_supplies = 10
+}

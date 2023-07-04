@@ -1,0 +1,26 @@
+state = {
+	id = 237
+	name = "STATE_237" # Somaliland
+	manpower = 1489938
+	state_category = state_03
+	resources = {
+		steel = 4
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 10833 7 }
+		victory_points = { 3199 5 }
+
+		buildings = {
+			infrastructure = 0
+			air_base = 2
+		}
+	}
+	
+	provinces = {
+		3199 5068 10833 12759 13852 13853 13854 13855
+	}
+	
+	local_supplies = 10
+}

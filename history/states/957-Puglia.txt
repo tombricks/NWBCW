@@ -1,0 +1,30 @@
+state = {
+	id = 957
+	name = "STATE_957" # Puglia
+	manpower = 3429750
+	state_category = state_05
+	resources = {
+		steel = 27
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 9784 5 }
+		victory_points = { 11837 5 }
+		victory_points = { 883 1 }
+		victory_points = { 11998 1 }
+
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 3
+			air_base = 3
+		}
+	}
+	
+	provinces = {
+		883 6939 9784 11837 11998
+	}
+	
+	local_supplies = 10
+}

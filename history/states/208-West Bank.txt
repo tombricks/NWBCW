@@ -1,0 +1,25 @@
+state = {
+	id = 208
+	name = "STATE_208" # West Bank
+	manpower = 1770474
+	state_category = state_02
+	resources = {
+		aluminium = 4
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 7107 3 }
+		victory_points = { 13206 2 }
+
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	
+	provinces = {
+		7107 13206
+	}
+	
+	local_supplies = 10
+}

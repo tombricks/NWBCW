@@ -1,0 +1,29 @@
+state = {
+	id = 204
+	name = "STATE_204" # Judean Plain
+	manpower = 2205421
+	state_category = state_03
+	resources = {
+		oil = 5
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 4206 15 }
+
+		buildings = {
+			infrastructure = 3
+			arms_factory = 3
+			industrial_complex = 2
+			air_base = 10
+			anti_air_building = 5
+			fuel_silo = 1
+		}
+	}
+	
+	provinces = {
+		1201 4206
+	}
+	
+	local_supplies = 10
+}

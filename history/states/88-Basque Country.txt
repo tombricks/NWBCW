@@ -1,0 +1,28 @@
+state = {
+	id = 88
+	name = "STATE_88" # Basque
+	manpower = 1771855
+	state_category = state_03
+	resources = {
+		steel = 13
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 740 5 }
+		victory_points = { 3735 5 }
+
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 3
+			synthetic_refinery = 1
+			air_base = 1
+		}
+	}
+	
+	provinces = {
+		740 3735 6756
+	}
+	
+	local_supplies = 10
+}

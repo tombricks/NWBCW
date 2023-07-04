@@ -1,0 +1,23 @@
+state = {
+	id = 1008
+	name = "STATE_1008" # Turks and Caicos
+	manpower = 17139
+	state_category = state_00
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 13324 1 }
+
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	
+	provinces = {
+		13324
+	}
+	
+	local_supplies = 10
+}

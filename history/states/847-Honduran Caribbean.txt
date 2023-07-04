@@ -1,0 +1,26 @@
+state = {
+	id = 847
+	name = "STATE_847" # Honduran Caribbean
+	manpower = 2286221
+	state_category = state_04
+	resources = {
+		steel = 11
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 9870 3 }
+		victory_points = { 2031 1 }
+
+		buildings = {
+			infrastructure = 0
+			industrial_complex = 1
+		}
+	}
+	
+	provinces = {
+		2031 9869 9870
+	}
+	
+	local_supplies = 10
+}

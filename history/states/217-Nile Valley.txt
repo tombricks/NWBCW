@@ -1,0 +1,36 @@
+state = {
+	id = 217
+	name = "STATE_217" # Nile Valley
+	manpower = 12827994
+	state_category = state_10
+	resources = {
+		aluminium = 4
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 11974 5 }
+		victory_points = { 6217 5 }
+		victory_points = { 12071 5 }
+		victory_points = { 7144 1 }
+		victory_points = { 10031 1 }
+		victory_points = { 6220 1 }
+		victory_points = { 12044 1 }
+		victory_points = { 1151 1 }
+		victory_points = { 7073 1 }
+		victory_points = { 11999 1 }
+		victory_points = { 12771 1 }
+		victory_points = { 1028 1 }
+
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 2
+		}
+	}
+	
+	provinces = {
+		1028 1151 1206 7030 7073 7144 7188 10028 10031 10097 10844 11974 11999 12044 12071 12771 6217 6220
+	}
+	
+	local_supplies = 10
+}

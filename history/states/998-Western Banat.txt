@@ -1,0 +1,24 @@
+state = {
+	id = 998
+	name = "STATE_998" # Western Banat
+	manpower = 523772
+	state_category = state_01
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 11787 1 }
+		victory_points = { 3614 1 }
+
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	
+	provinces = {
+		614 3614 6643 11787
+	}
+	
+	local_supplies = 10
+}

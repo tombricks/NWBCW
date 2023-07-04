@@ -1,0 +1,26 @@
+state = {
+	id = 389
+	name = "STATE_389" # Gabès
+	manpower = 1635222
+	state_category = state_03
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 11921 5 }
+		victory_points = { 7005 1 }
+		victory_points = { 11957 1 }
+
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+		}
+	}
+	
+	provinces = {
+		11921 4129 1037 10026 7005 11957
+	}
+	
+	local_supplies = 10
+}

@@ -1,0 +1,26 @@
+state = {
+	id = 849
+	name = "STATE_849" # Managua
+	manpower = 3374964
+	state_category = state_05
+	resources = {
+		steel = 15
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 12738 5 }
+		victory_points = { 10728 3 }
+
+		buildings = {
+			infrastructure = 1
+			air_base = 2
+		}
+	}
+	
+	provinces = {
+		10728 12738 9800 13139 13178 14418 14419
+	}
+	
+	local_supplies = 10
+}

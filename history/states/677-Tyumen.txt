@@ -1,0 +1,29 @@
+state = {
+	id = 677
+	name = "STATE_677" # Tyumen
+	manpower = 2813208
+	state_category = state_04
+	resources = {
+		oil = 40
+	}
+	
+	history = {
+		owner = SOV
+		add_core_of = SOV
+		set_state_flag = country_russia
+		victory_points = { 4824 5 }
+		victory_points = { 4659 3 }
+		victory_points = { 4780 3 }
+		victory_points = { 4209 1 }
+
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	
+	provinces = {
+		4780 6787 12521 4209 1387 4824 4754 1880 7833 12390 3472 10670 9512 7846 7774 4659 14111 14167
+	}
+	
+	local_supplies = 10
+}

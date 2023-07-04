@@ -1,0 +1,26 @@
+state = {
+	id = 257
+	name = "STATE_257" # Tanzanian Central Coast
+	manpower = 4257297
+	state_category = state_06
+	resources = {
+		oil = 4
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 2196 10 }
+		victory_points = { 8183 5 }
+
+		buildings = {
+			infrastructure = 1
+			air_base = 4
+		}
+	}
+	
+	provinces = {
+		2196 8183 13678 13679 13680
+	}
+	
+	local_supplies = 10
+}

@@ -1,0 +1,33 @@
+state = {
+	id = 74
+	name = "STATE_74" # Mittelland
+	manpower = 4129157
+	state_category = state_05
+	resources = {
+		steel = 2.000
+		aluminium = 2.000
+		chromium = 12
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 663 5 }
+		victory_points = { 9620 10 }
+		victory_points = { 9638 5 }
+
+		buildings = {
+			infrastructure = 3
+			arms_factory = 2
+			industrial_complex = 3
+			air_base = 4
+			fuel_silo = 1
+			nuclear_reactor = 1
+		}
+	}
+	
+	provinces = {
+		636 663 9620 9638 11601 11604 11623 318 319
+	}
+	
+	local_supplies = 10
+}

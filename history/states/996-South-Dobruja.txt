@@ -1,0 +1,22 @@
+state = {
+	id = 996
+	name = "STATE_996" # South Dobruja
+	manpower = 311395
+	state_category = state_01
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	
+	provinces = {
+		13300 13301
+	}
+	
+	local_supplies = 10
+}

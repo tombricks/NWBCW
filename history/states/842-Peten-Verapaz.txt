@@ -1,0 +1,26 @@
+state = {
+	id = 842
+	name = "STATE_842" # Petén-Verapaz
+	manpower = 2610124
+	state_category = state_04
+	resources = {
+		steel = 2
+		rubber = 24
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 13085 1 }
+		victory_points = { 4991 1 }
+
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	
+	provinces = {
+		4991 13085 11463
+	}
+	
+	local_supplies = 10
+}

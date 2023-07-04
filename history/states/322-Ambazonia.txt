@@ -1,0 +1,28 @@
+state = {
+	id = 322
+	name = "STATE_322" # Ambazonia
+	manpower = 3875466
+	state_category = state_05
+	resources = {
+		oil = 2
+		aluminium = 5
+		rubber = 4
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 10831 2 }
+		victory_points = { 7978 5 }
+
+		buildings = {
+			infrastructure = 1
+			air_base = 2
+		}
+	}
+	
+	provinces = {
+		7978 10831 11341
+	}
+	
+	local_supplies = 10
+}

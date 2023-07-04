@@ -1,0 +1,27 @@
+state = {
+	id = 910
+	name = "STATE_910" # Banat
+	manpower = 1251996
+	state_category = state_02
+	resources = {
+		aluminium = 3.000
+		steel = 4
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 6682 1 }
+		victory_points = { 9606 5 }
+
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+		}
+	}
+	
+	provinces = {
+		646 662 693 696 3649 6682 9606 11592 14296
+	}
+	
+	local_supplies = 10
+}

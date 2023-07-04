@@ -1,0 +1,24 @@
+state = {
+	id = 981
+	name = "STATE_981" # Tripura
+	manpower = 2719323
+	state_category = state_04
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 1075 1 }
+
+		buildings = {
+			infrastructure = 0
+			industrial_complex = 1
+		}
+	}
+	
+	provinces = {
+		1075 9840
+	}
+	
+	local_supplies = 10
+}

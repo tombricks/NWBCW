@@ -1,0 +1,27 @@
+state = {
+	id = 125
+	name = "STATE_125" # Lower Styria
+	manpower = 721646
+	state_category = state_02
+	resources = {
+		aluminium = 4
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 665 5 }
+		victory_points = { 3654 1 }
+
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			nuclear_reactor = 1
+		}
+	}
+	
+	provinces = {
+		9596 3654 596 665 6672
+	}
+	
+	local_supplies = 10
+}

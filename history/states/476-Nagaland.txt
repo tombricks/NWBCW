@@ -1,0 +1,23 @@
+state = {
+	id = 476
+	name = "STATE_476" # Nagaland
+	manpower = 1691531
+	state_category = state_02
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 12025 2 }
+
+		buildings = {
+			infrastructure = 0
+		}
+	}
+	
+	provinces = {
+		4087 12025 247
+	}
+	
+	local_supplies = 10
+}

@@ -1,0 +1,29 @@
+state = {
+	id = 818
+	name = "STATE_818" # Mariana Islands
+	manpower = 168169
+	state_category = state_00
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 12140 5 }
+		victory_points = { 3995 3 }
+		victory_points = { 13023 1 }
+		victory_points = { 13024 1 }
+
+		buildings = {
+			infrastructure = 3
+			air_base = 6
+			radar_station = 3
+			anti_air_building = 5
+		}
+	}
+	
+	provinces = {
+		12140 13023 13024 3995
+	}
+	
+	local_supplies = 10
+}

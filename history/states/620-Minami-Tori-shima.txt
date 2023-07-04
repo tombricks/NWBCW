@@ -1,0 +1,23 @@
+state = {
+	id = 620
+	name = "STATE_620" # Minami-Tori-shima
+	manpower = 1
+	state_category = state_00
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 13026 1 }
+
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	
+	provinces = {
+		13026
+	}
+	
+	local_supplies = 10
+}

@@ -1,0 +1,36 @@
+state = {
+	id = 675
+	name = "STATE_675" # Chelyabinsk
+	manpower = 2911998
+	state_category = state_05
+	resources = {
+		steel = 42
+	}
+	
+	history = {
+		owner = SOV
+		add_core_of = SOV
+		set_state_flag = country_russia
+		victory_points = { 9292 5 }
+		victory_points = { 10256 5 }
+		victory_points = { 10185 3 }
+		victory_points = { 7285 3 }
+		victory_points = { 12584 1 }
+		victory_points = { 10213 3 }
+		victory_points = { 1334 3 }
+		victory_points = { 4411 1 }
+		victory_points = { 4265 1 }
+
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			air_base = 2
+		}
+	}
+	
+	provinces = {
+		11223 10329 1233 12287 12157 10213 9292 12584 7285 7281 4215 4411 10256 7401 7328 1334 10185 4265
+	}
+	
+	local_supplies = 10
+}

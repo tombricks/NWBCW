@@ -1,0 +1,23 @@
+state = {
+	id = 98
+	name = "STATE_98" # Madeira
+	manpower = 226510
+	state_category = state_00
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 3118 1 }
+
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	
+	provinces = {
+		3118
+	}
+	
+	local_supplies = 10
+}

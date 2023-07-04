@@ -1,0 +1,23 @@
+state = {
+	id = 587
+	name = "STATE_587" # Golan
+	manpower = 29246
+	state_category = state_00
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+
+		buildings = {
+			infrastructure = 2
+			anti_air_building = 3
+		}
+	}
+	
+	provinces = {
+		13205
+	}
+	
+	local_supplies = 10
+}

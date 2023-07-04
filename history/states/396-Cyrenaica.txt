@@ -1,0 +1,25 @@
+state = {
+	id = 396
+	name = "STATE_396" # Cyrenaica
+	manpower = 246548
+	state_category = state_00
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 7082 5 }
+		victory_points = { 1130 6 }
+
+		buildings = {
+			infrastructure = 1
+			air_base = 4
+		}
+	}
+	
+	provinces = {
+		1060 1130 1186 4060 7082 9992 10120 12079 13078
+	}
+	
+	local_supplies = 10
+}

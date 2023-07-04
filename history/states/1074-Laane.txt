@@ -1,0 +1,26 @@
+state = {
+	id = 1074
+	name = "STATE_1074" # Lääne
+	manpower = 213009
+	state_category = state_02
+	resources = {
+	}
+	
+	history = {
+		owner = SOV
+		add_core_of = SOV
+		set_state_flag = country_estonia
+
+		buildings = {
+			infrastructure = 3
+			air_base = 2
+			industrial_complex = 1
+		}
+	}
+	
+	provinces = {
+		496 3174 567 83 11291
+	}
+	
+	local_supplies = 10
+}

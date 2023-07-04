@@ -1,0 +1,27 @@
+state = {
+	id = 752
+	name = "STATE_752" # Brunei
+	manpower = 277981
+	state_category = state_01
+	resources = {
+		oil = 3
+		rubber = 1
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 6034 2 }
+
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			air_base = 6
+		}
+	}
+	
+	provinces = {
+		7387 6034
+	}
+	
+	local_supplies = 10
+}

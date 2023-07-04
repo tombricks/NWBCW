@@ -1,0 +1,26 @@
+state = {
+	id = 861
+	name = "STATE_861" # Sur-Est Dominica
+	manpower = 5019715
+	state_category = state_06
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 9507 10 }
+		victory_points = { 7632 1 }
+
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			air_base = 4
+		}
+	}
+	
+	provinces = {
+		7632 7660 9495 9507
+	}
+	
+	local_supplies = 10
+}

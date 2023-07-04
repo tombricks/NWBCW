@@ -1,0 +1,28 @@
+state = {
+	id = 522
+	name = "STATE_522" # Red River Delta
+	manpower = 15736139
+	state_category = state_11
+	resources = {
+		oil = 1
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 10129 10 }
+		victory_points = { 4119 5 }
+		victory_points = { 1185 1 }
+
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 2
+			air_base = 8
+		}
+	}
+	
+	provinces = {
+		1185 4075 4119 10129 12048 226
+	}
+	
+	local_supplies = 10
+}

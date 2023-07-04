@@ -1,0 +1,35 @@
+state = {
+	id = 678
+	name = "STATE_678" # Khanty-Mansi
+	manpower = 1450800
+	state_category = state_03
+	resources = {
+		oil = 98
+	}
+	
+	history = {
+		owner = SOV
+		add_core_of = SOV
+		set_state_flag = country_russia
+		victory_points = { 4817 5 }
+		victory_points = { 12672 5 }
+		victory_points = { 1784 3 }
+		victory_points = { 12574 3 }
+		victory_points = { 10692 3 }
+		victory_points = { 7796 3 }
+		victory_points = { 7895 3 }
+		victory_points = { 7768 1 }
+		victory_points = { 1812 4 }
+
+		buildings = {
+			infrastructure = 2
+			air_base = 1
+		}
+	}
+	
+	provinces = {
+		7768 4715 10592 12574 1757 10561 7882 10663 7837 12672 7685 1768 10692 1812 1659 12630 7733 10604 4710 4846 7895 1744 4746 4774 3169 7796 12700 10620 7867 12602 4817 1784 10659 14113
+	}
+	
+	local_supplies = 10
+}

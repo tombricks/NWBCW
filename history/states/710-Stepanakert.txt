@@ -1,0 +1,26 @@
+state = {
+	id = 710
+	name = "STATE_710" # Stepanakert
+	manpower = 95305
+	state_category = state_00
+	resources = {
+		steel = 2
+	}
+	
+	history = {
+		owner = SOV
+		add_core_of = SOV
+		set_state_flag = country_azerbaijan
+		victory_points = { 1610 3 }
+
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	
+	provinces = {
+		1610
+	}
+	
+	local_supplies = 10
+}

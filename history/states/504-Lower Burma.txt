@@ -1,0 +1,32 @@
+state = {
+	id = 504
+	name = "STATE_504" # Lower Burma
+	manpower = 13627920
+	state_category = state_11
+	resources = {
+		oil = 2
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 1330 5 }
+		victory_points = { 12127 5 }
+		victory_points = { 7254 5 }
+		victory_points = { 10283 1 }
+		victory_points = { 10267 1 }
+		victory_points = { 12197 1 }
+		victory_points = { 10154 1 }
+
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			air_base = 6
+		}
+	}
+	
+	provinces = {
+		1330 1417 7254 7382 10154 10223 10267 10283 10344 12127 12197 12267 12284 125
+	}
+	
+	local_supplies = 10
+}

@@ -1,0 +1,30 @@
+state = {
+	id = 674
+	name = "STATE_674" # Cherkessia-Balkaria
+	manpower = 1132313
+	state_category = state_02
+	resources = {
+		tungsten = 1.000
+	}
+	
+	history = {
+		owner = SOV
+		add_core_of = SOV
+		set_state_flag = country_russia
+		victory_points = { 11633 5 }
+		victory_points = { 714 3 }
+		victory_points = { 685 3 }
+		victory_points = { 11664 1 }
+		victory_points = { 6733 1 }
+
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	
+	provinces = {
+		685 714 6733 9649 9674 9691 11633 11664
+	}
+	
+	local_supplies = 10
+}

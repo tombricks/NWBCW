@@ -1,0 +1,24 @@
+state = {
+	id = 260
+	name = "STATE_260" # South Malawi
+	manpower = 6325675
+	state_category = state_07
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 12986 5 }
+		victory_points = { 11154 2 }
+
+		buildings = {
+			infrastructure = 0
+		}
+	}
+	
+	provinces = {
+		12908 12986 11154
+	}
+	
+	local_supplies = 10
+}

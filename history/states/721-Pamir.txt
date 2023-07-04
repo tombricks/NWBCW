@@ -1,0 +1,25 @@
+state = {
+	id = 721
+	name = "STATE_721" # Pamir
+	manpower = 1396342
+	state_category = state_03
+	resources = {
+	}
+	
+	history = {
+		owner = SOV
+		add_core_of = SOV
+		set_state_flag = country_kyrgyzstan
+		victory_points = { 12370 5 }
+
+		buildings = {
+			infrastructure = 0
+		}
+	}
+	
+	provinces = {
+		3088 12370 12581 13214 14132 14133 14199 14200
+	}
+	
+	local_supplies = 10
+}

@@ -1,0 +1,47 @@
+state = {
+	id = 552
+	name = "STATE_552" # Liaoning
+	manpower = 24789462
+	state_category = state_15
+	resources = {
+		oil = 4
+		aluminium = 13
+		steel = 80
+		chromium = 21
+	}
+	
+	history = {
+		owner = CHI
+		add_core_of = CHI
+		victory_points = { 1150 10 }
+		victory_points = { 9781 5 }
+		victory_points = { 11764 1 }
+		victory_points = { 892 3 }
+		victory_points = { 6981 3 }
+		victory_points = { 3783 1 }
+		victory_points = { 9854 1 }
+		victory_points = { 6851 1 }
+		victory_points = { 6860 1 }
+		victory_points = { 6910 1 }
+		victory_points = { 11771 10 }
+		victory_points = { 9885 3 }
+		victory_points = { 916 5 }
+		victory_points = { 887 1 }
+		victory_points = { 6868 1 }
+
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 1
+			dockyard = 1
+			air_base = 10
+			nuclear_reactor = 1
+		}
+	}
+	
+	provinces = {
+		836 887 892 916 945 964 987 1150 3783 3839 3849 3895 3970 6804 6851 6860 6868 6910 6918 6981 9781 9848 9854 9885 11764 11771 11808
+	}
+	
+	local_supplies = 10
+}

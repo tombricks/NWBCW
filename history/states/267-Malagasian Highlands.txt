@@ -1,0 +1,27 @@
+state = {
+	id = 267
+	name = "STATE_267" # Antananarivo
+	manpower = 7359691
+	state_category = state_08
+	resources = {
+		tungsten = 3
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 11015 10 }
+		victory_points = { 681 4 }
+		victory_points = { 566 2 }
+
+		buildings = {
+			infrastructure = 0
+			air_base = 2
+		}
+	}
+	
+	provinces = {
+		11015 554 566 576 681 753 844 874 879
+	}
+	
+	local_supplies = 10
+}

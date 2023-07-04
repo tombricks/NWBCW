@@ -1,0 +1,31 @@
+state = {
+	id = 930
+	name = "STATE_930" # North Shan
+	manpower = 2351160
+	state_category = state_03
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 7974 5 }
+		victory_points = { 1170 5 }
+		victory_points = { 1566 1 }
+		victory_points = { 2061 1 }
+		victory_points = { 7909 1 }
+		victory_points = { 12363 1 }
+
+		buildings = {
+			infrastructure = 0
+			industrial_complex = 1
+			arms_factory = 1
+			air_base = 1
+		}
+	}
+	
+	provinces = {
+		135 1170 1566 2061 4175 7562 7909 7974 12363 14520 14522 14523
+	}
+	
+	local_supplies = 10
+}

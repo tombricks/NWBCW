@@ -1,0 +1,26 @@
+state = {
+	id = 474
+	name = "STATE_474" # West Pomerelia
+	manpower = 1450816
+	state_category = state_03
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 6236 1 }
+		victory_points = { 6282 5 }
+		victory_points = { 11372 1 }
+
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+		}
+	}
+	
+	provinces = {
+		537 6236 6282 6309 6334 9277 9306 9334 11372 14146
+	}
+	
+	local_supplies = 10
+}

@@ -1,0 +1,35 @@
+state = {
+	id = 531
+	name = "STATE_531" # Hainan
+	manpower = 7257957
+	state_category = state_08
+	resources = {
+		steel = 15
+		rubber = 20
+	}
+	
+	history = {
+		owner = CHI
+		add_core_of = CHI
+		victory_points = { 1038 5 }
+		victory_points = { 994 1 }
+		victory_points = { 11963 1 }
+		victory_points = { 1070 1 }
+		victory_points = { 14283 1 }
+
+		buildings = {
+			infrastructure = 1
+			air_base = 10
+			industrial_complex = 1
+			nuclear_reactor = 1
+			radar_station = 1
+			anti_air_building = 1
+		}
+	}
+	
+	provinces = {
+		1038 1070 11990 994 11963 14283 14286
+	}
+	
+	local_supplies = 10
+}

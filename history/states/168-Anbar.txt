@@ -1,0 +1,28 @@
+state = {
+	id = 168
+	name = "STATE_168" # Anbar
+	manpower = 1251605
+	state_category = state_02
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 12046 5 }
+		victory_points = { 11275 5 }
+		victory_points = { 11199 1 }
+		victory_points = { 12413 2 }
+		victory_points = { 11191 2 }
+
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+		}
+	}
+	
+	provinces = {
+		1631 4951 12046 12413 3180 3265 3272 6229 11191 11196 11198 11199 11201 11255 11275
+	}
+	
+	local_supplies = 10
+}

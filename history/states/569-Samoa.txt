@@ -1,0 +1,24 @@
+state = {
+	id = 569
+	name = "STATE_569" # Samoa
+	manpower = 150067
+	state_category = state_00
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 7290 1 }
+
+		buildings = {
+			infrastructure = 1
+			air_base = 1
+		}
+	}
+	
+	provinces = {
+		7290
+	}
+	
+	local_supplies = 10
+}

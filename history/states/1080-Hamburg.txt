@@ -1,0 +1,27 @@
+state = {
+	id = 1080
+	name = "STATE_1080" # Hamburg
+	manpower = 1449494
+	state_category = state_03
+	resources = {
+		tungsten = 5
+		chromium = 3
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 9347 10 }
+
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			dockyard = 1
+		}
+	}
+	
+	provinces = {
+		6325 9347
+	}
+	
+	local_supplies = 10
+}

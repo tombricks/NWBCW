@@ -1,0 +1,24 @@
+state = {
+	id = 625
+	name = "STATE_625" # Lubusz
+	manpower = 864095
+	state_category = state_02
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 3438 1 }
+
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+		}
+	}
+	
+	provinces = {
+		444 3438 3473 3572 9387
+	}
+	
+	local_supplies = 10
+}

@@ -1,0 +1,31 @@
+state = {
+	id = 607
+	name = "STATE_607" # Honam
+	manpower = 4124621
+	state_category = state_05
+	resources = {
+		steel = 28
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 10110 5 }
+		victory_points = { 4126 5 }
+		victory_points = { 11948 1 }
+		victory_points = { 12085 1 }
+
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 3
+			arms_factory = 2
+			nuclear_reactor = 1
+			anti_air_building = 1
+		}
+	}
+	
+	provinces = {
+		4126 10110 11948 12085 3250 3261 3264
+	}
+	
+	local_supplies = 10
+}

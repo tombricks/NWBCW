@@ -1,0 +1,23 @@
+state = {
+	id = 951
+	name = "STATE_951" # Saada
+	manpower = 629000
+	state_category = state_03
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 9217 5 }
+
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	
+	provinces = {
+		9189 9192 9217 14548 14549 14550 14551
+	}
+	
+	local_supplies = 10
+}

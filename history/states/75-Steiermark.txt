@@ -1,0 +1,27 @@
+state = {
+	id = 75
+	name = "STATE_75" # Steiermark
+	manpower = 1564926
+	state_category = state_03
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 9648 5 }
+		victory_points = { 3673 1 }
+
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			synthetic_refinery = 1
+			air_base = 2
+		}
+	}
+	
+	provinces = {
+		653 668 3673 6673 6687 6691 9646 9648 9679 11612 11630 334
+	}
+	
+	local_supplies = 10
+}

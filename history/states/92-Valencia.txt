@@ -1,0 +1,29 @@
+state = {
+	id = 92
+	name = "STATE_92" # Valencia
+	manpower = 3538360
+	state_category = state_05
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 6906 5 }
+		victory_points = { 6817 1 }
+
+		buildings = {
+			infrastructure = 3
+			arms_factory = 2
+			fuel_silo = 1
+			synthetic_refinery = 1
+			air_base = 3
+			nuclear_reactor = 1
+		}
+	}
+	
+	provinces = {
+		962 1093 3799 3873 4098 6817 6906 6959 11884
+	}
+	
+	local_supplies = 10
+}

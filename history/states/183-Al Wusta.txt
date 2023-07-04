@@ -1,0 +1,24 @@
+state = {
+	id = 183
+	name = "STATE_183" # Al Wusta
+	manpower = 372451
+	state_category = state_01
+	resources = {
+		oil = 24
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 5049 1 }
+
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	
+	provinces = {
+		2018 5049 8002 3483 3486
+	}
+	
+	local_supplies = 10
+}

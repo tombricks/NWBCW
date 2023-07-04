@@ -1,0 +1,28 @@
+state = {
+	id = 193
+	name = "STATE_193" # Hasakah
+	manpower = 1493689
+	state_category = state_03
+	resources = {
+		oil = 1
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 1549 3 }
+		victory_points = { 6883 1 }
+		victory_points = { 1578 5 }
+		victory_points = { 6367 1 }
+
+		buildings = {
+			infrastructure = 1
+			air_base = 4
+		}
+	}
+	
+	provinces = {
+		1549 1578 6883 10882 3129 3161 6367
+	}
+	
+	local_supplies = 10
+}

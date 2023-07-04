@@ -1,0 +1,26 @@
+state = {
+	id = 911
+	name = "STATE_911" # Cundinamarca
+	manpower = 7306354
+	state_category = state_08
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 10747 20 }
+
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 2
+			air_base = 6
+		}
+	}
+	
+	provinces = {
+		10747 10983 10997
+	}
+	
+	local_supplies = 10
+}

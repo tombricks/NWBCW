@@ -1,0 +1,25 @@
+state = {
+	id = 950
+	name = "STATE_950" # Arica
+	manpower = 181289
+	state_category = state_01
+	resources = {
+		steel = 1
+		tungsten = 120
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 5135 3 }
+
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	
+	provinces = {
+		4847 5131 5135
+	}
+	
+	local_supplies = 10
+}

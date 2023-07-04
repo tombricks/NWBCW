@@ -1,0 +1,29 @@
+state = {
+	id = 628
+	name = "STATE_628" # Subcarpathia
+	manpower = 3449023
+	state_category = state_05
+	resources = {
+		oil = 2.000
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 3559 5 }
+		victory_points = { 9494 1 }
+		victory_points = { 6580 1 }
+
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			air_base = 2
+			synthetic_refinery = 1
+		}
+	}
+	
+	provinces = {
+		649 3521 3559 6484 6580 9452 9494 9521 11466
+	}
+	
+	local_supplies = 10
+}

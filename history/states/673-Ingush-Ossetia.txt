@@ -1,0 +1,29 @@
+state = {
+	id = 673
+	name = "STATE_673" # Ingush-Ossetia
+	manpower = 1045859
+	state_category = state_02
+	resources = {
+	}
+	
+	history = {
+		owner = SOV
+		add_core_of = SOV
+		set_state_flag = country_russia
+		victory_points = { 9628 5 }
+		victory_points = { 9647 3 }
+		victory_points = { 11614 1 }
+
+		buildings = {
+			infrastructure = 1
+			air_base = 2
+			arms_factory = 1
+		}
+	}
+	
+	provinces = {
+		670 9628 9647 11614
+	}
+	
+	local_supplies = 10
+}

@@ -1,0 +1,25 @@
+state = {
+	id = 351
+	name = "STATE_351" # Black Volta
+	manpower = 4487599
+	state_category = state_06
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 7983 4 }
+		victory_points = { 8071 1 }
+		victory_points = { 9888 1 }
+		victory_points = { 9811 1 }
+
+		buildings = {
+		}
+	}
+	
+	provinces = {
+		7983 8071 9769 9811 9888 12851
+	}
+	
+	local_supplies = 10
+}

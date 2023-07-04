@@ -1,0 +1,30 @@
+state = {
+	id = 657
+	name = "STATE_657" # Lipetsk
+	manpower = 1924067
+	state_category = state_03
+	resources = {
+	}
+	
+	history = {
+		owner = SOV
+		add_core_of = SOV
+		set_state_flag = country_russia
+		victory_points = { 6369 5 }
+		victory_points = { 11351 5 }
+		victory_points = { 3346 3 }
+		victory_points = { 9367 3 }
+		victory_points = { 275 1 }
+
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+		}
+	}
+	
+	provinces = {
+		232 275 340 356 3291 3346 3389 6230 6317 6369 6398 9245 9367 9422 11351 11436
+	}
+	
+	local_supplies = 10
+}

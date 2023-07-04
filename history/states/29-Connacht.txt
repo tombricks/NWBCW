@@ -1,0 +1,26 @@
+state = {
+	id = 29
+	name = "STATE_29" # Connacht
+	manpower = 496025
+	state_category = state_01
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 9303 1 }
+		victory_points = { 11371 1 }
+		victory_points = { 337 1 }
+
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+		}
+	}
+	
+	provinces = {
+		337 3396 9255 9303 9321 9369 11371 13936 13943 13944
+	}
+	
+	local_supplies = 10
+}

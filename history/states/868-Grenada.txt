@@ -1,0 +1,24 @@
+state = {
+	id = 868
+	name = "STATE_868" # Grenada
+	manpower = 87666
+	state_category = state_00
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 11106 1 }
+
+		buildings = {
+			infrastructure = 2
+			air_base = 1
+		}
+	}
+	
+	provinces = {
+		11106
+	}
+	
+	local_supplies = 10
+}

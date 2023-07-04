@@ -1,0 +1,26 @@
+state = {
+	id = 373
+	name = "STATE_373" # West-Sahara
+	manpower = 368197
+	state_category = state_01
+	resources = {
+		tungsten = 7
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 8038 5 }
+		victory_points = { 10875 1 }
+		victory_points = { 5012 1 }
+
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	
+	provinces = {
+		4920 5012 8038 8111 10875 6406
+	}
+	
+	local_supplies = 10
+}

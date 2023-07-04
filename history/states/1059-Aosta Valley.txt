@@ -1,0 +1,23 @@
+state = {
+	id = 1059
+	name = "STATE_1059" # Aosta Valley
+	manpower = 101032
+	state_category = state_00
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 14148 1 }
+
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	
+	provinces = {
+		14148
+	}
+	
+	local_supplies = 10
+}

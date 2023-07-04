@@ -1,0 +1,30 @@
+state = {
+	id = 770
+	name = "STATE_770" # New Jersey
+	manpower = 7152198
+	state_category = state_07
+	resources = {
+		aluminium = 2
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 9864 5 }
+		victory_points = { 6882 5 }
+		victory_points = { 11782 3 }
+
+		buildings = {
+			infrastructure = 3
+			arms_factory = 3
+			air_base = 10
+			industrial_complex = 3
+			nuclear_reactor = 1
+		}
+	}
+	
+	provinces = {
+		3693 3863 6882 9801 9864 11740 11782 11900
+	}
+	
+	local_supplies = 10
+}

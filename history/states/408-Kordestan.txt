@@ -1,0 +1,27 @@
+state = {
+	id = 408
+	name = "STATE_408" # Kordestan
+	manpower = 2934440
+	state_category = state_04
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 5098 5 }
+		victory_points = { 829 1 }
+		victory_points = { 4943 1 }
+		victory_points = { 12773 5 }
+
+		buildings = {
+			infrastructure = 1
+			arms_factory = 1
+		}
+	}
+	
+	provinces = {
+		4008 4943 5098 829 12773
+	}
+	
+	local_supplies = 10
+}

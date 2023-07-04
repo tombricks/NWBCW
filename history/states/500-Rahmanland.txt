@@ -1,0 +1,25 @@
+state = {
+	id = 500
+	name = "STATE_500" # Rahmanland
+	manpower = 999946
+	state_category = state_02
+	resources = {
+		oil = 2
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 12090 5 }
+
+		buildings = {
+			infrastructure = 0
+			air_base = 1
+		}
+	}
+	
+	provinces = {
+		1014 12090
+	}
+	
+	local_supplies = 10
+}

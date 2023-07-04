@@ -1,0 +1,27 @@
+state = {
+	id = 147
+	name = "STATE_147" # Chisinau
+	manpower = 1519599
+	state_category = state_03
+	resources = {
+	}
+	
+	history = {
+		owner = SOV
+		add_core_of = SOV
+		set_state_flag = country_moldova
+		victory_points = { 11686 5 }
+		victory_points = { 3724 1 }
+
+		buildings = {
+			infrastructure = 1
+			air_base = 2
+		}
+	}
+	
+	provinces = {
+		3707 3724 6743 11686
+	}
+	
+	local_supplies = 10
+}

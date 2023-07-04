@@ -1,0 +1,25 @@
+state = {
+	id = 244
+	name = "STATE_244" # Rift Valley
+	manpower = 5938981
+	state_category = state_07
+	resources = {
+		steel = 5
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 9097 5 }
+		victory_points = { 11145 1 }
+
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	
+	provinces = {
+		5160 5196 10860 10962 11145 9097 9107 13135 13698 13699 13700 13701 13702 13703 13704 13705 13711 13712 13713
+	}
+	
+	local_supplies = 10
+}

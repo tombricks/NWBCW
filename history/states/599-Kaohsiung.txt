@@ -1,0 +1,34 @@
+state = {
+	id = 599
+	name = "STATE_599" # Kaohsiung
+	manpower = 6823865
+	state_category = state_07
+	resources = {
+		aluminium = 1.000
+	}
+	
+	history = {
+		owner = CHI
+		add_core_of = CHI
+		victory_points = { 11914 5 }
+		victory_points = { 12068 5 }
+		victory_points = { 13274 2 }
+
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 2
+			fuel_silo = 1
+			dockyard = 1
+			air_base = 4
+			nuclear_reactor = 1
+			anti_air_building = 1
+		}
+	}
+	
+	provinces = {
+		1091 11914 12068 13274
+	}
+	
+	local_supplies = 10
+}

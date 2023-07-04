@@ -1,0 +1,25 @@
+state = {
+	id = 355
+	name = "STATE_355" # Eastern Liberia
+	manpower = 713330
+	state_category = state_02
+	resources = {
+		rubber = 14
+		chromium = 12
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 13238 2 }
+
+		buildings = {
+			infrastructure = 0
+		}
+	}
+	
+	provinces = {
+		8006 13237 13238
+	}
+	
+	local_supplies = 10
+}

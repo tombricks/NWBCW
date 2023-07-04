@@ -1,0 +1,27 @@
+state = {
+	id = 105
+	name = "STATE_105" # Harju
+	manpower = 696754
+	state_category = state_02
+	resources = {
+	}
+	
+	history = {
+		owner = SOV
+		add_core_of = SOV
+		set_state_flag = country_estonia
+		victory_points = { 3152 5 }
+
+		buildings = {
+			infrastructure = 3
+			air_base = 2
+			industrial_complex = 1
+		}
+	}
+	
+	provinces = {
+		3152 4640 11426 14526
+	}
+	
+	local_supplies = 10
+}

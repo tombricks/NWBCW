@@ -1,0 +1,27 @@
+state = {
+	id = 45
+	name = "STATE_45" # Berlin
+	manpower = 2878994
+	state_category = state_04
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 6521 8 }
+		victory_points = { 11505 7 }
+
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 3
+			air_base = 5
+			radar_station = 2
+		}
+	}
+	
+	provinces = {
+		6521 11505 14393
+	}
+	
+	local_supplies = 10
+}

@@ -1,0 +1,30 @@
+state = {
+	id = 77
+	name = "STATE_77" # Piemonte
+	manpower = 3539071
+	state_category = state_05
+	resources = {
+		steel = 22
+		aluminium = 14
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 6780 5 }
+		victory_points = { 6635 1 }
+		victory_points = { 770 1 }
+		victory_points = { 9741 1 }
+
+		buildings = {
+			infrastructure = 3
+			arms_factory = 2
+			air_base = 8
+		}
+	}
+	
+	provinces = {
+		611 770 771 3782 6635 6780 9738 9741 11721 11723 14149
+	}
+	
+	local_supplies = 10
+}

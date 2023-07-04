@@ -1,0 +1,24 @@
+state = {
+	id = 864
+	name = "STATE_864" # Saint Lucia
+	manpower = 134092
+	state_category = state_00
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 13009 2 }
+
+		buildings = {
+			infrastructure = 2
+			air_base = 1
+		}
+	}
+	
+	provinces = {
+		13009
+	}
+	
+	local_supplies = 10
+}

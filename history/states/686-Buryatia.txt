@@ -1,0 +1,30 @@
+state = {
+	id = 686
+	name = "STATE_686" # Buryatia
+	manpower = 832864
+	state_category = state_03
+	resources = {
+		tungsten = 10
+	}
+	
+	history = {
+		owner = SOV
+		add_core_of = SOV
+		set_state_flag = country_russia
+		victory_points = { 7816 5 }
+		victory_points = { 10524 3 }
+		victory_points = { 4837 1 }
+
+		buildings = {
+			infrastructure = 1
+			air_base = 2
+			arms_factory = 1
+		}
+	}
+	
+	provinces = {
+		1761 1762 1810 4716 4766 4835 4837 7736 7816 7835 7854 10524 10528 10543 10658 12506 12575 12644 14218 14231 14232 14233
+	}
+	
+	local_supplies = 10
+}

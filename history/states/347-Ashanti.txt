@@ -1,0 +1,25 @@
+state = {
+	id = 347
+	name = "STATE_347" # Ashanti-Kwahu
+	manpower = 4856199
+	state_category = state_06
+	resources = {
+		rubber = 16
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 9562 5 }
+
+		buildings = {
+			infrastructure = 1
+			air_base = 2
+		}
+	}
+	
+	provinces = {
+		9531 9562 9563 9614 12787 13268 13270
+	}
+	
+	local_supplies = 10
+}

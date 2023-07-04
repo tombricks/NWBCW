@@ -1,0 +1,26 @@
+state = {
+	id = 146
+	name = "STATE_146" # Northern Cyprus
+	manpower = 210387
+	state_category = state_01
+	resources = {
+		oil = 1
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 7193 1 }
+
+		buildings = {
+			infrastructure = 2
+			air_base = 2
+			industrial_complex = 1
+		}
+	}
+	
+	provinces = {
+		7193
+	}
+	
+	local_supplies = 10
+}

@@ -1,0 +1,25 @@
+state = {
+	id = 272
+	name = "STATE_272" # Lesotho
+	manpower = 1588650
+	state_category = state_03
+	resources = {
+		chromium = 32
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 4556 3 }
+
+		buildings = {
+			infrastructure = 0
+			air_base = 1
+		}
+	}
+	
+	provinces = {
+		4556 475
+	}
+	
+	local_supplies = 10
+}

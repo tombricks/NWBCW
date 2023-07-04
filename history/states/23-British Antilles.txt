@@ -1,0 +1,22 @@
+state = {
+	id = 23
+	name = "STATE_23" # British Antilles
+	manpower = 38312
+	state_category = state_00
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	
+	provinces = {
+		13084 13243 13244
+	}
+	
+	local_supplies = 10
+}

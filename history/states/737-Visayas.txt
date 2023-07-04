@@ -1,0 +1,33 @@
+state = {
+	id = 737
+	name = "STATE_737" # Visayas
+	manpower = 12797459
+	state_category = state_10
+	resources = {
+		steel = 17
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 1261 5 }
+		victory_points = { 12118 5 }
+		victory_points = { 10302 5 }
+		victory_points = { 1224 2 }
+		victory_points = { 10186 1 }
+		victory_points = { 7385 1 }
+		victory_points = { 1311 1 }
+		victory_points = { 1368 1 }
+
+		buildings = {
+			infrastructure = 1
+			arms_factory = 1
+			industrial_complex = 2
+		}
+	}
+	
+	provinces = {
+		1224 1311 1340 4269 4373 1261 1368 7385 7423 10186 10302 12112 12118 12153
+	}
+	
+	local_supplies = 10
+}

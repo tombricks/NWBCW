@@ -1,0 +1,24 @@
+state = {
+	id = 901
+	name = "STATE_901" # Ucayali
+	manpower = 448661
+	state_category = state_01
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 2226 3 }
+		victory_points = { 8191 1 }
+
+		buildings = {
+			infrastructure = 0
+		}
+	}
+	
+	provinces = {
+		2162 2226 8160 8191 12983 7608 7641 7666 9469
+	}
+	
+	local_supplies = 10
+}

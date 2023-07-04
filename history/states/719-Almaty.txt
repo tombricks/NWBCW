@@ -1,0 +1,32 @@
+state = {
+	id = 719
+	name = "STATE_719" # Almaty
+	manpower = 2994387
+	state_category = state_04
+	resources = {
+		tungsten = 3.000
+	}
+	
+	history = {
+		owner = SOV
+		add_core_of = SOV
+		set_state_flag = country_kazakhstan
+		victory_points = { 13210 10 }
+		victory_points = { 10619 3 }
+		victory_points = { 7784 1 }
+		victory_points = { 4845 1 }
+		victory_points = { 10547 1 }
+		victory_points = { 12427 1 }
+
+		buildings = {
+			infrastructure = 2
+			air_base = 2
+		}
+	}
+	
+	provinces = {
+		1818 1840 4651 4674 4845 7711 7784 7856 10146 10547 10550 10610 10619 12427 12529 12564 13148 13149 13151 13197 13210 13211 14495
+	}
+	
+	local_supplies = 10
+}

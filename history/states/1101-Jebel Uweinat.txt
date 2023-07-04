@@ -1,0 +1,21 @@
+state = {
+	id = 1101
+	name = "STATE_1101" # Jebel Uweinat
+	manpower = 193
+	state_category = state_inhospitable
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+
+		buildings = {
+		}
+	}
+	
+	provinces = {
+		14498
+	}
+	
+	local_supplies = 10
+}

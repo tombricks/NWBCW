@@ -1,0 +1,28 @@
+state = {
+	id = 815
+	name = "STATE_815" # Puerto Rico
+	manpower = 3315544
+	state_category = state_05
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 1440 5 }
+		victory_points = { 4155 1 }
+		victory_points = { 13327 1 }
+		victory_points = { 13329 1 }
+
+		buildings = {
+			infrastructure = 2
+			air_base = 2
+			fuel_silo = 1
+		}
+	}
+	
+	provinces = {
+		1440 4155 13327 13328 13329
+	}
+	
+	local_supplies = 10
+}

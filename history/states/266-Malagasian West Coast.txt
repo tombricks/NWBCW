@@ -1,0 +1,24 @@
+state = {
+	id = 266
+	name = "STATE_266" # Mahajanga
+	manpower = 1982260
+	state_category = state_03
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 8188 5 }
+		victory_points = { 5222 1 }
+
+		buildings = {
+			infrastructure = 0
+		}
+	}
+	
+	provinces = {
+		5185 5222 8188 884
+	}
+	
+	local_supplies = 10
+}

@@ -1,0 +1,23 @@
+state = {
+	id = 955
+	name = "STATE_955" # Isle of Man
+	manpower = 65403
+	state_category = state_00
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 3311 1 }
+
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	
+	provinces = {
+		3311
+	}
+	
+	local_supplies = 10
+}

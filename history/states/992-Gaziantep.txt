@@ -1,0 +1,27 @@
+state = {
+	id = 992
+	name = "STATE_992" # Gaziantep
+	manpower = 2184677
+	state_category = state_04
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 3889 1 }
+		victory_points = { 9893 10 }
+		victory_points = { 9912 1 }
+
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			air_base = 4
+		}
+	}
+	
+	provinces = {
+		3889 7620 9893 9912
+	}
+	
+	local_supplies = 10
+}

@@ -1,0 +1,30 @@
+state = {
+	id = 666
+	name = "STATE_666" # Astrakhan
+	manpower = 931516
+	state_category = state_01
+	resources = {
+		oil = 1
+	}
+	
+	history = {
+		owner = SOV
+		add_core_of = SOV
+		set_state_flag = country_russia
+		victory_points = { 9753 5 }
+		victory_points = { 6486 3 }
+		victory_points = { 6516 1 }
+		victory_points = { 11429 1 }
+
+		buildings = {
+			infrastructure = 1
+			arms_factory = 1
+		}
+	}
+	
+	provinces = {
+		757 3435 3487 6486 6516 6758 9440 9735 9753 11429 11579
+	}
+	
+	local_supplies = 10
+}

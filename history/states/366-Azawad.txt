@@ -1,0 +1,25 @@
+state = {
+	id = 366
+	name = "STATE_366" # Azawad
+	manpower = 876334
+	state_category = state_02
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 10788 4 }
+		victory_points = { 5101 1 }
+		victory_points = { 10868 1 }
+
+		buildings = {
+			air_base = 1
+		}
+	}
+	
+	provinces = {
+		2044 2068 5101 7930 7954 9278 10788 10868 13272 14061 14396
+	}
+	
+	local_supplies = 10
+}

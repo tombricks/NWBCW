@@ -1,0 +1,23 @@
+state = {
+	id = 349
+	name = "STATE_349" # Sahel
+	manpower = 630459
+	state_category = state_01
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 7950 1 }
+		victory_points = { 14406 1 }
+
+		buildings = {
+		}
+	}
+	
+	provinces = {
+		7950 14406
+	}
+	
+	local_supplies = 10
+}

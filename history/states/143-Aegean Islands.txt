@@ -1,0 +1,28 @@
+state = {
+	id = 143
+	name = "STATE_143" # Aegean Islands
+	manpower = 432801
+	state_category = state_01
+	resources = {
+		aluminium = 1
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 10007 1 }
+		victory_points = { 7003 1 }
+		victory_points = { 6550 1 }
+		victory_points = { 7003 1 }
+		victory_points = { 3401 1 }
+
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	
+	provinces = {
+		3401 6550 7003 8435 10007 426
+	}
+	
+	local_supplies = 10
+}

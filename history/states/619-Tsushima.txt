@@ -1,0 +1,23 @@
+state = {
+	id = 619
+	name = "STATE_619" # Tsushima
+	manpower = 29700
+	state_category = state_00
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 10011 1 }
+
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	
+	provinces = {
+		10011
+	}
+	
+	local_supplies = 10
+}

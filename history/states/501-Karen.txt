@@ -1,0 +1,27 @@
+state = {
+	id = 501
+	name = "STATE_501" # Karen
+	manpower = 1377162
+	state_category = state_03
+	resources = {
+		rubber = 24
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 12238 4 }
+		victory_points = { 4408 1 }
+		victory_points = { 4654 1 }
+
+		buildings = {
+			infrastructure = 0
+			air_base = 1
+		}
+	}
+	
+	provinces = {
+		4293 4408 4654 7441 12238 12317 120
+	}
+	
+	local_supplies = 10
+}

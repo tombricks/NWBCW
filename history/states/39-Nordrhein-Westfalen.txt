@@ -1,0 +1,33 @@
+state = {
+	id = 39
+	name = "STATE_39" # Nordrhein-Westfalen
+	manpower = 11369920
+	state_category = state_10
+	resources = {
+		aluminium = 25
+		steel = 80
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 6469 5 }
+		victory_points = { 495 5 }
+		victory_points = { 6570 10 }
+		victory_points = { 6535 5 }
+		victory_points = { 405 3 }
+		victory_points = { 3355 1 }
+
+		buildings = {
+			infrastructure = 3
+			arms_factory = 4
+			industrial_complex = 3
+			air_base = 3
+		}
+	}
+	
+	provinces = {
+		405 495 3355 3398 3512 6469 6535 6570 6622 9509 11346 11431
+	}
+	
+	local_supplies = 10
+}

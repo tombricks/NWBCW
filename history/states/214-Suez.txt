@@ -1,0 +1,29 @@
+state = {
+	id = 214
+	name = "STATE_214" # Suez
+	manpower = 10958957
+	state_category = state_09
+	resources = {
+		oil = 4
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 4073 5 }
+		victory_points = { 12049 5 }
+		victory_points = { 10005 5 }
+		victory_points = { 11964 1 }
+
+		buildings = {
+			infrastructure = 1
+			arms_factory = 2
+			industrial_complex = 3
+		}
+	}
+	
+	provinces = {
+		4073 12049 10005 11964 14511 14512 14513 14514
+	}
+	
+	local_supplies = 10
+}

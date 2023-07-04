@@ -1,0 +1,36 @@
+state = {
+	id = 604
+	name = "STATE_604" # Gyeonggi
+	manpower = 20744927
+	state_category = state_13
+	resources = {
+		steel = 35
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 7221 15 }
+		victory_points = { 3308 5 }
+		victory_points = { 3285 5 }
+		victory_points = { 10036 2 }
+		victory_points = { 3310 2 }
+		victory_points = { 7021 1 }
+		victory_points = { 11958 1 }
+
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 9
+			arms_factory = 4
+			dockyard = 1
+			air_base = 10
+			radar_station = 1
+			nuclear_reactor = 1
+		}
+	}
+	
+	provinces = {
+		1100 1148 4004 7021 7125 7221 10036 11958 12011 3285 3303 3308 3310
+	}
+	
+	local_supplies = 10
+}

@@ -1,0 +1,28 @@
+state = {
+	id = 414
+	name = "STATE_414" # Hindu Kush
+	manpower = 7831288
+	state_category = state_08
+	resources = {
+		tungsten = 2.000
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 12831 5 }
+		victory_points = { 12769 5 }
+		victory_points = { 8090 1 }
+		victory_points = { 10737 10 }
+
+		buildings = {
+			infrastructure = 1
+			air_base = 6
+		}
+	}
+	
+	provinces = {
+		5082 6114 8090 10737 10789 12769 12831
+	}
+	
+	local_supplies = 10
+}

@@ -1,0 +1,27 @@
+state = {
+	id = 1087
+	name = "STATE_1087" # Dnipropetrovsk
+	manpower = 2650779
+	state_category = state_04
+	resources = {
+	}
+	
+	history = {
+		owner = SOV
+		add_core_of = SOV
+		set_state_flag = country_ukraine
+		victory_points = { 11437 5 }
+		victory_points = { 453 3 }
+		victory_points = { 11422 3 }
+
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	
+	provinces = {
+		453 486 3449 6423 9433 9463 9479 11422 11437 11452
+	}
+	
+	local_supplies = 10
+}

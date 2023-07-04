@@ -1,0 +1,30 @@
+state = {
+	id = 174
+	name = "STATE_174" # Haasa
+	manpower = 2564922
+	state_category = state_04
+	resources = {
+		oil = 154
+		aluminium = 27
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 12702 6 }
+		victory_points = { 10791 5 }
+		victory_points = { 12749 1 }
+
+		buildings = {
+			infrastructure = 2
+			arms_factory = 2
+			industrial_complex = 3
+			air_base = 8
+		}
+	}
+	
+	provinces = {
+		1955 3374 4932 5024 7995 10791 10850 12702 12749 3462 9032
+	}
+	
+	local_supplies = 10
+}

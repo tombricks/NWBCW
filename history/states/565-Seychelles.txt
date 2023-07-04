@@ -1,0 +1,24 @@
+state = {
+	id = 565
+	name = "STATE_565" # Seychelles
+	manpower = 68850
+	state_category = state_00
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 2188 2 }
+
+		buildings = {
+			infrastructure = 3
+			air_base = 2
+		}
+	}
+	
+	provinces = {
+		2188
+	}
+	
+	local_supplies = 10
+}

@@ -1,0 +1,27 @@
+state = {
+	id = 1011
+	name = "STATE_1011" # Tuva
+	manpower = 294797
+	state_category = state_01
+	resources = {
+	}
+	
+	history = {
+		owner = SOV
+		add_core_of = SOV
+		set_state_flag = country_russia
+		victory_points = { 4680 3 }
+		victory_points = { 1676 1 }
+		victory_points = { 7819 1 }
+
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	
+	provinces = {
+		1676 1877 4680 7804 7819 10627 10646 10597 7703 7731 12610 12625 14198
+	}
+	
+	local_supplies = 10
+}

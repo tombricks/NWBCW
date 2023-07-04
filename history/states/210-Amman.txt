@@ -1,0 +1,29 @@
+state = {
+	id = 210
+	name = "STATE_210" # Amman
+	manpower = 3247168
+	state_category = state_05
+	resources = {
+		aluminium = 3
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 7151 10 }
+		victory_points = { 7170 2 }
+		victory_points = { 10089 1 }
+
+		buildings = {
+			infrastructure = 1
+			arms_factory = 1
+			air_base = 6
+			industrial_complex = 1
+		}
+	}
+	
+	provinces = {
+		1 7170 7151 4574 10089
+	}
+	
+	local_supplies = 10
+}

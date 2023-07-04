@@ -1,0 +1,23 @@
+state = {
+	id = 921
+	name = "STATE_921" # Logone
+	manpower = 269650
+	state_category = state_01
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 1974 1 }
+
+		buildings = {
+			infrastructure = 0
+		}
+	}
+	
+	provinces = {
+		1883 1974 5084 7919 9319 9333 9344 9345 9348 9353
+	}
+	
+	local_supplies = 10
+}

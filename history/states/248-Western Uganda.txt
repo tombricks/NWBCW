@@ -1,0 +1,27 @@
+state = {
+	id = 248
+	name = "STATE_248" # Western Uganda
+	manpower = 5021499
+	state_category = state_06
+	resources = {
+		aluminium = 1
+		tungsten = 2
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 13733 5 }
+		victory_points = { 7088 1 }
+		victory_points = { 6566 1 }
+
+		buildings = {
+			infrastructure = 0
+		}
+	}
+	
+	provinces = {
+		3854 7088 6566 13176 13177 13732 13733 13734 13735 13736
+	}
+	
+	local_supplies = 10
+}

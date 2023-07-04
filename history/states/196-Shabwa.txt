@@ -1,0 +1,27 @@
+state = {
+	id = 196
+	name = "STATE_196" # Shabwa
+	manpower = 314500
+	state_category = state_01
+	resources = {
+		oil = 2
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 9158 2 }
+		victory_points = { 9162 1 }
+		victory_points = { 14552 1 }
+		victory_points = { 12821 1 }
+
+		buildings = {
+			infrastructure = 0
+		}
+	}
+	
+	provinces = {
+		1973 4976 12821 9141 9158 9175 9153 9144 9162 9197 14552
+	}
+	
+	local_supplies = 10
+}

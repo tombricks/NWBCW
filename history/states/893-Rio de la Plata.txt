@@ -1,0 +1,28 @@
+state = {
+	id = 893
+	name = "STATE_893" # Rio de la Plata
+	manpower = 2217187
+	state_category = state_04
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 10362 5 }
+		victory_points = { 12336 1 }
+		victory_points = { 10347 1 }
+		victory_points = { 4457 1 }
+
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			air_base = 3
+		}
+	}
+	
+	provinces = {
+		4457 12496 10362 12336 10347
+	}
+	
+	local_supplies = 10
+}

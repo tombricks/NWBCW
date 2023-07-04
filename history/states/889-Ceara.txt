@@ -1,0 +1,30 @@
+state = {
+	id = 889
+	name = "STATE_889" # Ceará
+	manpower = 6316062
+	state_category = state_07
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 5107 10 }
+		victory_points = { 2164 3 }
+		victory_points = { 2132 1 }
+		victory_points = { 2178 1 }
+		victory_points = { 8179 1 }
+
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 2
+			synthetic_refinery = 2
+			air_base = 4
+		}
+	}
+	
+	provinces = {
+		10939 8179 2164 2178 5107 2132
+	}
+	
+	local_supplies = 10
+}

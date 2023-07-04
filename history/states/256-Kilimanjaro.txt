@@ -1,0 +1,25 @@
+state = {
+	id = 256
+	name = "STATE_256" # Kilimanjaro
+	manpower = 5426120
+	state_category = state_06
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 2206 5 }
+		victory_points = { 9365 2 }
+		victory_points = { 9391 1 }
+
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	
+	provinces = {
+		2206 5224 9365 9391 11017 13671 13672 13673 13674 13675 13676 13677
+	}
+	
+	local_supplies = 10
+}

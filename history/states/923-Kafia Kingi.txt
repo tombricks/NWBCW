@@ -1,0 +1,22 @@
+state = {
+	id = 923
+	name = "STATE_923" # Kafia Kingi
+	manpower = 575
+	state_category = state_00
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+
+		buildings = {
+			infrastructure = 0
+		}
+	}
+	
+	provinces = {
+		11033
+	}
+	
+	local_supplies = 10
+}

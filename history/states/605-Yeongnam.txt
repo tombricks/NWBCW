@@ -1,0 +1,36 @@
+state = {
+	id = 605
+	name = "STATE_605" # Yeongnam
+	manpower = 10491553
+	state_category = state_09
+	resources = {
+		steel = 36
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 4056 10 }
+		victory_points = { 12060 5 }
+		victory_points = { 4086 5 }
+		victory_points = { 1054 2 }
+		victory_points = { 1081 2 }
+		victory_points = { 4103 1 }
+		victory_points = { 14456 1 }
+
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 5
+			arms_factory = 1
+			fuel_silo = 2
+			dockyard = 2
+			air_base = 6
+			nuclear_reactor = 1
+		}
+	}
+	
+	provinces = {
+		1054 1081 4056 4086 4103 7121 10085 10115 11912 12060 12089 3247 3257 3266 3276 14456
+	}
+	
+	local_supplies = 10
+}

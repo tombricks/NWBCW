@@ -1,0 +1,26 @@
+state = {
+	id = 1058
+	name = "STATE_1058" # Vidzeme
+	manpower = 386325
+	state_category = state_01
+	resources = {
+	}
+	
+	history = {
+		owner = SOV
+		add_core_of = SOV
+		set_state_flag = country_latvia
+
+		buildings = {
+			infrastructure = 2
+			air_base = 4
+			industrial_complex = 1
+		}
+	}
+	
+	provinces = {
+		3388 7482 9240 9317 10323 11302 13932 14532
+	}
+	
+	local_supplies = 10
+}

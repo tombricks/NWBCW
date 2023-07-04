@@ -1,0 +1,26 @@
+state = {
+	id = 766
+	name = "STATE_766" # Vermont
+	manpower = 517503
+	state_category = state_01
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 7629 3 }
+		victory_points = { 4445 1 }
+
+		buildings = {
+			infrastructure = 2
+			air_base = 4
+			industrial_complex = 2
+		}
+	}
+	
+	provinces = {
+		9675 4445 7629 13158
+	}
+	
+	local_supplies = 10
+}

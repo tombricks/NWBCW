@@ -1,0 +1,28 @@
+state = {
+	id = 171
+	name = "STATE_171" # Basrah
+	manpower = 3138124
+	state_category = state_05
+	resources = {
+		oil = 78
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 2089 5 }
+		victory_points = { 12726 5 }
+		victory_points = { 2004 5 }
+		victory_points = { 8001 1 }
+
+		buildings = {
+			infrastructure = 1
+			arms_factory = 1
+		}
+	}
+	
+	provinces = {
+		2004 2089 8001 12726 12879 9045 11204 11222 11240 11252 14401 14402 14518
+	}
+	
+	local_supplies = 10
+}

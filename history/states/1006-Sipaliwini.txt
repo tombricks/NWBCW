@@ -1,0 +1,23 @@
+state = {
+	id = 1006
+	name = "STATE_1006" # Sipaliwini
+	manpower = 20483
+	state_category = state_00
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 10912 3 }
+
+		buildings = {
+			infrastructure = 0
+		}
+	}
+	
+	provinces = {
+		1928 10912 12576
+	}
+	
+	local_supplies = 10
+}

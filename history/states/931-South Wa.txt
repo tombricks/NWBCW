@@ -1,0 +1,22 @@
+state = {
+	id = 931
+	name = "STATE_931" # South Wa
+	manpower = 85000
+	state_category = state_02
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+
+		buildings = {
+			infrastructure = 0
+		}
+	}
+	
+	provinces = {
+		13242
+	}
+	
+	local_supplies = 10
+}

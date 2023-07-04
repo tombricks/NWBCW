@@ -1,0 +1,24 @@
+state = {
+	id = 194
+	name = "STATE_194" # Al Mahrah
+	manpower = 198093
+	state_category = state_01
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 9201 2 }
+		victory_points = { 9181 1 }
+
+		buildings = {
+			infrastructure = 0
+		}
+	}
+	
+	provinces = {
+		2029 12894 9181 9201 14473 9214 14585
+	}
+	
+	local_supplies = 10
+}

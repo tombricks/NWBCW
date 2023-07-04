@@ -1,0 +1,26 @@
+state = {
+	id = 179
+	name = "STATE_179" # Dubai
+	manpower = 1354775
+	state_category = state_03
+	resources = {
+		oil = 15
+		aluminium = 38
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 3725 8 }
+
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+		}
+	}
+	
+	provinces = {
+		10904 3709 3725
+	}
+	
+	local_supplies = 10
+}

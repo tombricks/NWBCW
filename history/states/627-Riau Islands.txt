@@ -1,0 +1,27 @@
+state = {
+	id = 627
+	name = "STATE_627" # Riau Islands
+	manpower = 1641625
+	state_category = state_03
+	resources = {
+		oil = 1
+		tungsten = 2
+		rubber = 16
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 12113 5 }
+
+		buildings = {
+			infrastructure = 2
+			air_base = 4
+		}
+	}
+	
+	provinces = {
+		12113
+	}
+	
+	local_supplies = 10
+}

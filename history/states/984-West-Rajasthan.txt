@@ -1,0 +1,30 @@
+state = {
+	id = 984
+	name = "STATE_984" # West Rajasthan
+	manpower = 12758854
+	state_category = state_11
+	resources = {
+		oil = 7.000
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 12876 5 }
+		victory_points = { 4984 5 }
+		victory_points = { 12041 1 }
+
+		buildings = {
+			infrastructure = 1
+			air_base = 0
+			nuclear_reactor = 1
+			industrial_complex = 1
+			arms_factory = 1
+		}
+	}
+	
+	provinces = {
+		6 45 4984 6218 10847 10866 11170 11852 12041 12718 12844 12876 12886 13257
+	}
+	
+	local_supplies = 10
+}

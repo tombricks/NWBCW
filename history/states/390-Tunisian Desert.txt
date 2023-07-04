@@ -1,0 +1,25 @@
+state = {
+	id = 390
+	name = "STATE_390" # Tunisian Desert
+	manpower = 1199425
+	state_category = state_02
+	resources = {
+		oil = 3.000
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 11935 1 }
+		victory_points = { 1105 1 }
+
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	
+	provinces = {
+		1105 3987 4992 9983 10082 11935 12000 13145 13179
+	}
+	
+	local_supplies = 10
+}

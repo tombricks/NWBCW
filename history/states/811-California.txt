@@ -1,0 +1,55 @@
+state = {
+	id = 811
+	name = "STATE_811" # California
+	manpower = 28841900
+	state_category = state_14
+	resources = {
+		oil = 18
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 9814 15 }
+		victory_points = { 1562 10 }
+		victory_points = { 11859 3 }
+		victory_points = { 11795 5 }
+		victory_points = { 9911 5 }
+		victory_points = { 11757 3 }
+		victory_points = { 6881 3 }
+		victory_points = { 7986 1 }
+		victory_points = { 823 3 }
+		victory_points = { 941 1 }
+		victory_points = { 4727 1 }
+		victory_points = { 9855 3 }
+		victory_points = { 9671 10 }
+		victory_points = { 3678 5 }
+		victory_points = { 6876 5 }
+		victory_points = { 9637 3 }
+		victory_points = { 6699 3 }
+		victory_points = { 4518 3 }
+		victory_points = { 6694 1 }
+		victory_points = { 986 1 }
+		victory_points = { 9713 5 }
+		victory_points = { 6681 3 }
+		victory_points = { 9697 3 }
+		victory_points = { 3588 3 }
+		victory_points = { 610 1 }
+		victory_points = { 11658 3 }
+
+		buildings = {
+			infrastructure = 3
+			arms_factory = 4
+			dockyard = 4
+			air_base = 10
+			industrial_complex = 6
+			radar_station = 2
+			nuclear_reactor = 1
+		}
+	}
+	
+	provinces = {
+		823 941 1562 1651 4657 4727 6881 7517 7986 9814 9855 9911 10387 10483 11757 11795 11859 11876 12303 12374 1601 1432 7667 3784 986 3840 9637 9671 3678 6699 6694 6876 11763 4518 6861 3677 710 9713 11658 677 6681 6757 9730 610 3644 6482 6665 4331 10159 11698 766 9697 3588 6745 768 6772 781
+	}
+	
+	local_supplies = 10
+}

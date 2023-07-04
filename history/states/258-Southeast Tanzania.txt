@@ -1,0 +1,24 @@
+state = {
+	id = 258
+	name = "STATE_258" # Southeast Tanzania
+	manpower = 1534826
+	state_category = state_04
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 12944 1 }
+		victory_points = { 9260 1 }
+
+		buildings = {
+			infrastructure = 0
+		}
+	}
+	
+	provinces = {
+		8201 12944 9260 13681 13682 13683 13684
+	}
+	
+	local_supplies = 10
+}

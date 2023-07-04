@@ -1,0 +1,27 @@
+state = {
+	id = 383
+	name = "STATE_383" # Algerian Atlas
+	manpower = 2868936
+	state_category = state_04
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 9960 5 }
+		victory_points = { 13077 1 }
+		victory_points = { 12020 1 }
+		victory_points = { 13074 1 }
+
+		buildings = {
+			infrastructure = 1
+			arms_factory = 1
+		}
+	}
+	
+	provinces = {
+		13077 7149 9960 4018 13074 12018 3991 7008 10045 12020 7040 1128 7033
+	}
+	
+	local_supplies = 10
+}

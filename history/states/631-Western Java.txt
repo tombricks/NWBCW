@@ -1,0 +1,37 @@
+state = {
+	id = 631
+	name = "STATE_631" # Western Java
+	manpower = 52358558
+	state_category = state_17
+	resources = {
+		oil = 2
+		steel = 1
+		rubber = 24
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 7381 20 }
+		victory_points = { 4406 5 }
+		victory_points = { 10279 1 }
+		victory_points = { 1425 10 }
+		victory_points = { 4434 5 }
+		victory_points = { 1386 3 }
+		victory_points = { 10307 2 }
+		victory_points = { 7421 1 }
+
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 8
+			dockyard = 1
+			arms_factory = 1
+			air_base = 6
+		}
+	}
+	
+	provinces = {
+		1398 10279 4406 12249 7381 10307 1425 4621 7421 4434 1386
+	}
+	
+	local_supplies = 10
+}

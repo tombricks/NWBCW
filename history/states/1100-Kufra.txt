@@ -1,0 +1,22 @@
+state = {
+	id = 1100
+	name = "STATE_1100" # Al Kufrah
+	manpower = 39677
+	state_category = state_00
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 1057 1 }
+
+		buildings = {
+		}
+	}
+	
+	provinces = {
+		14502 14500 14499 1057
+	}
+	
+	local_supplies = 10
+}

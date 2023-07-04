@@ -1,0 +1,33 @@
+state = {
+	id = 64
+	name = "STATE_64" # Bretagne
+	manpower = 2470267
+	state_category = state_04
+	resources = {
+		aluminium = 8
+		steel = 5
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 3552 5 }
+		victory_points = { 3552 5 }
+		victory_points = { 6536 1 }
+		victory_points = { 9525 1 }
+		victory_points = { 11508 1 }
+
+		buildings = {
+			infrastructure = 3
+			dockyard = 3
+			industrial_complex = 1
+			air_base = 10
+			radar_station = 1
+		}
+	}
+	
+	provinces = {
+		527 542 3552 6536 6548 6572 9510 9525 11508
+	}
+	
+	local_supplies = 10
+}

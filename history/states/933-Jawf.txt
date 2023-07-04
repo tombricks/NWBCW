@@ -1,0 +1,25 @@
+state = {
+	id = 933
+	name = "STATE_933" # Jawf
+	manpower = 225433
+	state_category = state_00
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 11190 1 }
+
+		buildings = {
+			infrastructure = 1
+			air_base = 1
+			industrial_complex = 1
+		}
+	}
+	
+	provinces = {
+		8101 10815 3467 11190 4974
+	}
+	
+	local_supplies = 10
+}

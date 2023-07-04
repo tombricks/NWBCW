@@ -1,0 +1,28 @@
+state = {
+	id = 618
+	name = "STATE_618" # Okinawa
+	manpower = 1211930
+	state_category = state_02
+	resources = {
+		oil = 3
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 11932 5 }
+
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			air_base = 4
+			anti_air_building = 1
+			radar_station = 3
+		}
+	}
+	
+	provinces = {
+		1123 10124 11932 13281
+	}
+	
+	local_supplies = 10
+}

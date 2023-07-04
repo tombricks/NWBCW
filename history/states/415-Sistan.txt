@@ -1,0 +1,27 @@
+state = {
+	id = 415
+	name = "STATE_415" # Sistan
+	manpower = 2507772
+	state_category = state_04
+	resources = {
+		aluminium = 3.000
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 5064 5 }
+		victory_points = { 4949 1 }
+		victory_points = { 1948 1 }
+		victory_points = { 2017 1 }
+
+		buildings = {
+			infrastructure = 0
+		}
+	}
+	
+	provinces = {
+		1948 2017 2062 2078 2101 4949 5020 5064 6099
+	}
+	
+	local_supplies = 10
+}

@@ -1,0 +1,26 @@
+state = {
+	id = 411
+	name = "STATE_411" # Badakhshan
+	manpower = 4047632
+	state_category = state_05
+	resources = {
+		steel = 1.000
+		tungsten = 1.000
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 12653 1 }
+
+		buildings = {
+			infrastructure = 0
+			air_base = 2
+		}
+	}
+	
+	provinces = {
+		6209 7519 10781 10826 12653 14128 14129
+	}
+	
+	local_supplies = 10
+}

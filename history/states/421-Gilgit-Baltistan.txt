@@ -1,0 +1,24 @@
+state = {
+	id = 421
+	name = "STATE_421" # Gilgit-Baltistan
+	manpower = 1244714
+	state_category = state_02
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 6921 1 }
+		victory_points = { 10821 1 }
+
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	
+	provinces = {
+		10821 6832 6921 14049 14050 14472
+	}
+	
+	local_supplies = 10
+}

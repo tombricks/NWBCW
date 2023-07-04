@@ -1,0 +1,24 @@
+state = {
+	id = 367
+	name = "STATE_367" # Eastern Mali
+	manpower = 3160695
+	state_category = state_04
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 12794 5 }
+		victory_points = { 4927 1 }
+		victory_points = { 9170 1 }
+
+		buildings = {
+		}
+	}
+	
+	provinces = {
+		4927 5045 12794 7501 9170 7554 8116
+	}
+	
+	local_supplies = 10
+}

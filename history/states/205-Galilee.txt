@@ -1,0 +1,30 @@
+state = {
+	id = 205
+	name = "STATE_205" # Galilee
+	manpower = 1524410
+	state_category = state_02
+	resources = {
+		steel = 3
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 1065 5 }
+		victory_points = { 12839 1 }
+
+		buildings = {
+			infrastructure = 3
+			air_base = 5
+			arms_factory = 1
+			fuel_silo = 1
+			radar_station = 2
+			anti_air_building = 4
+		}
+	}
+	
+	provinces = {
+		1065 12839
+	}
+	
+	local_supplies = 10
+}

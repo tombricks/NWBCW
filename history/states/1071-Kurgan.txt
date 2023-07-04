@@ -1,0 +1,29 @@
+state = {
+	id = 1071
+	name = "STATE_1071" # Kurgan
+	manpower = 769998
+	state_category = state_01
+	resources = {
+		steel = 20
+	}
+	
+	history = {
+		owner = SOV
+		add_core_of = SOV
+		set_state_flag = country_russia
+		victory_points = { 1292 5 }
+		victory_points = { 4242 3 }
+
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			air_base = 6
+		}
+	}
+	
+	provinces = {
+		1292 1294 1327 1775 4242 10170 10542 14044 14203 14204
+	}
+	
+	local_supplies = 10
+}

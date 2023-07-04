@@ -1,0 +1,26 @@
+state = {
+	id = 170
+	name = "STATE_170" # Diyala-Wasit
+	manpower = 2226039
+	state_category = state_04
+	resources = {
+		oil = 26
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 7977 1 }
+
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			air_base = 2
+		}
+	}
+	
+	provinces = {
+		78 7977 10793 12855 3240 11208
+	}
+	
+	local_supplies = 10
+}

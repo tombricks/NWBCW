@@ -1,0 +1,25 @@
+state = {
+	id = 191
+	name = "STATE_191" # North Raqqa
+	manpower = 289183
+	state_category = state_01
+	resources = {
+		oil = 1
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 1606 5 }
+
+		buildings = {
+			infrastructure = 1
+			air_base = 1
+		}
+	}
+	
+	provinces = {
+		1606 3127
+	}
+	
+	local_supplies = 10
+}

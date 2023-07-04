@@ -1,0 +1,27 @@
+state = {
+	id = 971
+	name = "STATE_971" # León
+	manpower = 699072
+	state_category = state_02
+	resources = {
+		steel = 33
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 3727 1 }
+		victory_points = { 6867 1 }
+
+		buildings = {
+			infrastructure = 3
+			synthetic_refinery = 1
+			industrial_complex = 1
+		}
+	}
+	
+	provinces = {
+		794 918 3727 3729 3920 6867 6907 9699 11843
+	}
+	
+	local_supplies = 10
+}

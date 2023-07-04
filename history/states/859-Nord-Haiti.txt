@@ -1,0 +1,23 @@
+state = {
+	id = 859
+	name = "STATE_859" # Nord-Haiti
+	manpower = 3061459
+	state_category = state_04
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 1594 3 }
+
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	
+	provinces = {
+		1594
+	}
+	
+	local_supplies = 10
+}

@@ -1,0 +1,26 @@
+state = {
+	id = 291
+	name = "STATE_291" # Masvingo-Manica
+	manpower = 2637794
+	state_category = state_04
+	resources = {
+		steel = 4
+		tungsten = 16
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 11273 4 }
+		victory_points = { 2151 1 }
+
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	
+	provinces = {
+		2151 7842 11205 11273
+	}
+	
+	local_supplies = 10
+}

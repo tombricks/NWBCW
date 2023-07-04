@@ -1,0 +1,32 @@
+state = {
+	id = 838
+	name = "STATE_838" # Veracruz
+	manpower = 5801038
+	state_category = state_07
+	resources = {
+		oil = 26
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 12810 5 }
+		victory_points = { 10889 3 }
+		victory_points = { 8079 3 }
+		victory_points = { 2021 3 }
+		victory_points = { 10732 3 }
+
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 2
+			arms_factory = 3
+			fuel_silo = 1
+			nuclear_reactor = 1
+		}
+	}
+	
+	provinces = {
+		8079 10732 12810 10889 2021
+	}
+	
+	local_supplies = 10
+}

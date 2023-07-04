@@ -1,0 +1,23 @@
+state = {
+	id = 591
+	name = "STATE_591" # Aksai Chin
+	manpower = 1
+	state_category = state_00
+	resources = {
+	}
+	
+	history = {
+		owner = CHI
+		add_core_of = CHI
+
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	
+	provinces = {
+		5042 3144 14126 14127
+	}
+	
+	local_supplies = 10
+}

@@ -1,0 +1,22 @@
+state = {
+	id = 975
+	name = "STATE_975" # Galmudug
+	manpower = 116943
+	state_category = state_01
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 11088 1 }
+
+		buildings = {
+		}
+	}
+	
+	provinces = {
+		11088 12840 13291 13867
+	}
+	
+	local_supplies = 10
+}

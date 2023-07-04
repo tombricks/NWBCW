@@ -1,0 +1,26 @@
+state = {
+	id = 856
+	name = "STATE_856" # Bahamas
+	manpower = 252990
+	state_category = state_00
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 4647 1 }
+		victory_points = { 10254 3 }
+		victory_points = { 1513 1 }
+
+		buildings = {
+			infrastructure = 2
+			air_base = 2
+		}
+	}
+	
+	provinces = {
+		1513 4647 7245 10254 13325
+	}
+	
+	local_supplies = 10
+}

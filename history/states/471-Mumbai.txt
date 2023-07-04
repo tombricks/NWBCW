@@ -1,0 +1,27 @@
+state = {
+	id = 471
+	name = "STATE_471" # Mumbai
+	manpower = 18458184
+	state_category = state_12
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 1349 5 }
+
+		buildings = {
+			infrastructure = 2
+			dockyard = 1
+			industrial_complex = 1
+			air_base = 6
+			anti_air_building = 2
+		}
+	}
+	
+	provinces = {
+		1349 7013
+	}
+	
+	local_supplies = 10
+}

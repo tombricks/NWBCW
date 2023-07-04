@@ -1,0 +1,26 @@
+state = {
+	id = 636
+	name = "STATE_636" # Moluccas
+	manpower = 1352603
+	state_category = state_03
+	resources = {
+		steel = 8
+		rubber = 6
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 1574 5 }
+		victory_points = { 4579 1 }
+
+		buildings = {
+			infrastructure = 0
+		}
+	}
+	
+	provinces = {
+		4579 10409 1574 7557 7369 14187 14188 14189
+	}
+	
+	local_supplies = 10
+}

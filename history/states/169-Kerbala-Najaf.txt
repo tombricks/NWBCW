@@ -1,0 +1,24 @@
+state = {
+	id = 169
+	name = "STATE_169" # Kerbala-Najaf
+	manpower = 1451028
+	state_category = state_03
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 10876 5 }
+		victory_points = { 3221 7 }
+
+		buildings = {
+			infrastructure = 0
+		}
+	}
+	
+	provinces = {
+		10744 10876 3221 11248 14516 14517
+	}
+	
+	local_supplies = 10
+}

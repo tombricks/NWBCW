@@ -1,0 +1,27 @@
+state = {
+	id = 869
+	name = "STATE_869" # Trinidad and Tobago
+	manpower = 1073011
+	state_category = state_02
+	resources = {
+		oil = 10
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 3284 5 }
+		victory_points = { 13012 1 }
+
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			air_base = 3
+		}
+	}
+	
+	provinces = {
+		3284 13012
+	}
+	
+	local_supplies = 10
+}

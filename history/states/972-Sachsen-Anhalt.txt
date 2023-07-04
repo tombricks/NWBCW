@@ -1,0 +1,28 @@
+state = {
+	id = 972
+	name = "STATE_972" # Sachsen-Anhalt
+	manpower = 2223069
+	state_category = state_04
+	resources = {
+		steel = 25
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 3522 1 }
+		victory_points = { 9560 1 }
+
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 3
+			air_base = 6
+		}
+	}
+	
+	provinces = {
+		3522 6487 6582 9456 9560 11359
+	}
+	
+	local_supplies = 10
+}

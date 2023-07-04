@@ -1,0 +1,25 @@
+state = {
+	id = 1012
+	name = "STATE_1012" # Moonsund
+	manpower = 34113
+	state_category = state_00
+	resources = {
+	}
+	
+	history = {
+		owner = SOV
+		add_core_of = SOV
+		set_state_flag = country_estonia
+		victory_points = { 185 1 }
+
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	
+	provinces = {
+		6201 185
+	}
+	
+	local_supplies = 10
+}

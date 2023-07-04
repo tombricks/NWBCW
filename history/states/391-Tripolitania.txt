@@ -1,0 +1,31 @@
+state = {
+	id = 391
+	name = "STATE_391" # Tripolitania
+	manpower = 2576078
+	state_category = state_04
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 1149 10 }
+		victory_points = { 9980 5 }
+		victory_points = { 4051 1 }
+		victory_points = { 7066 1 }
+		victory_points = { 1189 1 }
+		victory_points = { 7209 1 }
+
+		buildings = {
+			infrastructure = 1
+			arms_factory = 1
+			industrial_complex = 1
+			air_base = 6
+		}
+	}
+	
+	provinces = {
+		1118 1149 1189 4051 4117 4176 4194 7066 9980 10067 11940 12009 12039 7209
+	}
+	
+	local_supplies = 10
+}

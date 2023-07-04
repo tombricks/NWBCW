@@ -1,0 +1,23 @@
+state = {
+	id = 1007
+	name = "STATE_1007" # Cayman Islands
+	manpower = 35958
+	state_category = state_00
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 13323 1 }
+
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	
+	provinces = {
+		13323
+	}
+	
+	local_supplies = 10
+}

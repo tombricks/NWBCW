@@ -1,0 +1,27 @@
+state = {
+	id = 967
+	name = "STATE_967" # Saarland
+	manpower = 942909
+	state_category = state_02
+	resources = {
+		steel = 35
+		aluminium = 15
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 9575 1 }
+		victory_points = { 11531 1 }
+
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+		}
+	}
+	
+	provinces = {
+		9575 11531
+	}
+	
+	local_supplies = 10
+}

@@ -1,0 +1,25 @@
+state = {
+	id = 1068
+	name = "STATE_1068" # Jewish Autonomy
+	manpower = 141311
+	state_category = state_00
+	resources = {
+	}
+	
+	history = {
+		owner = SOV
+		add_core_of = SOV
+		set_state_flag = country_russia
+		victory_points = { 7672 3 }
+
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	
+	provinces = {
+		7672 10722 12678
+	}
+	
+	local_supplies = 10
+}

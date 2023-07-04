@@ -1,0 +1,31 @@
+state = {
+	id = 835
+	name = "STATE_835" # Mexico
+	manpower = 24635576
+	state_category = state_14
+	resources = {
+		steel = 20
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 1965 30 }
+		victory_points = { 8089 5 }
+		victory_points = { 11780 5 }
+		victory_points = { 11675 5 }
+		victory_points = { 11737 5 }
+
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 5
+			arms_factory = 1
+			air_base = 6
+		}
+	}
+	
+	provinces = {
+		1965 8089 11675 11737 11780
+	}
+	
+	local_supplies = 10
+}

@@ -1,0 +1,29 @@
+state = {
+	id = 912
+	name = "STATE_912" # Antioquia
+	manpower = 5847527
+	state_category = state_07
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 11591 3 }
+		victory_points = { 11469 10 }
+		victory_points = { 10790 3 }
+		victory_points = { 11538 1 }
+
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			arms_factory = 2
+			air_base = 2
+		}
+	}
+	
+	provinces = {
+		10790 12872 11469 11538 11591 10680
+	}
+	
+	local_supplies = 10
+}

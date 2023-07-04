@@ -1,0 +1,26 @@
+state = {
+	id = 764
+	name = "STATE_764" # Maine
+	manpower = 1083685
+	state_category = state_02
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 3732 3 }
+		victory_points = { 12459 1 }
+
+		buildings = {
+			infrastructure = 3
+			dockyard = 2
+			industrial_complex = 1
+		}
+	}
+	
+	provinces = {
+		3732 6719 7462 12202 12459 10318 1338 1619 1282 12221 10247 4287
+	}
+	
+	local_supplies = 10
+}

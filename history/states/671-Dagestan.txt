@@ -1,0 +1,33 @@
+state = {
+	id = 671
+	name = "STATE_671" # Dagestan
+	manpower = 2597519
+	state_category = state_04
+	resources = {
+		oil = 1.000
+	}
+	
+	history = {
+		owner = SOV
+		add_core_of = SOV
+		set_state_flag = country_russia
+		victory_points = { 3668 5 }
+		victory_points = { 7624 3 }
+		victory_points = { 3682 3 }
+		victory_points = { 6730 1 }
+		victory_points = { 4463 1 }
+		victory_points = { 9645 1 }
+		victory_points = { 6689 1 }
+
+		buildings = {
+			infrastructure = 1
+			air_base = 3
+		}
+	}
+	
+	provinces = {
+		700 712 728 3668 3682 4463 6689 6701 6730 6748 7624 9645
+	}
+	
+	local_supplies = 10
+}

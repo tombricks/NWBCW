@@ -1,0 +1,29 @@
+state = {
+	id = 831
+	name = "STATE_831" # Sinaloa-Durango
+	manpower = 3375916
+	state_category = state_05
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 7921 5 }
+		victory_points = { 8057 5 }
+		victory_points = { 10895 3 }
+		victory_points = { 1945 3 }
+		victory_points = { 8003 1 }
+		victory_points = { 10871 1 }
+
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+		}
+	}
+	
+	provinces = {
+		1945 4946 7921 8003 8057 10853 10871 10895 60 80
+	}
+	
+	local_supplies = 10
+}

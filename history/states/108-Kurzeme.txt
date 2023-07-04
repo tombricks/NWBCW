@@ -1,0 +1,27 @@
+state = {
+	id = 108
+	name = "STATE_108" # Kurzeme
+	manpower = 563363
+	state_category = state_01
+	resources = {
+	}
+	
+	history = {
+		owner = SOV
+		add_core_of = SOV
+		set_state_flag = country_latvia
+		victory_points = { 6222 1 }
+		victory_points = { 9262 1 }
+		victory_points = { 3296 1 }
+
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	
+	provinces = {
+		265 3194 3255 3296 3319 3525 6222 6342 9262 11246 11358
+	}
+	
+	local_supplies = 10
+}

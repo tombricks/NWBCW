@@ -1,0 +1,26 @@
+state = {
+	id = 199
+	name = "STATE_199" # Hadramawt
+	manpower = 1145805
+	state_category = state_02
+	resources = {
+		oil = 4
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 9188 2 }
+		victory_points = { 9154 4 }
+
+		buildings = {
+			infrastructure = 0
+			air_base = 2
+		}
+	}
+	
+	provinces = {
+		1920 4924 9154 9155 9176 9178 9179 9186 9188 9198 9218 9219 14584
+	}
+	
+	local_supplies = 10
+}

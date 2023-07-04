@@ -1,0 +1,24 @@
+state = {
+	id = 1021
+	name = "STATE_1021" # Rondônia
+	manpower = 1172819
+	state_category = state_02
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 12939 5 }
+		victory_points = { 11010 1 }
+
+		buildings = {
+			infrastructure = 0
+		}
+	}
+	
+	provinces = {
+		11010 12939 14089 14090
+	}
+	
+	local_supplies = 10
+}

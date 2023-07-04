@@ -1,0 +1,22 @@
+state = {
+	id = 580
+	name = "STATE_580" # Aouzou Strip
+	manpower = 2106
+	state_category = state_00
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 10893 1 }
+
+		buildings = {
+		}
+	}
+	
+	provinces = {
+		10893 11123 14497
+	}
+	
+	local_supplies = 10
+}

@@ -1,0 +1,25 @@
+state = {
+	id = 85
+	name = "STATE_85" # Malta
+	manpower = 324159
+	state_category = state_01
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 12003 5 }
+
+		buildings = {
+			infrastructure = 3
+			air_base = 3
+			industrial_complex = 1
+		}
+	}
+	
+	provinces = {
+		12003
+	}
+	
+	local_supplies = 10
+}

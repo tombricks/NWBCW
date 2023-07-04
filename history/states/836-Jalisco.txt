@@ -1,0 +1,31 @@
+state = {
+	id = 836
+	name = "STATE_836" # Jalisco
+	manpower = 9732403
+	state_category = state_10
+	resources = {
+		steel = 35
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 11793 10 }
+		victory_points = { 12746 3 }
+		victory_points = { 12755 3 }
+		victory_points = { 10832 1 }
+		victory_points = { 2051 3 }
+		victory_points = { 4887 3 }
+		victory_points = { 5052 1 }
+
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 2
+		}
+	}
+	
+	provinces = {
+		2051 4887 5052 10832 12746 12755 12873 13089 11730 11793 11874
+	}
+	
+	local_supplies = 10
+}

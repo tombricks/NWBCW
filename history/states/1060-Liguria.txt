@@ -1,0 +1,26 @@
+state = {
+	id = 1060
+	name = "STATE_1060" # Liguria
+	manpower = 1349800
+	state_category = state_03
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 6788 5 }
+		victory_points = { 14407 3 }
+		victory_points = { 11891 1 }
+
+		buildings = {
+			infrastructure = 3
+			dockyard = 3
+		}
+	}
+	
+	provinces = {
+		3772 6788 11891 14150 14407 14408
+	}
+	
+	local_supplies = 10
+}

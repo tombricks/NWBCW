@@ -1,0 +1,31 @@
+state = {
+	id = 698
+	name = "STATE_698" # Kyiv
+	manpower = 4083689
+	state_category = state_05
+	resources = {
+		aluminium = 3.000
+	}
+	
+	history = {
+		owner = SOV
+		add_core_of = SOV
+		set_state_flag = country_ukraine
+		victory_points = { 525 10 }
+		victory_points = { 504 3 }
+		victory_points = { 11557 3 }
+
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 1
+			air_base = 6
+		}
+	}
+	
+	provinces = {
+		489 504 525 841 3494 3543 6497 9465 9543 9568 11557
+	}
+	
+	local_supplies = 10
+}

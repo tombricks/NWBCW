@@ -1,0 +1,29 @@
+state = {
+	id = 961
+	name = "STATE_961" # Languedoc-Roussillon
+	manpower = 1972748
+	state_category = state_03
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 9898 5 }
+		victory_points = { 11877 1 }
+		victory_points = { 9853 1 }
+
+		buildings = {
+			infrastructure = 3
+			arms_factory = 2
+			air_base = 2
+			fuel_silo = 1
+			industrial_complex = 1
+		}
+	}
+	
+	provinces = {
+		760 3754 6770 6915 6917 6960 9853 9898 11711 11877
+	}
+	
+	local_supplies = 10
+}

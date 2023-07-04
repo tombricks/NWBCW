@@ -1,0 +1,22 @@
+state = {
+	id = 936
+	name = "STATE_936" # Natuna Islands
+	manpower = 53514
+	state_category = state_00
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+
+		buildings = {
+			air_base = 1
+		}
+	}
+	
+	provinces = {
+		6198 14184
+	}
+	
+	local_supplies = 10
+}

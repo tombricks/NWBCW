@@ -1,0 +1,26 @@
+state = {
+	id = 250
+	name = "STATE_250" # Rwanda
+	manpower = 6883300
+	state_category = state_07
+	resources = {
+		tungsten = 7.000
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 9962 15 }
+		victory_points = { 6542 2 }
+
+		buildings = {
+			infrastructure = 1
+			air_base = 2
+		}
+	}
+	
+	provinces = {
+		4201 9962 6542 13405 13717
+	}
+	
+	local_supplies = 10
+}

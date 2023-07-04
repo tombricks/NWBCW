@@ -1,0 +1,22 @@
+state = {
+	id = 926
+	name = "STATE_926" # Napak
+	manpower = 575
+	state_category = state_00
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+
+		buildings = {
+			infrastructure = 0
+		}
+	}
+	
+	provinces = {
+		9360
+	}
+	
+	local_supplies = 10
+}

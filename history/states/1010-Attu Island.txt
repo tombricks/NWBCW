@@ -1,0 +1,23 @@
+state = {
+	id = 1010
+	name = "STATE_1010" # Attu Island
+	manpower = 17
+	state_category = state_00
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 13067 1 }
+
+		buildings = {
+			infrastructure = 0
+		}
+	}
+	
+	provinces = {
+		13067
+	}
+	
+	local_supplies = 10
+}

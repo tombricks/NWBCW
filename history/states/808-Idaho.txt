@@ -1,0 +1,32 @@
+state = {
+	id = 808
+	name = "STATE_808" # Idaho
+	manpower = 1099860
+	state_category = state_02
+	resources = {
+		tungsten = 1
+		chromium = 14
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 9616 5 }
+		victory_points = { 1789 3 }
+		victory_points = { 12535 3 }
+		victory_points = { 9695 1 }
+		victory_points = { 12124 1 }
+		victory_points = { 4778 1 }
+
+		buildings = {
+			infrastructure = 2
+			air_base = 2
+			industrial_complex = 2
+		}
+	}
+	
+	provinces = {
+		1789 1832 3781 4778 7845 9616 9695 10556 10602 10672 12124 12535 12607
+	}
+	
+	local_supplies = 10
+}

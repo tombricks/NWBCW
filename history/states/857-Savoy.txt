@@ -1,0 +1,24 @@
+state = {
+	id = 857
+	name = "STATE_857" # Savoy
+	manpower = 1521401
+	state_category = state_03
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 11573 1 }
+
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+		}
+	}
+	
+	provinces = {
+		764 778 11573
+	}
+	
+	local_supplies = 10
+}

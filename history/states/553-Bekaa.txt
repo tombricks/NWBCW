@@ -1,0 +1,23 @@
+state = {
+	id = 553
+	name = "STATE_553" # Bekaa
+	manpower = 556118
+	state_category = state_01
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 6206 1 }
+
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	
+	provinces = {
+		6206
+	}
+	
+	local_supplies = 10
+}

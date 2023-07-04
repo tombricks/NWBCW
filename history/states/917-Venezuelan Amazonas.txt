@@ -1,0 +1,23 @@
+state = {
+	id = 917
+	name = "STATE_917" # Venezuelan Amazonas
+	manpower = 121479
+	state_category = state_00
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 5317 1 }
+
+		buildings = {
+			infrastructure = 0
+		}
+	}
+	
+	provinces = {
+		5317 8050 11777 12107 14075
+	}
+	
+	local_supplies = 10
+}

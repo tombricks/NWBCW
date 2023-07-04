@@ -1,0 +1,23 @@
+state = {
+	id = 1099
+	name = "STATE_1099" # Liancourt Rocks
+	manpower = 29
+	state_category = state_00
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 14457 1 }
+
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	
+	provinces = {
+		14457
+	}
+	
+	local_supplies = 10
+}

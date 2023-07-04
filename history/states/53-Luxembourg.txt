@@ -1,0 +1,25 @@
+state = {
+	id = 53
+	name = "STATE_53" # Luxembourg
+	manpower = 370855
+	state_category = state_01
+	resources = {
+		steel = 2
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 6583 1 }
+
+		buildings = {
+			infrastructure = 3
+			air_base = 1
+		}
+	}
+	
+	provinces = {
+		6583
+	}
+	
+	local_supplies = 10
+}

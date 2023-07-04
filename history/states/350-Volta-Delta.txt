@@ -1,0 +1,24 @@
+state = {
+	id = 350
+	name = "STATE_350" # Volta-Delta
+	manpower = 4979942
+	state_category = state_06
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 10836 5 }
+		victory_points = { 2001 1 }
+
+		buildings = {
+			air_base = 2
+		}
+	}
+	
+	provinces = {
+		2001 10836 9828 9872 9916 10406
+	}
+	
+	local_supplies = 10
+}

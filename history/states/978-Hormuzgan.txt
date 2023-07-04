@@ -1,0 +1,30 @@
+state = {
+	id = 978
+	name = "STATE_978" # Hormuzgan
+	manpower = 1160570
+	state_category = state_04
+	resources = {
+		oil = 12
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 7982 5 }
+		victory_points = { 14264 2 }
+
+		buildings = {
+			infrastructure = 1
+			air_base = 3
+			fuel_silo = 1
+			dockyard = 1
+			anti_air_building = 2
+			radar_station = 2
+		}
+	}
+	
+	provinces = {
+		1889 3744 4959 7982 14264 14265 14267 14313 14314
+	}
+	
+	local_supplies = 10
+}

@@ -1,0 +1,26 @@
+state = {
+	id = 212
+	name = "STATE_212" # Aqaba
+	manpower = 319019
+	state_category = state_01
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 4115 2 }
+		victory_points = { 4017 1 }
+		victory_points = { 11976 1 }
+
+		buildings = {
+			infrastructure = 1
+			air_base = 3
+		}
+	}
+	
+	provinces = {
+		4115 4017 11976 4603 4562 4591
+	}
+	
+	local_supplies = 10
+}

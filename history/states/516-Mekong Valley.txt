@@ -1,0 +1,30 @@
+state = {
+	id = 516
+	name = "STATE_516" # Mekong Valley
+	manpower = 1560042
+	state_category = state_03
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 1464 10 }
+		victory_points = { 10496 1 }
+		victory_points = { 1507 1 }
+		victory_points = { 10330 1 }
+		victory_points = { 12332 1 }
+
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			air_base = 2
+			arms_factory = 1
+		}
+	}
+	
+	provinces = {
+		1464 1507 7356 10330 10356 10456 10496 12332 180 181
+	}
+	
+	local_supplies = 10
+}

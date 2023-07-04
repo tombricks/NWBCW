@@ -1,0 +1,27 @@
+state = {
+	id = 894
+	name = "STATE_894" # Northern Uruguay
+	manpower = 588662
+	state_category = state_01
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 12468 3 }
+		victory_points = { 1641 1 }
+		victory_points = { 10502 1 }
+		victory_points = { 1626 1 }
+		victory_points = { 12440 1 }
+
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	
+	provinces = {
+		12440 12468 10502 1613 1654 12481 1641 1626
+	}
+	
+	local_supplies = 10
+}

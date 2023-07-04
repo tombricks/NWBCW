@@ -1,0 +1,32 @@
+state = {
+	id = 6
+	name = "STATE_6" # Jylland
+	manpower = 2027033
+	state_category = state_03
+	resources = {
+		oil = 3
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 6364 5 }
+		victory_points = { 6235 3 }
+		victory_points = { 399 2 }
+		victory_points = { 3341 1 }
+		victory_points = { 3206 1 }
+		victory_points = { 3277 1 }
+		victory_points = { 14539 1 }
+
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			air_base = 2
+		}
+	}
+	
+	provinces = {
+		332 394 399 3206 3277 3341 6235 6364 11251 13293 13935 14538 14539 14540 14541 14543 14583
+	}
+	
+	local_supplies = 10
+}

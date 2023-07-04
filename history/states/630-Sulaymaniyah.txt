@@ -1,0 +1,23 @@
+state = {
+	id = 630
+	name = "STATE_630" # Sulaymaniyah
+	manpower = 1128964
+	state_category = state_02
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 3302 4 }
+
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	
+	provinces = {
+		3300 3302 11284 11340 11443
+	}
+	
+	local_supplies = 10
+}

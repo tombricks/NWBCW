@@ -1,0 +1,23 @@
+state = {
+	id = 946
+	name = "STATE_946" # Monaco
+	manpower = 27325
+	state_category = state_00
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 13288 1 }
+
+		buildings = {
+			infrastructure = 4
+		}
+	}
+	
+	provinces = {
+		13288
+	}
+	
+	local_supplies = 10
+}

@@ -1,0 +1,26 @@
+state = {
+	id = 430
+	name = "STATE_430" # Kinmen
+	manpower = 55938
+	state_category = state_00
+	resources = {
+	}
+	
+	history = {
+		owner = CHI
+		add_core_of = CHI
+		victory_points = { 13275 3 }
+
+		buildings = {
+			infrastructure = 3
+			air_base = 2
+			anti_air_building = 1
+		}
+	}
+	
+	provinces = {
+		13275
+	}
+	
+	local_supplies = 10
+}

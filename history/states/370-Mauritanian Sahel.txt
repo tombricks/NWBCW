@@ -1,0 +1,25 @@
+state = {
+	id = 370
+	name = "STATE_370" # Mauritanian Sahel
+	manpower = 1249394
+	state_category = state_02
+	resources = {
+		tungsten = 6
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 8058 1 }
+		victory_points = { 10771 1 }
+
+		buildings = {
+			infrastructure = 0
+		}
+	}
+	
+	provinces = {
+		5077 8058 10771 6587 6596 6602 6667 6692 6697
+	}
+	
+	local_supplies = 10
+}

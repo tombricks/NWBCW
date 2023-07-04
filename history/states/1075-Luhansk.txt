@@ -1,0 +1,29 @@
+state = {
+	id = 1075
+	name = "STATE_1075" # Luhansk
+	manpower = 1360525
+	state_category = state_03
+	resources = {
+	}
+	
+	history = {
+		owner = SOV
+		add_core_of = SOV
+		set_state_flag = country_ukraine
+		victory_points = { 9461 5 }
+		victory_points = { 6505 1 }
+		victory_points = { 9446 1 }
+
+		buildings = {
+			infrastructure = 3
+			air_base = 2
+			industrial_complex = 1
+		}
+	}
+	
+	provinces = {
+		9446 9461 6505 14536
+	}
+	
+	local_supplies = 10
+}

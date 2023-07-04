@@ -1,0 +1,24 @@
+state = {
+	id = 230
+	name = "STATE_230" # Djibouti
+	manpower = 421961
+	state_category = state_01
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 8124 5 }
+
+		buildings = {
+			infrastructure = 1
+			air_base = 8
+		}
+	}
+	
+	provinces = {
+		8124
+	}
+	
+	local_supplies = 10
+}

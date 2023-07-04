@@ -1,0 +1,24 @@
+state = {
+	id = 330
+	name = "STATE_330" # Tahoua
+	manpower = 3432258
+	state_category = state_05
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 14316 1 }
+		victory_points = { 11303 1 }
+
+		buildings = {
+			air_base = 1
+		}
+	}
+	
+	provinces = {
+		1975 7939 11301 11303 13271 14316
+	}
+	
+	local_supplies = 10
+}

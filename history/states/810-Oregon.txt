@@ -1,0 +1,33 @@
+state = {
+	id = 810
+	name = "STATE_810" # Oregon
+	manpower = 2908189
+	state_category = state_04
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 3513 5 }
+		victory_points = { 12281 3 }
+		victory_points = { 3471 1 }
+		victory_points = { 4328 3 }
+		victory_points = { 1414 1 }
+		victory_points = { 7865 1 }
+		victory_points = { 4347 1 }
+
+		buildings = {
+			infrastructure = 3
+			arms_factory = 2
+			air_base = 4
+			anti_air_building = 1
+			industrial_complex = 2
+		}
+	}
+	
+	provinces = {
+		505 528 1414 3471 3513 4274 4328 4347 4380 4826 7398 7721 7865 10151 10183 10305 10625 11495 11733 12183 12211 12281 12553
+	}
+	
+	local_supplies = 10
+}

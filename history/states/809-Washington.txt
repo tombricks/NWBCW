@@ -1,0 +1,41 @@
+state = {
+	id = 809
+	name = "STATE_809" # Washington
+	manpower = 5010003
+	state_category = state_06
+	resources = {
+		steel = 2
+		aluminium = 3
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 7315 10 }
+		victory_points = { 1690 5 }
+		victory_points = { 10690 3 }
+		victory_points = { 7386 3 }
+		victory_points = { 10157 3 }
+		victory_points = { 10155 3 }
+		victory_points = { 12214 1 }
+		victory_points = { 10271 1 }
+		victory_points = { 10687 1 }
+		victory_points = { 12673 1 }
+		victory_points = { 10327 1 }
+
+		buildings = {
+			infrastructure = 3
+			arms_factory = 4
+			dockyard = 4
+			air_base = 6
+			industrial_complex = 2
+			radar_station = 1
+			nuclear_reactor = 1
+		}
+	}
+	
+	provinces = {
+		1320 1690 4296 4398 4747 7255 7315 7386 7414 7442 10155 10157 10198 10242 10271 10327 10687 10690 10693 12155 12214 12673
+	}
+	
+	local_supplies = 10
+}

@@ -1,0 +1,23 @@
+state = {
+	id = 943
+	name = "STATE_943" # Scarborough Shoal
+	manpower = 1
+	state_category = state_inhospitable
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 1370 2 }
+
+		buildings = {
+			infrastructure = 0
+		}
+	}
+	
+	provinces = {
+		1370
+	}
+	
+	local_supplies = 10
+}

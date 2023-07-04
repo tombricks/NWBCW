@@ -1,0 +1,23 @@
+state = {
+	id = 259
+	name = "STATE_259" # North Malawi
+	manpower = 3193929
+	state_category = state_04
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 11180 5 }
+
+		buildings = {
+			infrastructure = 0
+		}
+	}
+	
+	provinces = {
+		2255 11174 11180
+	}
+	
+	local_supplies = 10
+}

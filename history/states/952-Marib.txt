@@ -1,0 +1,23 @@
+state = {
+	id = 952
+	name = "STATE_952" # Marib
+	manpower = 157250
+	state_category = state_01
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 9203 1 }
+
+		buildings = {
+			infrastructure = 0
+		}
+	}
+	
+	provinces = {
+		9182 14546 9203 9207
+	}
+	
+	local_supplies = 10
+}

@@ -1,0 +1,25 @@
+state = {
+	id = 1090
+	name = "STATE_1090" # Kirovohrad
+	manpower = 936332
+	state_category = state_02
+	resources = {
+	}
+	
+	history = {
+		owner = SOV
+		add_core_of = SOV
+		set_state_flag = country_ukraine
+		victory_points = { 3452 5 }
+
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	
+	provinces = {
+		409 434 3452 6451 6478 11409 14450
+	}
+	
+	local_supplies = 10
+}

@@ -1,0 +1,24 @@
+state = {
+	id = 282
+	name = "STATE_282" # Namib-Kalahari
+	manpower = 478428
+	state_category = state_01
+	resources = {
+		steel = 3
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 12519 1 }
+
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	
+	provinces = {
+		2207 2229 7770 11540 11644 10963 12519 11681
+	}
+	
+	local_supplies = 10
+}

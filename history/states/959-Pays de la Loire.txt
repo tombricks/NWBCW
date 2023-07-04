@@ -1,0 +1,30 @@
+state = {
+	id = 959
+	name = "STATE_959" # Pays de la Loire
+	manpower = 2761650
+	state_category = state_04
+	resources = {
+		steel = 20
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 11465 5 }
+		victory_points = { 9478 1 }
+		victory_points = { 3509 1 }
+
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			dockyard = 1
+			air_base = 2
+			industrial_complex = 1
+		}
+	}
+	
+	provinces = {
+		292 503 3495 3509 3523 9478 9631 11465 11613 11616
+	}
+	
+	local_supplies = 10
+}

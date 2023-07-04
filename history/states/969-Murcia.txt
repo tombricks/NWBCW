@@ -1,0 +1,27 @@
+state = {
+	id = 969
+	name = "STATE_969" # Murcia
+	manpower = 1017999
+	state_category = state_02
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 10024 5 }
+		victory_points = { 13922 5 }
+
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 3
+			fuel_silo = 1
+			air_base = 3
+		}
+	}
+	
+	provinces = {
+		7111 10024 10109 13921 13922 14159 14162 14163 14164
+	}
+	
+	local_supplies = 10
+}

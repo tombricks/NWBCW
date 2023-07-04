@@ -1,0 +1,24 @@
+state = {
+	id = 1018
+	name = "STATE_1018" # Czech Silesia
+	manpower = 900108
+	state_category = state_02
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 3414 4 }
+
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+		}
+	}
+	
+	provinces = {
+		6485 3414 9567
+	}
+	
+	local_supplies = 10
+}

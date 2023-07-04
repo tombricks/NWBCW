@@ -1,0 +1,25 @@
+state = {
+	id = 226
+	name = "STATE_226" # Bahr el Ghazal
+	manpower = 1320188
+	state_category = state_03
+	resources = {
+		oil = 1
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 11917 1 }
+		victory_points = { 13250 1 }
+
+		buildings = {
+			infrastructure = 0
+		}
+	}
+	
+	provinces = {
+		10857 11917 12013 12270 12626 13250 13260
+	}
+	
+	local_supplies = 10
+}

@@ -1,0 +1,27 @@
+state = {
+	id = 523
+	name = "STATE_523" # Northern Vietnam
+	manpower = 5167449
+	state_category = state_06
+	resources = {
+		steel = 7
+		tungsten = 5
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 1157 5 }
+		victory_points = { 1073 5 }
+		victory_points = { 9948 1 }
+
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	
+	provinces = {
+		1157 7093 9948 7015 12065 7518 1073
+	}
+	
+	local_supplies = 10
+}

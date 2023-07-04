@@ -1,0 +1,26 @@
+state = {
+	id = 294
+	name = "STATE_294" # Eastern Zambia
+	manpower = 2751952
+	state_category = state_04
+	resources = {
+		tungsten = 4
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 9650 1 }
+		victory_points = { 9739 1 }
+		victory_points = { 11048 1 }
+
+		buildings = {
+			infrastructure = 0
+		}
+	}
+	
+	provinces = {
+		1846 5221 10594 10930 9650 9707 9739 11048
+	}
+	
+	local_supplies = 10
+}

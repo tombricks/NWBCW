@@ -1,0 +1,29 @@
+state = {
+	id = 973
+	name = "STATE_973" # Cornwall
+	manpower = 2682522
+	state_category = state_04
+	resources = {
+		aluminium = 18.000
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 540 5 }
+		victory_points = { 3463 1 }
+
+		buildings = {
+			infrastructure = 3
+			arms_factory = 2
+			industrial_complex = 3
+			air_base = 10
+			radar_station = 2
+		}
+	}
+	
+	provinces = {
+		540 3463 6526 11406 13261
+	}
+	
+	local_supplies = 10
+}

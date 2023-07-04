@@ -1,0 +1,27 @@
+state = {
+	id = 862
+	name = "STATE_862" # El Ciabo
+	manpower = 2284826
+	state_category = state_04
+	resources = {
+		steel = 1
+		tungsten = 2
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 4598 5 }
+		victory_points = { 10484 3 }
+
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+		}
+	}
+	
+	provinces = {
+		4598 10484
+	}
+	
+	local_supplies = 10
+}

@@ -1,0 +1,22 @@
+state = {
+	id = 1104
+	name = "STATE_1104" # Ramlat Dahm
+	manpower = 219762
+	state_category = state_inhospitable
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+
+		buildings = {
+			infrastructure = 0
+		}
+	}
+	
+	provinces = {
+		9215
+	}
+	
+	local_supplies = 10
+}

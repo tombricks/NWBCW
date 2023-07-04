@@ -1,0 +1,24 @@
+state = {
+	id = 1028
+	name = "STATE_1028" # Paraíba
+	manpower = 2927251
+	state_category = state_04
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 2227 5 }
+		victory_points = { 7561 1 }
+
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	
+	provinces = {
+		1446 2227 7561
+	}
+	
+	local_supplies = 10
+}

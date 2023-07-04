@@ -1,0 +1,27 @@
+state = {
+	id = 364
+	name = "STATE_364" # Senegal-Central
+	manpower = 5708946
+	state_category = state_06
+	resources = {
+		steel = 12
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 4948 10 }
+		victory_points = { 7972 4 }
+
+		buildings = {
+			infrastructure = 1
+			air_base = 4
+			industrial_complex = 1
+		}
+	}
+	
+	provinces = {
+		4948 7972 6771
+	}
+	
+	local_supplies = 10
+}

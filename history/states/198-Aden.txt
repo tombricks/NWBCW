@@ -1,0 +1,28 @@
+state = {
+	id = 198
+	name = "STATE_198" # Aden
+	manpower = 1870993
+	state_category = state_03
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 9138 10 }
+		victory_points = { 9139 1 }
+		victory_points = { 14475 3 }
+		victory_points = { 14560 1 }
+
+		buildings = {
+			infrastructure = 1
+			air_base = 4
+			industrial_complex = 1
+		}
+	}
+	
+	provinces = {
+		5074 9138 9139 14474 14475 14554 14555 14556 14557 14560
+	}
+	
+	local_supplies = 10
+}

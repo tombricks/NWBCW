@@ -1,0 +1,28 @@
+state = {
+	id = 1067
+	name = "STATE_1067" # Omsk
+	manpower = 1662811
+	state_category = state_03
+	resources = {
+	}
+	
+	history = {
+		owner = SOV
+		add_core_of = SOV
+		set_state_flag = country_russia
+		victory_points = { 10696 5 }
+		victory_points = { 4700 1 }
+		victory_points = { 10568 1 }
+
+		buildings = {
+			infrastructure = 2
+			air_base = 2
+		}
+	}
+	
+	provinces = {
+		1709 1800 1835 4700 7681 7800 10568 10600 10626 10696 12546 12580 12652 14043 14168
+	}
+	
+	local_supplies = 10
+}

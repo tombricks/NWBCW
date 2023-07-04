@@ -1,0 +1,28 @@
+state = {
+	id = 113
+	name = "STATE_113" # Pomerelia
+	manpower = 1966734
+	state_category = state_03
+	resources = {
+		steel = 23
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 362 5 }
+		victory_points = { 14485 3 }
+		victory_points = { 14486 1 }
+
+		buildings = {
+			infrastructure = 2
+			dockyard = 1
+			air_base = 3
+		}
+	}
+	
+	provinces = {
+		362 389 3380 9263 11288 11316 676 14145 14485 14486 14487
+	}
+	
+	local_supplies = 10
+}

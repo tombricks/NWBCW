@@ -1,0 +1,24 @@
+state = {
+	id = 484
+	name = "STATE_484" # Bhutan
+	manpower = 270892
+	state_category = state_01
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 8010 1 }
+
+		buildings = {
+			infrastructure = 1
+			air_base = 1
+		}
+	}
+	
+	provinces = {
+		8010
+	}
+	
+	local_supplies = 10
+}

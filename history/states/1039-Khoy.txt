@@ -1,0 +1,23 @@
+state = {
+	id = 1039
+	name = "STATE_1039" # Khoy
+	manpower = 350200
+	state_category = state_01
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 1636 1 }
+
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	
+	provinces = {
+		1636 4618 6070
+	}
+	
+	local_supplies = 10
+}

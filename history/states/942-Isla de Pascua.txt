@@ -1,0 +1,23 @@
+state = {
+	id = 942
+	name = "STATE_942" # Isla de Pascua
+	manpower = 2664
+	state_category = state_00
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 13286 1 }
+
+		buildings = {
+			infrastructure = 0
+		}
+	}
+	
+	provinces = {
+		13286
+	}
+	
+	local_supplies = 10
+}

@@ -1,0 +1,26 @@
+state = {
+	id = 740
+	name = "STATE_740" # Palawan
+	manpower = 706791
+	state_category = state_02
+	resources = {
+		oil = 3
+		rubber = 8
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 4429 3 }
+
+		buildings = {
+			infrastructure = 1
+			air_base = 2
+		}
+	}
+	
+	provinces = {
+		7419 4429 10145 14180
+	}
+	
+	local_supplies = 10
+}

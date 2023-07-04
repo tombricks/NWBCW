@@ -1,0 +1,23 @@
+state = {
+	id = 1084
+	name = "STATE_1084" # Rhode Island
+	manpower = 891071
+	state_category = state_02
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 14053 5 }
+
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	
+	provinces = {
+		14052 14053 14054
+	}
+	
+	local_supplies = 10
+}

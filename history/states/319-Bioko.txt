@@ -1,0 +1,25 @@
+state = {
+	id = 319
+	name = "STATE_319" # Bioko
+	manpower = 125480
+	state_category = state_00
+	resources = {
+		oil = 5
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 1903 5 }
+
+		buildings = {
+			infrastructure = 2
+			air_base = 2
+		}
+	}
+	
+	provinces = {
+		1903
+	}
+	
+	local_supplies = 10
+}

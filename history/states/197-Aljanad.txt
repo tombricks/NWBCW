@@ -1,0 +1,24 @@
+state = {
+	id = 197
+	name = "STATE_197" # Janad
+	manpower = 5166765
+	state_category = state_07
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 10752 5 }
+		victory_points = { 9150 5 }
+
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	
+	provinces = {
+		10752 9150 14561 14562 14563 14564 14565 14566 14567 14568 14569 14570 14571
+	}
+	
+	local_supplies = 10
+}

@@ -1,0 +1,22 @@
+state = {
+	id = 965
+	name = "STATE_965" # Eupen-Malmedy
+	manpower = 232123
+	state_category = state_00
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	
+	provinces = {
+		3488
+	}
+	
+	local_supplies = 10
+}

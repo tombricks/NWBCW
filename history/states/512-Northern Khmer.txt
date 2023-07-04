@@ -1,0 +1,26 @@
+state = {
+	id = 512
+	name = "STATE_512" # Northern Khmer
+	manpower = 2087740
+	state_category = state_03
+	resources = {
+		rubber = 8
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 4302 5 }
+		victory_points = { 4251 1 }
+
+		buildings = {
+			infrastructure = 0
+			air_base = 1
+		}
+	}
+	
+	provinces = {
+		1324 4251 4302 10467 12460 172
+	}
+	
+	local_supplies = 10
+}

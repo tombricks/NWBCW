@@ -1,0 +1,27 @@
+state = {
+	id = 401
+	name = "STATE_401" # Sistan and Baluchestan
+	manpower = 1996692
+	state_category = state_02
+	resources = {
+		tungsten = 2.000
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 12895 5 }
+		victory_points = { 13082 1 }
+		victory_points = { 4891 1 }
+		victory_points = { 10782 1 }
+
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	
+	provinces = {
+		2039 2070 3879 4891 10782 12895 13082 14262
+	}
+	
+	local_supplies = 10
+}

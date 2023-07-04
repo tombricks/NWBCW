@@ -1,0 +1,22 @@
+state = {
+	id = 441
+	name = "STATE_441" # St Pierre and Miquelon
+	manpower = 4729
+	state_category = state_00
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	
+	provinces = {
+		373
+	}
+	
+	local_supplies = 10
+}

@@ -1,0 +1,27 @@
+state = {
+	id = 392
+	name = "STATE_392" # Al Jufrah
+	manpower = 192034
+	state_category = state_00
+	resources = {
+		oil = 13
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 12866 1 }
+		victory_points = { 6295 1 }
+		victory_points = { 12866 1 }
+
+		buildings = {
+			infrastructure = 0
+			air_base = 1
+		}
+	}
+	
+	provinces = {
+		7985 9118 9119 9123 12082 12866 6295 6311 14505
+	}
+	
+	local_supplies = 10
+}

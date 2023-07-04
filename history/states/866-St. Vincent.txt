@@ -1,0 +1,24 @@
+state = {
+	id = 866
+	name = "STATE_866" # St. Vincent
+	manpower = 90315
+	state_category = state_00
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 379 1 }
+
+		buildings = {
+			infrastructure = 2
+			air_base = 1
+		}
+	}
+	
+	provinces = {
+		379
+	}
+	
+	local_supplies = 10
+}

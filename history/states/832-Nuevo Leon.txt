@@ -1,0 +1,31 @@
+state = {
+	id = 832
+	name = "STATE_832" # Nuevo Leon
+	manpower = 6242796
+	state_category = state_08
+	resources = {
+		oil = 20
+		steel = 11
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 86 10 }
+		victory_points = { 10769 5 }
+		victory_points = { 5015 3 }
+		victory_points = { 5021 3 }
+		victory_points = { 12721 1 }
+		victory_points = { 2060 1 }
+
+		buildings = {
+			infrastructure = 3
+			air_base = 2
+		}
+	}
+	
+	provinces = {
+		2060 5015 5021 10769 12721 13088 86
+	}
+	
+	local_supplies = 10
+}

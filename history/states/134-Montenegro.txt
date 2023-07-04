@@ -1,0 +1,26 @@
+state = {
+	id = 134
+	name = "STATE_134" # Montenegro
+	manpower = 560652
+	state_category = state_01
+	resources = {
+		aluminium = 2
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 9809 5 }
+		victory_points = { 11858 1 }
+
+		buildings = {
+			infrastructure = 2
+			air_base = 1
+		}
+	}
+	
+	provinces = {
+		3922 6913 9809 9821 11858
+	}
+	
+	local_supplies = 10
+}

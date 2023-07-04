@@ -1,0 +1,23 @@
+state = {
+	id = 924
+	name = "STATE_924" # Jonglei
+	manpower = 1966363
+	state_category = state_03
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 11034 1 }
+
+		buildings = {
+			infrastructure = 0
+		}
+	}
+	
+	provinces = {
+		10200 10877 10908 11030 11032 11034 11041 12359 12454 12800 13209 13259
+	}
+	
+	local_supplies = 10
+}

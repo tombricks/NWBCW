@@ -1,0 +1,28 @@
+state = {
+	id = 315
+	name = "STATE_315" # Brazzaville
+	manpower = 2149361
+	state_category = state_04
+	resources = {
+		oil = 7
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 8193 10 }
+		victory_points = { 12975 5 }
+		victory_points = { 13738 1 }
+
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			air_base = 3
+		}
+	}
+	
+	provinces = {
+		8193 12975 3318 3327 3332 3340 13737 13738 13739 13740 13741 13742 13743
+	}
+	
+	local_supplies = 10
+}

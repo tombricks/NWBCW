@@ -1,0 +1,32 @@
+state = {
+	id = 787
+	name = "STATE_787" # North Dakota
+	manpower = 545870
+	state_category = state_01
+	resources = {
+		oil = 39
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 1836 3 }
+		victory_points = { 10685 3 }
+		victory_points = { 3719 3 }
+		victory_points = { 10709 1 }
+		victory_points = { 6722 1 }
+		victory_points = { 4772 1 }
+
+		buildings = {
+			infrastructure = 3
+			air_base = 2
+			industrial_complex = 1
+			synthetic_refinery = 1
+		}
+	}
+	
+	provinces = {
+		1752 1836 1870 3719 4759 4772 6722 7877 10685 10709 12566 12685
+	}
+	
+	local_supplies = 10
+}

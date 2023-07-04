@@ -1,5 +1,5 @@
 subideologies = [
-    [ "Leader", "Leader" ]
+    [ "President", "President" ]
 ]
 
 # Scripted Loc

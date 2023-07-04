@@ -1,0 +1,32 @@
+state = {
+	id = 1066
+	name = "STATE_1066" # Kemerovo
+	manpower = 2347120
+	state_category = state_04
+	resources = {
+		steel = 35
+	}
+	
+	history = {
+		owner = SOV
+		add_core_of = SOV
+		set_state_flag = country_russia
+		victory_points = { 7757 5 }
+		victory_points = { 1369 5 }
+		victory_points = { 4665 3 }
+		victory_points = { 1685 3 }
+		victory_points = { 4789 3 }
+		victory_points = { 4793 1 }
+
+		buildings = {
+			infrastructure = 2
+			air_base = 2
+		}
+	}
+	
+	provinces = {
+		1369 1685 4665 4789 4793 7757 7822 12631 14110
+	}
+	
+	local_supplies = 10
+}

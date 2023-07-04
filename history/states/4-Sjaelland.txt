@@ -1,0 +1,28 @@
+state = {
+	id = 4
+	name = "STATE_4" # Sjælland
+	manpower = 2009730
+	state_category = state_03
+	resources = {
+	}
+	
+	history = {
+		owner = ZZZ
+		victory_points = { 6287 15 }
+		victory_points = { 6393 3 }
+		victory_points = { 3305 1 }
+
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 2
+			air_base = 6
+		}
+	}
+	
+	provinces = {
+		3260 3305 6287 6393
+	}
+	
+	local_supplies = 10
+}
