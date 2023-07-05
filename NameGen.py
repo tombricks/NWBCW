@@ -7,6 +7,14 @@ tags = {
 	"POL": { "name": "Poland", "def": "Poland", "adj": "Polish" },
 	# CountryGen-Entry
 }
+with open("localisation/english/state_names_l_english.yml", 'r', encoding='utf8') as file:
+    for line in file.readlines():
+        if "STATE_" in line:
+            line = line.strip()
+            state_id = line[0:line.index(":")]
+            name = line[line.index("\"")+1:-1]
+            tags[state_id] = { "name": name, "def": name, "adj": name }
+
 templates = {
     "peoples_republic_of": { "name": "People's Republic of $$NAME$$", "def": "the People's Republic of $$DEF$$" },
     "soviet_socialist_republic": { "name": "$$ADJ$$ Soviet Socialist Republic", "def": "the $$ADJ$$ Soviet Socialist Republic" },
@@ -14,6 +22,8 @@ templates = {
     "peoples_republic": { "name": "$$ADJ$$ People's Republic", "def": "the $$ADJ$$ People's Republic" },
     "republic": { "name": "$$ADJ$$ Republic", "def": "the $$ADJ$$ Republic" },
     "peoples_socialist_republic_of": { "name": "People's Socialist Republic of $$DEF$$", "def": "the People's Socialist Republic of $$DEF$$" },
+    "revolutionary_commune": { "name": "$$NAME$$ Revolutionary Commune", "def": "$$DEF$$ Revolutionary Commune" },
+    "peoples_commune": { "name": "$$NAME$$ People's Commune", "def": "$$DEF$$ People's Commune" },
 }
 def setter(tag, template):
     return template.replace("$$NAME$$", tag["name"]).replace("$$DEF$$", tag["def"]).replace("$$ADJ$$", tag["adj"])
