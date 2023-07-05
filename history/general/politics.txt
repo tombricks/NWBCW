@@ -4,7 +4,7 @@ add_to_array = { global.subideology_traits = token:SUBIDEOLOGY_Socialism }
 add_to_array = { global.subideology_traits = token:SUBIDEOLOGY_Marxism }
 add_to_array = { global.subideology_traits = token:SUBIDEOLOGY_Leninism }
 add_to_array = { global.subideology_traits = token:SUBIDEOLOGY_Hoxhaism }
-add_to_array = { global.subideology_traits = token:TITLE_Communism }
+add_to_array = { global.subideology_traits = token:SUBIDEOLOGY_Communism }
 # Script-SubideologyArray
 
 add_to_array = { global.title_traits = token:TITLE_General_Secretary }

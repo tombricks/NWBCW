@@ -1,4 +1,4 @@
-capital = 608
+capital = 547
 
 set_variable = { country_name = token:dyn_peoples_republic_of }
 recruit_character = CHI_Deng_Liqun
@@ -12,6 +12,8 @@ set_politics = {
 	election_frequency = 60
 	elections_allowed = no
 }
+set_variable = { title = token:TITLE_General_Secretary }
+set_variable = { subideology = token:SUBIDEOLOGY_Mao_Zedong_Thought }
 
 create_faction = CHI_Bloc
 add_to_faction = CHI

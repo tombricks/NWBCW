@@ -12,6 +12,8 @@ set_politics = {
     election_frequency = 60
     elections_allowed = no
 }
+set_variable = { title = token:TITLE_General_Secretary }
+set_variable = { subideology = token:SUBIDEOLOGY_Marxism_Leninism }
 
 GER_Erich_Honecker = {
 	set_variable = { Portrait_Code = 0 }

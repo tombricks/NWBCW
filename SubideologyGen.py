@@ -9,10 +9,10 @@ with open("common/scripted_localisation/politics_scripted_localisation.txt", 'r'
 
 with open("common/scripted_localisation/politics_scripted_localisation.txt", 'w', encoding='utf8') as file:
     for subideology in subideologies:
-        politics_scripted_localisation = politics_scripted_localisation.replace("# Script-GetSubideologyN", f"text = {{ trigger = {{ has_country_leader_with_trait = SUBIDEOLOGY_{subideology[0]} }} localization_key = SUBIDEOLOGY_{subideology[0]} }}\n\t# Script-GetSubideologyN")
-        politics_scripted_localisation = politics_scripted_localisation.replace("# Script-GetSubideologyAdj", f"text = {{ trigger = {{ has_country_leader_with_trait = SUBIDEOLOGY_{subideology[0]} }} localization_key = SUBIDEOLOGY_{subideology[0]}_ADJ }}\n\t# Script-GetSubideologyAdj")
-        politics_scripted_localisation = politics_scripted_localisation.replace("# Script-GetSubideologyDesc", f"text = {{ trigger = {{ has_country_leader_with_trait = SUBIDEOLOGY_{subideology[0]} }} localization_key = SUBIDEOLOGY_{subideology[0]}_desc }}\n\t# Script-GetSubideologyDesc")
-        politics_scripted_localisation = politics_scripted_localisation.replace("# Script-GetSubideologyIcon", f"text = {{ trigger = {{ has_country_leader_with_trait = SUBIDEOLOGY_{subideology[0]} }} localization_key = GFX_SUBIDEOLOGY_{subideology[0]} }}\n\t# Script-GetSubideologyIcon")
+        politics_scripted_localisation = politics_scripted_localisation.replace("# Script-GetSubideologyN", f"text = {{ trigger = {{ check_variable = {{ subideology = token:SUBIDEOLOGY_{subideology[0]} }} }} localization_key = SUBIDEOLOGY_{subideology[0]} }}\n\t# Script-GetSubideologyN")
+        politics_scripted_localisation = politics_scripted_localisation.replace("# Script-GetSubideologyAdj", f"text = {{ trigger = {{ check_variable = {{ subideology = token:SUBIDEOLOGY_{subideology[0]} }} }} localization_key = SUBIDEOLOGY_{subideology[0]}_ADJ }}\n\t# Script-GetSubideologyAdj")
+        politics_scripted_localisation = politics_scripted_localisation.replace("# Script-GetSubideologyDesc", f"text = {{ trigger = {{ check_variable = {{ subideology = token:SUBIDEOLOGY_{subideology[0]} }} }} localization_key = SUBIDEOLOGY_{subideology[0]}_desc }}\n\t# Script-GetSubideologyDesc")
+        politics_scripted_localisation = politics_scripted_localisation.replace("# Script-GetSubideologyIcon", f"text = {{ trigger = {{ check_variable = {{ subideology = token:SUBIDEOLOGY_{subideology[0]} }} }} localization_key = GFX_SUBIDEOLOGY_{subideology[0]} }}\n\t# Script-GetSubideologyIcon")
     file.write(politics_scripted_localisation)
 
 # Traits
@@ -32,7 +32,7 @@ with open("history/general/politics.txt", 'r', encoding='utf8') as file:
 
 with open("history/general/politics.txt", 'w', encoding='utf8') as file:
     for subideology in subideologies:
-        politics_history = politics_history.replace("# Script-SubideologyArray", f"add_to_array = {{ global.subideology_traits = token:TITLE_{subideology[0]} }}\n# Script-SubideologyArray")
+        politics_history = politics_history.replace("# Script-SubideologyArray", f"add_to_array = {{ global.subideology_traits = token:SUBIDEOLOGY_{subideology[0]} }}\n# Script-SubideologyArray")
     file.write(politics_history)
 
 # Localisation

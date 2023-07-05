@@ -1,36 +1,8 @@
 remove_subideology = {
-	for_each_loop = {
-		array = global.subideology_traits
-		value = v
-		meta_effect = {
-			text = {
-				if = {
-					limit = {
-						has_country_leader_with_trait = [TRAIT]
-					}
-					remove_country_leader_trait = [TRAIT]
-				}
-			}
-			TRAIT = "[?v.GetTokenKey]"
-		}
-	}
+	clear_variable = subideology
 }
 remove_title = {
-	for_each_loop = {
-		array = global.title_traits
-		value = v
-		meta_effect = {
-			text = {
-				if = {
-					limit = {
-						has_country_leader_with_trait = [TRAIT]
-					}
-					remove_country_leader_trait = [TRAIT]
-				}
-			}
-			TRAIT = "[?v.GetTokenKey]"
-		}
-	}
+	clear_variable = title
 }
 set_all_long_names = {
 	every_country = {

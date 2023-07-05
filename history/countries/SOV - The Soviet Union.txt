@@ -1,4 +1,4 @@
-capital = 219
+capital = 652
 
 recruit_character = SOV_Grigory_Romanov
 
@@ -11,6 +11,8 @@ set_politics = {
 	election_frequency = 60
 	elections_allowed = no
 }
+set_variable = { title = token:TITLE_First_Secretary }
+set_variable = { subideology = token:SUBIDEOLOGY_Marxism_Leninism }
 
 create_faction = SOV_Bloc
 add_to_faction = SOV

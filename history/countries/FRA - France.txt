@@ -12,6 +12,8 @@ set_politics = {
     election_frequency = 60
     elections_allowed = no
 }
+set_variable = { title = token:TITLE_General_Secretary }
+set_variable = { subideology = token:SUBIDEOLOGY_Communism }
 
 FRA_Pierre_Juquin = {
 	set_variable = { Portrait_Code = 0 }

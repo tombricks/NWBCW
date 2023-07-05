@@ -87,22 +87,10 @@ scripted_gui = {
 
 		triggers = {
 			select_button_click_enabled = {
-				set_temp_variable = { d = v }
-				meta_trigger = {
-					text = {
-						NOT = { has_country_leader_with_trait = [TRAIT] }
-					}
-					TRAIT = "[?d.GetTokenKey]"
-				}
+				NOT = { check_variable = { subideology = v } }
 			}
 			select_title_button_click_enabled = {
-				set_temp_variable = { d = v }
-				meta_trigger = {
-					text = {
-						NOT = { has_country_leader_with_trait = [TRAIT] }
-					}
-					TRAIT = "[?d.GetTokenKey]"
-				}
+				NOT = { check_variable = { title = v } }
 			}
 			select_name_button_visible = {
 				set_temp_variable = { d = v }
@@ -116,24 +104,12 @@ scripted_gui = {
 		
 		effects = {
 			select_button_click = {
-				set_temp_variable = { d = v }
 				remove_subideology = yes
-				meta_effect = {
-					text = {
-						add_country_leader_trait = [TRAIT]
-					}
-					TRAIT = "[?d.GetTokenKey]"
-				}
+				set_variable = { subideology = v }
 			}
 			select_title_button_click = {
-				set_temp_variable = { d = v }
 				remove_title = yes
-				meta_effect = {
-					text = {
-						add_country_leader_trait = [TRAIT]
-					}
-					TRAIT = "[?d.GetTokenKey]"
-				}
+				set_variable = { title = v }
 			}
 			select_name_button_click = {
 				set_temp_variable = { d = v }

@@ -9,7 +9,7 @@ with open("common/scripted_localisation/politics_scripted_localisation.txt", 'r'
 
 with open("common/scripted_localisation/politics_scripted_localisation.txt", 'w', encoding='utf8') as file:
     for subideology in subideologies:
-        politics_scripted_localisation = politics_scripted_localisation.replace("# Script-GetTitle", f"text = {{ trigger = {{ has_country_leader_with_trait = TITLE_{subideology[0]} }} localization_key = TITLE_{subideology[0]} }}\n\t# Script-GetTitle")
+        politics_scripted_localisation = politics_scripted_localisation.replace("# Script-GetTitle", f"text = {{ trigger = {{ check_variable = {{ title = token:TITLE_{subideology[0]} }} }} localization_key = TITLE_{subideology[0]} }}\n\t# Script-GetTitle")
     file.write(politics_scripted_localisation)
 
 # Traits

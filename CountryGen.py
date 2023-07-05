@@ -83,6 +83,8 @@ set_politics = {{
     election_frequency = 60
     elections_allowed = no
 }}
+set_variable = {{ subideology = token:SUBIDEOLOGY_{country["subideology"]} }}
+set_variable = {{ title = token:TITLE_{country["title"]} }}
 
 {country["leader_id"]} = {{
 	set_variable = {{ Portrait_Code = 0 }}
@@ -102,7 +104,7 @@ set_politics = {{
         }}
         country_leader = {{
             ideology = {country["ideology"]}_type
-            traits = {{ TITLE_{country["title"]} SUBIDEOLOGY_{country["subideology"]} }}
+            traits = {{ }}
             expire = "2020.1.1"
         }}
     }}

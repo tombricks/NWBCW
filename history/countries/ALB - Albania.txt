@@ -1,4 +1,4 @@
-capital = 44
+capital = 137
 
 set_variable = { country_name = token:dyn_peoples_socialist_republic_of }
 recruit_character = ALB_Nexhmije_Hoxha
@@ -12,6 +12,8 @@ set_politics = {
 	election_frequency = 60
 	elections_allowed = no
 }
+set_variable = { title = token:TITLE_First_Secretary }
+set_variable = { subideology = token:SUBIDEOLOGY_Hoxhaism }
 
 ALB_Nexhmije_Hoxha = {
 	set_variable = { Portrait_Code = 0 }

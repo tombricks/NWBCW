@@ -8,7 +8,7 @@ characters = {
 		}
 		country_leader = {
 			ideology = Pro_China_type
-			traits = { TITLE_First_Secretary SUBIDEOLOGY_Hoxhaism }
+			traits = { }
 			expire = "2020.1.1"
 		}
 	}

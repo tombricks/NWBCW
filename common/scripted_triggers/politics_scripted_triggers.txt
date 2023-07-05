@@ -1,27 +1,7 @@
 has_subideology = {
-	any_of = {
-		array = global.subideology_traits
-		value = v
-		meta_trigger = {
-			text = {
-				has_country_leader_with_trait = [TRAIT]
-			}
-			TRAIT = "[?v.GetTokenKey]"
-			debug = yes
-		}
-	}
+	has_variable = subideology
 }
 
 has_title = {
-	any_of = {
-		array = global.title_traits
-		value = v
-		meta_trigger = {
-			text = {
-				has_country_leader_with_trait = [TRAIT]
-			}
-			TRAIT = "[?v.GetTokenKey]"
-			debug = yes
-		}
-	}
+	has_variable = title
 }

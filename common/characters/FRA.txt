@@ -8,7 +8,7 @@ characters = {
         }
         country_leader = {
             ideology = Non_Aligned_type
-            traits = { TITLE_General_Secretary SUBIDEOLOGY_Communism }
+            traits = { }
             expire = "2020.1.1"
         }
     }

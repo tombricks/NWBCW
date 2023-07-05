@@ -9,12 +9,7 @@ debug_decisions = {
 		}
 		complete_effect = {
 			remove_subideology = yes
-			meta_effect = {
-				text = {
-					add_country_leader_trait = [TRAIT]
-				}
-				TRAIT = "[?global.subideology_traits^FROM.index_id.GetTokenKey]"
-			}
+			set_variable = { subideology = FROM.index_id }
 		}
 	}
 	title_targeted_decision = {
@@ -27,12 +22,7 @@ debug_decisions = {
 		}
 		complete_effect = {
 			remove_title = yes
-			meta_effect = {
-				text = {
-					add_country_leader_trait = [TRAIT]
-				}
-				TRAIT = "[?global.title_traits^FROM.index_id.GetTokenKey]"
-			}
+			set_variable = { title = FROM.index_id }
 		}
 	}
 	name_targeted_decision = {
