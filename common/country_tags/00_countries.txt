@@ -2,4 +2,6 @@ ZZZ	= "countries/Eastern_European.txt"
 SOV = "countries/Eastern_European.txt"
 CHI = "countries/Asian.txt"
 ALB = "countries/Eastern_European.txt"
+GER = "countries/Western_European.txt"
+FRA = "countries/Western_European.txt"
 # CountryGen-Entry

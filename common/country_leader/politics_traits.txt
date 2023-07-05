@@ -10,5 +10,6 @@ leader_traits = {
 	SUBIDEOLOGY_Marxism = {}
 	SUBIDEOLOGY_Leninism = {}
 	SUBIDEOLOGY_Hoxhaism = {}
+	SUBIDEOLOGY_Communism = {}
 	# Script-SubideologyTrait
 }

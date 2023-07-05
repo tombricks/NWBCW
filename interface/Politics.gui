@@ -285,4 +285,33 @@ guiTypes = {
 			text = "Clear"
 		}
 	}
+
+	containerWindowType = {
+		name = "use_long_names_window"
+		size = { width = 123 height = 34 }
+		position = {
+			x = -438
+			y = 20
+		}
+		origo = center
+		orientation = upper_right
+
+		buttonType = {
+			name = "use_long_names_button"
+			position = { x = 0 y = 0 }
+			quadTextureSprite = "GFX_sort_button_100x29"
+			buttonFont = "hoi_16mbs"
+			Orientation = "UPPER_LEFT"
+			text = "Long Names"
+		}
+
+		buttonType = {
+			name = "use_short_names_button"
+			position = { x = 0 y = 0 }
+			quadTextureSprite = "GFX_sort_button_100x29"
+			buttonFont = "hoi_16mbs"
+			Orientation = "UPPER_LEFT"
+			text = "Long Names"
+		}
+	}
 }

@@ -4,9 +4,16 @@ add_to_array = { global.subideology_traits = token:SUBIDEOLOGY_Socialism }
 add_to_array = { global.subideology_traits = token:SUBIDEOLOGY_Marxism }
 add_to_array = { global.subideology_traits = token:SUBIDEOLOGY_Leninism }
 add_to_array = { global.subideology_traits = token:SUBIDEOLOGY_Hoxhaism }
+add_to_array = { global.subideology_traits = token:TITLE_Communism }
 # Script-SubideologyArray
 
 add_to_array = { global.title_traits = token:TITLE_General_Secretary }
 add_to_array = { global.title_traits = token:TITLE_First_Secretary }
 add_to_array = { global.title_traits = token:TITLE_Leader }
 # Script-TitleArray
+
+set_temp_variable = { i = 0 }
+every_state = {
+	set_variable = { this.index_id = i }
+	add_to_temp_variable = { i = 1 }
+}

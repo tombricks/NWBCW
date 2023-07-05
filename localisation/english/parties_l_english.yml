@@ -55,4 +55,7 @@
  SUBIDEOLOGY_Hoxhaism: "Hoxhaism"
  SUBIDEOLOGY_Hoxhaism_ADJ: "Hoxhaist"
  SUBIDEOLOGY_Hoxhaism_desc: ""
+ SUBIDEOLOGY_Communism: "Communism"
+ SUBIDEOLOGY_Communism_ADJ: "Communist"
+ SUBIDEOLOGY_Communism_desc: ""
  # Script-SubideologyLoc

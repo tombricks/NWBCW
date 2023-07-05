@@ -2,12 +2,15 @@ tags = {
     "CHI": { "name": "China", "def": "China", "adj": "Chinese" },
     "SOV": { "name": "Soviet Union", "def": "the Soviet Union", "adj": "Soviet" },
     "ALB": { "name": "Albania", "def": "Albania", "adj": "Albanian" },
-    # CountryGen-Entry
+    "GER": { "name": "Germany", "def": "Germany", "adj": "German" },
+	"FRA": { "name": "France", "def": "France", "adj": "French" },
+	# CountryGen-Entry
 }
 templates = {
     "peoples_republic_of": { "name": "People's Republic of $$NAME$$", "def": "the People's Republic of $$DEF$$" },
     "soviet_socialist_republic": { "name": "$$ADJ$$ Soviet Socialist Republic", "def": "the $$ADJ$$ Soviet Socialist Republic" },
     "democratic_republic": { "name": "$$ADJ$$ Democratic Republic", "def": "the $$ADJ$$ Democratic Republic" },
+    "republic": { "name": "$$ADJ$$ Republic", "def": "the $$ADJ$$ Republic" },
     "peoples_socialist_republic_of": { "name": "People's Socialist Republic of $$DEF$$", "def": "the People's Socialist Republic of $$DEF$$" },
 }
 def setter(tag, template):
@@ -19,6 +22,10 @@ for template in templates:
         out += "\n base_"+tag+"_dyn_"+template+": \""+setter(tags[tag], templates[template]["name"])+"\""
         out += "\n base_"+tag+"_dyn_"+template+"_DEF: \""+setter(tags[tag], templates[template]["def"])+"\""
     out += "\n dyn_"+template+": \""+setter({"name": "NAME", "def": "DEF", "adj": "ADJ"}, templates[template]["name"])+"\""
+for tag in tags:
+    out += "\n base_"+tag+": \""+tags[tag]["name"]+"\""
+    out += "\n base_"+tag+"_DEF: \""+tags[tag]["def"]+"\""
+    out += "\n base_"+tag+"_ADJ: \""+tags[tag]["adj"]+"\""
 
 print(out)
 with open("localisation/english/countries_generated_l_english.yml", 'w', encoding='utf8') as file:

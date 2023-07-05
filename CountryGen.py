@@ -7,14 +7,29 @@ countries = {
         "def": "Germany",
         "adj": "German",
         "culture": "Western_European",
-        "color": "79 114 43"
+        "color": "79 114 43",
         "capital": 45,
         "ideology": "Pro_Soviet",
-        "country_name": "democratic_republic"
+        "country_name": "democratic_republic",
         "party": "SED",
         "party_long": "Socialist Unity Party of Germany",
         "leader": "Erich Honecker",
         "subideology": "Marxism_Leninism",
+        "title": "General_Secretary",
+    },
+    "FRA": {
+        "name": "France",
+        "def": "France",
+        "adj": "French",
+        "culture": "Western_European",
+        "color": "44 63 204",
+        "capital": 56,
+        "ideology": "Non_Aligned",
+        "country_name": "republic",
+        "party": "PCF",
+        "party_long": "French Communist Party",
+        "leader": "Pierre Juquin",
+        "subideology": "Communism",
         "title": "General_Secretary",
     }
 }
@@ -25,7 +40,7 @@ for tag in countries:
         "def": "Default Name",
         "adj": "Default Adj",
         "culture": "Western_European",
-        "color": "200 200 200"
+        "color": "200 200 200",
         "capital": 1,
         "ideology": "Non_Aligned",
         "leader": "El Generico",
@@ -39,7 +54,7 @@ for tag in countries:
     country_tags = ""
     with open("common/country_tags/00_countries.txt", 'r') as file:
         country_tags = file.read()
-    country_tags = country_tags.replace("# CountryGen-Entry", f'{tag} = "countries/{country["culture"]}.txt\n# CountryGen-Entry')
+    country_tags = country_tags.replace("# CountryGen-Entry", f'{tag} = "countries/{country["culture"]}.txt"\n# CountryGen-Entry')
     with open("common/country_tags/00_countries.txt", 'w') as file:
         file.write(country_tags)
     
@@ -60,10 +75,10 @@ for tag in countries:
 recruit_character = {country["leader_id"]}
 
 set_popularities = {{
-    {countries["ideology"]} = 100
+    {country["ideology"]} = 100
 }}
 set_politics = {{
-    ruling_party = {countries["ideology"]}
+    ruling_party = {country["ideology"]}
     last_election = "1990.1.1"
     election_frequency = 60
     elections_allowed = no
@@ -98,18 +113,22 @@ set_politics = {{
     # localisation/english/country_<TAG>_l_english.yml
     party = ""
     if "party" in country: party = f'\n\n {tag}_{country["ideology"]}_party: "{country["party"]}"\n {tag}_{country["ideology"]}_party_long: "{country["party_long"]}"'
-    localisation = f'''l_english:
+    localisation = f'''\ufeffl_english:
  {tag}: "{country["name"]}"
  {tag}_DEF: "{country["def"]}"
  {tag}_ADJ: "{country["adj"]}"{party}
 
  {country["leader_id"]}: "{country["leader"]}"'''
+    with open(f"localisation/english/country_{tag}_l_english.yml", 'w', encoding="utf8") as file:
+        file.write(localisation)
 
     # interface/Portraits.gfx
     portraits = ""
     with open("interface/Portraits.gfx", 'r') as file:
         portraits = file.read()
-    portraits = portraits.replace("# CountryGen-Entry", f'spriteType = {{\n\t\tname = "GFX_Portrait_{country["leader_id"]}_0}}\n\t\ttexturefile = "gfx/leaders/leader_unknown.dds"\n\t}}\n\t# CountryGen-Entry')
+    portraits = portraits.replace("# CountryGen-Entry", f'spriteType = {{\n\t\tname = "GFX_Portrait_{country["leader_id"]}_0"\n\t\ttexturefile = "gfx/leaders/leader_unknown.dds"\n\t}}\n\t# CountryGen-Entry')
+    with open("interface/Portraits.gfx", 'w') as file:
+        file.write(portraits)
 
     # gfx/flags/<TAG>.tga
     if not os.path.exists(f'gfx/flags/{tag}.tga'):
@@ -121,4 +140,6 @@ set_politics = {{
     nameGen = ""
     with open("NameGen.py", 'r') as file:
         nameGen = file.read()
-    nameGen = nameGen.replace("# CountryGen-Entry", f'"{tag}": {{ "name": {country["name"]}, "def": {country["def"]}, "adj": {country["adj"]} }}')
+    nameGen = nameGen.replace("# CountryGen-Entry", f'"{tag}": {{ "name": "{country["name"]}", "def": "{country["def"]}", "adj": "{country["adj"]}" }},\n\t# CountryGen-Entry')
+    with open("NameGen.py", 'w') as file:
+        file.write(nameGen)

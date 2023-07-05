@@ -1,2 +1,56 @@
 debug_decisions = {
+	subideology_targeted_decision = {
+		state_target = yes
+		on_map_mode = decision_view_only 
+		target_trigger = {
+			FROM = {
+				check_variable = { this.index_id < global.subideology_traits^num }
+			}
+		}
+		complete_effect = {
+			remove_subideology = yes
+			meta_effect = {
+				text = {
+					add_country_leader_trait = [TRAIT]
+				}
+				TRAIT = "[?global.subideology_traits^FROM.index_id.GetTokenKey]"
+			}
+		}
+	}
+	title_targeted_decision = {
+		state_target = yes
+		on_map_mode = decision_view_only 
+		target_trigger = {
+			FROM = {
+				check_variable = { this.index_id < global.title_traits^num }
+			}
+		}
+		complete_effect = {
+			remove_title = yes
+			meta_effect = {
+				text = {
+					add_country_leader_trait = [TRAIT]
+				}
+				TRAIT = "[?global.title_traits^FROM.index_id.GetTokenKey]"
+			}
+		}
+	}
+	name_targeted_decision = {
+		state_target = yes
+		on_map_mode = decision_view_only 
+		target_trigger = {
+			FROM = {
+				check_variable = { this.index_id < global.country_name_traits^num }
+			}
+		}
+		available = {
+			NOT = {
+				check_variable = { this.country_name = global.country_name_traits^FROM.index_id }
+			}
+		}
+		complete_effect = {
+			set_variable = { this.country_name = global.country_name_traits^FROM.index_id }
+			set_long_name_conditional = yes
+		}
+	}
 }

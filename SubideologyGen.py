@@ -1,5 +1,5 @@
 subideologies = [
-    [ "Hoxhaism", "Hoxhaism", "Hoxhaist" ]
+    [ "Communism", "Communism", "Communist" ]
 ]
 
 # Scripted Loc

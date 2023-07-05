@@ -11,5 +11,13 @@ spriteTypes = {
         name = "GFX_Portrait_ALB_Nexhmije_Hoxha_0"
         texturefile = "gfx/leaders/ALB_Nexhmije_Hoxha.dds"
     }
-    # CountryGen-Entry
+    spriteType = {
+		name = "GFX_Portrait_GER_Erich_Honecker_0"
+		texturefile = "gfx/leaders/leader_unknown.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_FRA_Pierre_Juquin_0"
+		texturefile = "gfx/leaders/leader_unknown.dds"
+	}
+	# CountryGen-Entry
 }

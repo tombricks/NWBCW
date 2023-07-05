@@ -1,0 +1,15 @@
+characters = {
+    FRA_Pierre_Juquin = {
+        name = FRA_Pierre_Juquin
+        portraits = {
+            civilian = {
+                large = "GFX_Portrait_FRA_Pierre_Juquin_0"
+            }
+        }
+        country_leader = {
+            ideology = Non_Aligned_type
+            traits = { TITLE_General_Secretary SUBIDEOLOGY_Communism }
+            expire = "2020.1.1"
+        }
+    }
+}

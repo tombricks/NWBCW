@@ -1,0 +1,19 @@
+capital = 45
+
+set_variable = { country_name = token:dyn_democratic_republic }
+recruit_character = GER_Erich_Honecker
+
+set_popularities = {
+    Pro_Soviet = 100
+}
+set_politics = {
+    ruling_party = Pro_Soviet
+    last_election = "1990.1.1"
+    election_frequency = 60
+    elections_allowed = no
+}
+
+GER_Erich_Honecker = {
+	set_variable = { Portrait_Code = 0 }
+	set_variable = { Portrait_Max = 0 }
+}

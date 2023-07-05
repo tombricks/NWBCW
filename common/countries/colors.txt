@@ -15,6 +15,14 @@ ALB = {
 	color = rgb { 149 45 102 }
 	color_ui = rgb { 149 45 102 }
 }
+GER = {
+	color = rgb { 79 114 43 }
+	color_ui = rgb { 79 114 43 }
+}
+FRA = {
+	color = rgb { 44 63 204 }
+	color_ui = rgb { 44 63 204 }
+}
 # CountryGen-Entry
 
 D01 = {

@@ -146,4 +146,38 @@ scripted_gui = {
 			}
 		}
 	}
+
+	use_long_names_scripted_gui = {
+		context_type = player_context
+		window_name = "use_long_names_window"
+
+		properties = {
+			use_short_names_button = {
+				frame = 2
+			}
+			use_long_names_button = {
+				frame = 0
+			}
+		}
+
+		triggers = {
+			use_short_names_button_visible = {
+				has_global_flag = use_long_names
+			}
+			use_long_names_button_visible = {
+				not = { has_global_flag = use_long_names }
+			}
+		}
+
+		effects = {
+			use_short_names_button_click = {
+				clr_global_flag = use_long_names
+				set_all_long_names = yes
+			}
+			use_long_names_button_click = {
+				set_global_flag = use_long_names
+				set_all_long_names = yes
+			}
+		}
+	}
 }

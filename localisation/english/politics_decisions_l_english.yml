@@ -1,0 +1,4 @@
+﻿l_english:
+ subideology_targeted_decision: "Adopt [?global.subideology_traits^FROM.index_id.GetTokenLocalizedKey]"
+ title_targeted_decision: "Become the [?global.title_traits^FROM.index_id.GetTokenLocalizedKey]"
+ name_targeted_decision: "Become the [?global.country_name_traits^FROM.index_id.GetTokenLocalizedKey]"

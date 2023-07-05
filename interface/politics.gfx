@@ -23,5 +23,9 @@ spriteTypes = {
 		name = "GFX_SUBIDEOLOGY_Hoxhaism"
 		texturefile = "gfx/interface/ideologies/SUBIDEOLOGY_Hoxhaism.dds"
 	}
+	spriteType = {
+		name = "GFX_SUBIDEOLOGY_Communism"
+		texturefile = "gfx/interface/ideologies/SUBIDEOLOGY_Communism.dds"
+	}
 	# Script-SubideologyGFX
 }

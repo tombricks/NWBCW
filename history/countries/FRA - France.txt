@@ -1,0 +1,19 @@
+capital = 56
+
+set_variable = { country_name = token:dyn_republic }
+recruit_character = FRA_Pierre_Juquin
+
+set_popularities = {
+    Non_Aligned = 100
+}
+set_politics = {
+    ruling_party = Non_Aligned
+    last_election = "1990.1.1"
+    election_frequency = 60
+    elections_allowed = no
+}
+
+FRA_Pierre_Juquin = {
+	set_variable = { Portrait_Code = 0 }
+	set_variable = { Portrait_Max = 0 }
+}
