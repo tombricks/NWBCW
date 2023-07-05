@@ -23,6 +23,10 @@ FRA = {
 	color = rgb { 44 63 204 }
 	color_ui = rgb { 44 63 204 }
 }
+POL = {
+	color = rgb { 214 102 139 }
+	color_ui = rgb { 214 102 139 }
+}
 # CountryGen-Entry
 
 D01 = {

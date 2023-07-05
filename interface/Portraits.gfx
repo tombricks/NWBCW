@@ -19,5 +19,9 @@ spriteTypes = {
 		name = "GFX_Portrait_FRA_Pierre_Juquin_0"
 		texturefile = "gfx/leaders/leader_unknown.dds"
 	}
+	spriteType = {
+		name = "GFX_Portrait_POL_Marian_Orzechowski_0"
+		texturefile = "gfx/leaders/leader_unknown.dds"
+	}
 	# CountryGen-Entry
 }

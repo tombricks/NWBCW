@@ -1,0 +1,21 @@
+capital = 114
+
+set_variable = { country_name = token:dyn_peoples_republic }
+recruit_character = POL_Marian_Orzechowski
+
+set_popularities = {
+    Pro_Soviet = 100
+}
+set_politics = {
+    ruling_party = Pro_Soviet
+    last_election = "1990.1.1"
+    election_frequency = 60
+    elections_allowed = no
+}
+set_variable = { subideology = token:SUBIDEOLOGY_Marxism_Leninism }
+set_variable = { title = token:TITLE_General_Secretary }
+
+POL_Marian_Orzechowski = {
+	set_variable = { Portrait_Code = 0 }
+	set_variable = { Portrait_Max = 0 }
+}

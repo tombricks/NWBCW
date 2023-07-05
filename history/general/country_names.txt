@@ -1,5 +1,6 @@
 add_to_array = { global.country_name_traits = token:dyn_peoples_republic_of }
 add_to_array = { global.country_name_traits = token:dyn_soviet_socialist_republic }
 add_to_array = { global.country_name_traits = token:dyn_democratic_republic }
+add_to_array = { global.country_name_traits = token:dyn_peoples_republic }
 add_to_array = { global.country_name_traits = token:dyn_republic }
 add_to_array = { global.country_name_traits = token:dyn_peoples_socialist_republic_of }

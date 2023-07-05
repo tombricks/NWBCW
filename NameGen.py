@@ -4,12 +4,14 @@ tags = {
     "ALB": { "name": "Albania", "def": "Albania", "adj": "Albanian" },
     "GER": { "name": "Germany", "def": "Germany", "adj": "German" },
 	"FRA": { "name": "France", "def": "France", "adj": "French" },
+	"POL": { "name": "Poland", "def": "Poland", "adj": "Polish" },
 	# CountryGen-Entry
 }
 templates = {
     "peoples_republic_of": { "name": "People's Republic of $$NAME$$", "def": "the People's Republic of $$DEF$$" },
     "soviet_socialist_republic": { "name": "$$ADJ$$ Soviet Socialist Republic", "def": "the $$ADJ$$ Soviet Socialist Republic" },
     "democratic_republic": { "name": "$$ADJ$$ Democratic Republic", "def": "the $$ADJ$$ Democratic Republic" },
+    "peoples_republic": { "name": "$$ADJ$$ People's Republic", "def": "the $$ADJ$$ People's Republic" },
     "republic": { "name": "$$ADJ$$ Republic", "def": "the $$ADJ$$ Republic" },
     "peoples_socialist_republic_of": { "name": "People's Socialist Republic of $$DEF$$", "def": "the People's Socialist Republic of $$DEF$$" },
 }

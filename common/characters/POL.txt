@@ -1,0 +1,15 @@
+characters = {
+    POL_Marian_Orzechowski = {
+        name = POL_Marian_Orzechowski
+        portraits = {
+            civilian = {
+                large = "GFX_Portrait_POL_Marian_Orzechowski_0"
+            }
+        }
+        country_leader = {
+            ideology = Pro_Soviet_type
+            traits = { }
+            expire = "2020.1.1"
+        }
+    }
+}

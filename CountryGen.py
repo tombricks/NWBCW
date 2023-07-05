@@ -2,34 +2,19 @@ import os
 import shutil
 
 countries = {
-    "GER": {
-        "name": "Germany",
-        "def": "Germany",
-        "adj": "German",
-        "culture": "Western_European",
-        "color": "79 114 43",
-        "capital": 45,
+    "POL": {
+        "name": "Poland",
+        "def": "Poland",
+        "adj": "Polish",
+        "culture": "Eastern_European",
+        "color": "214 102 139",
+        "capital": 114,
         "ideology": "Pro_Soviet",
-        "country_name": "democratic_republic",
-        "party": "SED",
-        "party_long": "Socialist Unity Party of Germany",
-        "leader": "Erich Honecker",
+        "country_name": "peoples_republic",
+        "party": "PZPR",
+        "party_long": "Polish United Workers' Party",
+        "leader": "Marian Orzechowski",
         "subideology": "Marxism_Leninism",
-        "title": "General_Secretary",
-    },
-    "FRA": {
-        "name": "France",
-        "def": "France",
-        "adj": "French",
-        "culture": "Western_European",
-        "color": "44 63 204",
-        "capital": 56,
-        "ideology": "Non_Aligned",
-        "country_name": "republic",
-        "party": "PCF",
-        "party_long": "French Communist Party",
-        "leader": "Pierre Juquin",
-        "subideology": "Communism",
         "title": "General_Secretary",
     }
 }

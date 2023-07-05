@@ -18,4 +18,4 @@ def StateSetter(states, old, new):
                     with open("history/states/"+filename, 'w', encoding='utf8') as file:
                         file.write(text)
 
-                
+StateSetter([625, 474, 113, 116, 1014, 628, 1098, 115, 112, 433, 111, 114], "owner = ZZZ", "owner = POL\n\t\tadd_core_of = POL")
